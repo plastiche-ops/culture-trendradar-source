@@ -4,6 +4,28 @@
   "windowDays": 30,
   "items": [
     {
+      "id": "seed-maweidu-huangmao-essay-2026",
+      "type": "内容性热点",
+      "domain": "文学 / 原生人文解读",
+      "title": "马未都解读“搬瓜黄毛男孩”作文为何感动众人",
+      "summary": "马未都在本人抖音发布长视频，从大众写作与情感表达角度解读网络作文；具体观点须以完整原视频为准。",
+      "url": "https://jingxuan.douyin.com/m/video/7672749876018433326",
+      "source": "马未都本人抖音",
+      "sourceTitle": "搬瓜黄毛男孩的一篇作文为何能感动众人？我们来分析分析。",
+      "sourceType": "本人原发",
+      "publishedAt": "2026-08-12T12:00:00+08:00",
+      "firstSeen": "2026-08-13T16:30:00+08:00",
+      "lastSeen": "2026-08-13T16:30:00+08:00",
+      "platforms": ["抖音"],
+      "people": ["马未都"],
+      "works": ["《搬瓜黄毛男孩的一篇作文为何能感动众人？我们来分析分析。》"],
+      "institutions": ["马未都抖音账号"],
+      "places": [],
+      "p0": true,
+      "sourceCount": 1,
+      "metrics": "平台互动未接入"
+    },
+    {
       "id": "seed-shanghai-book-fair-2026",
       "type": "事件性热点",
       "domain": "文学 / 出版",
@@ -247,7 +269,7 @@
     }
   ],
   "meta": {
-    "total": 11,
+    "total": 12,
     "platforms": ["官网", "新闻", "微信", "视频", "微博", "小红书", "电视"],
     "collector": "公开网页首批线索 + TrendRadar增量",
     "interactionMetrics": "未接入"
