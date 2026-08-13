@@ -1,6 +1,12 @@
 name: Get Hot News
 
 on:
+  push:
+    branches: [master]
+    paths:
+      - "config/**"
+      - "scripts/export_culture_feed.py"
+      - ".github/workflows/crawler.yml"
   schedule:
     # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
     # ⚠️ 试用版说明 / Trial Mode
@@ -44,7 +50,7 @@ concurrency:
   cancel-in-progress: true
 
 permissions:
-  contents: read
+  contents: write
   actions: write
 
 jobs:
@@ -56,8 +62,15 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v6
         with:
-          fetch-depth: 1
+          fetch-depth: 0
           clean: true
+
+      - name: Load previous public feed
+        continue-on-error: true
+        run: |
+          git fetch origin radar-data:refs/remotes/origin/radar-data || true
+          mkdir -p output
+          git show origin/radar-data:culture-feed.json > output/previous-culture-feed.json || true
 
       - name: Check Expiration
         env:
@@ -168,6 +181,29 @@ jobs:
           S3_REGION: ${{ secrets.S3_REGION }}
           GITHUB_ACTIONS: true
         run: uv run python -m trendradar
+
+      - name: Export culture feed
+        if: success()
+        run: |
+          uv run python scripts/export_culture_feed.py \
+            --previous output/previous-culture-feed.json \
+            --out /tmp/culture-feed.json
+
+      - name: Publish culture feed
+        if: success()
+        run: |
+          git config user.name "culture-radar-bot"
+          git config user.email "culture-radar-bot@users.noreply.github.com"
+          if git show-ref --verify --quiet refs/remotes/origin/radar-data; then
+            git switch --detach origin/radar-data
+          else
+            git switch --orphan radar-data
+            git rm -rf .
+          fi
+          cp /tmp/culture-feed.json culture-feed.json
+          git add culture-feed.json
+          git commit -m "Update culture radar feed" || exit 0
+          git push origin HEAD:radar-data
 
       # --------------------------------------------------------------------------------
       # ☁️ CLOUDFLARE PAGES DEPLOY / 部署到 Cloudflare Pages（可选）
