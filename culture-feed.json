@@ -1,8 +1,831 @@
 {
   "version": 1,
-  "generatedAt": "2026-08-13T16:22:00+08:00",
+  "generatedAt": "2026-08-17T04:11:32.822Z",
   "windowDays": 30,
   "items": [
+    {
+      "id": "20260816-maboyong-qin2",
+      "type": "事件性热点",
+      "domain": "文学 / 新书",
+      "title": "马伯庸携《秦二世必须死》亮相上海书展",
+      "summary": "马伯庸围绕历史题材新作展开公开分享，形成作家原生内容与书展事件线索。",
+      "url": "https://tidenews.com.cn/video_detail.html?id=3531772",
+      "source": "潮新闻",
+      "sourceTitle": "马伯庸携《秦二世必须死》亮相上海书展",
+      "sourceType": "媒体公开视频",
+      "publishedAt": "2026-08-16",
+      "firstSeen": "2026-08-17T04:11:32.822Z",
+      "lastSeen": "2026-08-17T04:11:32.822Z",
+      "platforms": [
+        "新闻",
+        "视频"
+      ],
+      "people": [
+        "马伯庸"
+      ],
+      "works": [
+        "《秦二世必须死》"
+      ],
+      "institutions": [
+        "上海书展"
+      ],
+      "places": [
+        "上海"
+      ],
+      "p0": false,
+      "sourceCount": 1,
+      "metrics": "平台互动未接入"
+    },
+    {
+      "id": "20260816-shanghai-bookfair-160k",
+      "type": "事件性热点",
+      "domain": "文学 / 出版",
+      "title": "上海书展周末客流约16万人次",
+      "summary": "书展客流与高密度文化活动形成出版文化事件。",
+      "url": "https://www.shobserver.com/news/detail?id=1161023",
+      "source": "上观新闻",
+      "sourceTitle": "上海书展周末客流约16万人次",
+      "sourceType": "权威媒体报道",
+      "publishedAt": "2026-08-16",
+      "firstSeen": "2026-08-17T04:11:32.822Z",
+      "lastSeen": "2026-08-17T04:11:32.822Z",
+      "platforms": [
+        "新闻"
+      ],
+      "people": [],
+      "works": [],
+      "institutions": [
+        "上海书展"
+      ],
+      "places": [
+        "上海"
+      ],
+      "p0": true,
+      "sourceCount": 1,
+      "metrics": "平台互动未接入"
+    },
+    {
+      "id": "20260816-gejianxiong",
+      "type": "内容性热点",
+      "domain": "历史 / 人文声音",
+      "title": "葛剑雄围绕《吾国吾土》谈历史地理与家国认知",
+      "summary": "上海书展公开活动形成学者人文表达线索。",
+      "url": "https://www.shobserver.com/news/detail?id=1161023",
+      "source": "上观新闻",
+      "sourceTitle": "葛剑雄围绕《吾国吾土》谈历史地理与家国认知",
+      "sourceType": "权威媒体报道",
+      "publishedAt": "2026-08-16",
+      "firstSeen": "2026-08-17T04:11:32.822Z",
+      "lastSeen": "2026-08-17T04:11:32.822Z",
+      "platforms": [
+        "新闻"
+      ],
+      "people": [
+        "葛剑雄"
+      ],
+      "works": [
+        "《吾国吾土》"
+      ],
+      "institutions": [
+        "上海书展"
+      ],
+      "places": [
+        "上海"
+      ],
+      "p0": false,
+      "sourceCount": 1,
+      "metrics": "平台互动未接入"
+    },
+    {
+      "id": "20260816-duke-sf-award",
+      "type": "事件性热点",
+      "domain": "文学 / 科幻文学奖",
+      "title": "第四届读客科幻文学奖在上海书展发布",
+      "summary": "科幻文学奖项及获奖作品进入书展热点议程。",
+      "url": "https://www.shobserver.com/sgh/detail?id=4029390",
+      "source": "上观新闻",
+      "sourceTitle": "第四届读客科幻文学奖在上海书展发布",
+      "sourceType": "权威媒体报道",
+      "publishedAt": "2026-08-16",
+      "firstSeen": "2026-08-17T04:11:32.822Z",
+      "lastSeen": "2026-08-17T04:11:32.822Z",
+      "platforms": [
+        "新闻"
+      ],
+      "people": [],
+      "works": [],
+      "institutions": [
+        "读客文化",
+        "上海书展"
+      ],
+      "places": [
+        "上海"
+      ],
+      "p0": false,
+      "sourceCount": 1,
+      "metrics": "平台互动未接入"
+    },
+    {
+      "id": "20260816-wangjibing-shanghai",
+      "type": "内容性热点",
+      "domain": "文学 / 劳动者写作",
+      "title": "王计兵在上海书展分享“外卖诗人”的写作与生活",
+      "summary": "王计兵获鲁迅文学奖后的公开表达继续引发劳动者写作关注。",
+      "url": "https://www.chinawriter.com.cn/n1/2026/0816/c403994-40780330.html",
+      "source": "中国作家网",
+      "sourceTitle": "王计兵在上海书展分享“外卖诗人”的写作与生活",
+      "sourceType": "文学垂直网站",
+      "publishedAt": "2026-08-16",
+      "firstSeen": "2026-08-17T04:11:32.822Z",
+      "lastSeen": "2026-08-17T04:11:32.822Z",
+      "platforms": [
+        "官网",
+        "新闻"
+      ],
+      "people": [
+        "王计兵"
+      ],
+      "works": [
+        "《低处飞行》"
+      ],
+      "institutions": [
+        "中国作家网",
+        "上海书展"
+      ],
+      "places": [
+        "上海"
+      ],
+      "p0": true,
+      "sourceCount": 1,
+      "metrics": "平台互动未接入"
+    },
+    {
+      "id": "20260816-forensic-qinming",
+      "type": "事件性热点",
+      "domain": "文学 / 类型文学",
+      "title": "法医秦明在上海书展展开类型文学交流",
+      "summary": "围绕法医题材写作、知识传播和读者互动形成热点线索。",
+      "url": "https://www.shobserver.cn/news/detail?id=1159474",
+      "source": "上观新闻",
+      "sourceTitle": "法医秦明在上海书展展开类型文学交流",
+      "sourceType": "权威媒体报道",
+      "publishedAt": "2026-08-16",
+      "firstSeen": "2026-08-17T04:11:32.822Z",
+      "lastSeen": "2026-08-17T04:11:32.822Z",
+      "platforms": [
+        "新闻"
+      ],
+      "people": [
+        "法医秦明"
+      ],
+      "works": [],
+      "institutions": [
+        "上海书展"
+      ],
+      "places": [
+        "上海"
+      ],
+      "p0": false,
+      "sourceCount": 1,
+      "metrics": "平台互动未接入"
+    },
+    {
+      "id": "20260816-sichuan-good-people",
+      "type": "事件性热点",
+      "domain": "文学 / 新书",
+      "title": "《四川好人》相关新书活动进入文学媒体报道",
+      "summary": "作品围绕地方经验与普通人叙事展开讨论。",
+      "url": "https://www.chinawriter.com.cn/n1/2026/0816/c404030-40780347.html",
+      "source": "中国作家网",
+      "sourceTitle": "《四川好人》相关新书活动进入文学媒体报道",
+      "sourceType": "文学垂直网站",
+      "publishedAt": "2026-08-16",
+      "firstSeen": "2026-08-17T04:11:32.822Z",
+      "lastSeen": "2026-08-17T04:11:32.822Z",
+      "platforms": [
+        "官网",
+        "新闻"
+      ],
+      "people": [],
+      "works": [
+        "《四川好人》"
+      ],
+      "institutions": [
+        "中国作家网"
+      ],
+      "places": [
+        "四川"
+      ],
+      "p0": false,
+      "sourceCount": 1,
+      "metrics": "平台互动未接入"
+    },
+    {
+      "id": "20260816-tarim-literature",
+      "type": "内容性热点",
+      "domain": "文学 / 地域文学",
+      "title": "塔里木文学的地域书写与传播受到关注",
+      "summary": "中国作家网公开内容呈现新疆地域文学与当代书写。",
+      "url": "https://www.chinawriter.com.cn/n1/2026/0816/c404030-40780350.html",
+      "source": "中国作家网",
+      "sourceTitle": "塔里木文学的地域书写与传播受到关注",
+      "sourceType": "文学垂直网站",
+      "publishedAt": "2026-08-16",
+      "firstSeen": "2026-08-17T04:11:32.822Z",
+      "lastSeen": "2026-08-17T04:11:32.822Z",
+      "platforms": [
+        "官网",
+        "新闻"
+      ],
+      "people": [],
+      "works": [],
+      "institutions": [
+        "中国作家网"
+      ],
+      "places": [
+        "新疆塔里木"
+      ],
+      "p0": false,
+      "sourceCount": 1,
+      "metrics": "平台互动未接入"
+    },
+    {
+      "id": "20260816-book-blindbox",
+      "type": "日常性热点",
+      "domain": "文学 / 阅读消费",
+      "title": "图书盲盒成为书展阅读消费新样本",
+      "summary": "中国作家网报道书展中的图书盲盒与读者互动。",
+      "url": "https://www.chinawriter.com.cn/n1/2026/0816/c403994-40780336.html",
+      "source": "中国作家网",
+      "sourceTitle": "图书盲盒成为书展阅读消费新样本",
+      "sourceType": "文学垂直网站",
+      "publishedAt": "2026-08-16",
+      "firstSeen": "2026-08-17T04:11:32.822Z",
+      "lastSeen": "2026-08-17T04:11:32.822Z",
+      "platforms": [
+        "官网",
+        "新闻"
+      ],
+      "people": [],
+      "works": [],
+      "institutions": [
+        "上海书展"
+      ],
+      "places": [
+        "上海"
+      ],
+      "p0": false,
+      "sourceCount": 1,
+      "metrics": "平台互动未接入"
+    },
+    {
+      "id": "20260816-physical-bookstores",
+      "type": "内容性热点",
+      "domain": "文学 / 实体书店",
+      "title": "实体书店如何连接城市文化生活再受讨论",
+      "summary": "中国作家网公开报道聚焦书店空间、阅读社群与城市文化。",
+      "url": "https://www.chinawriter.com.cn/n1/2026/0816/c403994-40780333.html",
+      "source": "中国作家网",
+      "sourceTitle": "实体书店如何连接城市文化生活再受讨论",
+      "sourceType": "文学垂直网站",
+      "publishedAt": "2026-08-16",
+      "firstSeen": "2026-08-17T04:11:32.822Z",
+      "lastSeen": "2026-08-17T04:11:32.822Z",
+      "platforms": [
+        "官网",
+        "新闻"
+      ],
+      "people": [],
+      "works": [],
+      "institutions": [
+        "中国作家网"
+      ],
+      "places": [],
+      "p0": false,
+      "sourceCount": 1,
+      "metrics": "平台互动未接入"
+    },
+    {
+      "id": "20260815-moyan-renna",
+      "type": "事件性热点",
+      "domain": "文学 / 作家活动",
+      "title": "莫言《人呐》上海书展活动吸引约两万人报名",
+      "summary": "莫言围绕新作及写作展开公开交流，形成高关注度作家活动。",
+      "url": "https://finance.sina.com.cn/wm/2026-08-15/doc-ininmhuh1672142.shtml",
+      "source": "新浪财经转述",
+      "sourceTitle": "莫言《人呐》上海书展活动吸引约两万人报名",
+      "sourceType": "媒体公开转述",
+      "publishedAt": "2026-08-15",
+      "firstSeen": "2026-08-17T04:11:32.822Z",
+      "lastSeen": "2026-08-17T04:11:32.822Z",
+      "platforms": [
+        "新闻",
+        "微信"
+      ],
+      "people": [
+        "莫言"
+      ],
+      "works": [
+        "《人呐》"
+      ],
+      "institutions": [
+        "上海书展"
+      ],
+      "places": [
+        "上海"
+      ],
+      "p0": true,
+      "sourceCount": 1,
+      "metrics": "平台互动未接入"
+    },
+    {
+      "id": "20260815-lijingze-pokong",
+      "type": "事件性热点",
+      "domain": "文学 / 新书",
+      "title": "李敬泽新作《破空》亮相上海书展",
+      "summary": "李敬泽围绕新作与文学阅读展开公开分享。",
+      "url": "https://tidenews.com.cn/live.html?id=3529919&isVertical=0&native=1",
+      "source": "潮新闻",
+      "sourceTitle": "李敬泽新作《破空》亮相上海书展",
+      "sourceType": "媒体公开报道",
+      "publishedAt": "2026-08-15",
+      "firstSeen": "2026-08-17T04:11:32.822Z",
+      "lastSeen": "2026-08-17T04:11:32.822Z",
+      "platforms": [
+        "新闻",
+        "视频"
+      ],
+      "people": [
+        "李敬泽"
+      ],
+      "works": [
+        "《破空》"
+      ],
+      "institutions": [
+        "上海书展"
+      ],
+      "places": [
+        "上海"
+      ],
+      "p0": false,
+      "sourceCount": 1,
+      "metrics": "平台互动未接入"
+    },
+    {
+      "id": "20260815-wangyao-paper-life",
+      "type": "事件性热点",
+      "domain": "文学 / 新书",
+      "title": "王尧《纸上的生活》进入新书讨论",
+      "summary": "作家王尧的新作及其关于文学生活的表达形成内容线索。",
+      "url": "https://znyd.rednet.cn/content/646042/54/16162547.html",
+      "source": "红网",
+      "sourceTitle": "王尧《纸上的生活》进入新书讨论",
+      "sourceType": "媒体公开报道",
+      "publishedAt": "2026-08-15",
+      "firstSeen": "2026-08-17T04:11:32.822Z",
+      "lastSeen": "2026-08-17T04:11:32.822Z",
+      "platforms": [
+        "新闻"
+      ],
+      "people": [
+        "王尧"
+      ],
+      "works": [
+        "《纸上的生活》"
+      ],
+      "institutions": [],
+      "places": [],
+      "p0": false,
+      "sourceCount": 1,
+      "metrics": "平台互动未接入"
+    },
+    {
+      "id": "20260815-tibetan-opera",
+      "type": "日常性热点",
+      "domain": "非遗 / 戏曲",
+      "title": "藏戏展演呈现雪域传统戏剧活力",
+      "summary": "新华社图片报道记录藏戏表演与传统文化传播现场。",
+      "url": "https://www.news.cn/photo/20260815/e037e34de3f64b2ab32a5df1263a5ca6/c.html",
+      "source": "新华社",
+      "sourceTitle": "藏戏展演呈现雪域传统戏剧活力",
+      "sourceType": "权威媒体报道",
+      "publishedAt": "2026-08-15",
+      "firstSeen": "2026-08-17T04:11:32.822Z",
+      "lastSeen": "2026-08-17T04:11:32.822Z",
+      "platforms": [
+        "新闻",
+        "图片"
+      ],
+      "people": [],
+      "works": [
+        "藏戏"
+      ],
+      "institutions": [],
+      "places": [
+        "西藏"
+      ],
+      "p0": false,
+      "sourceCount": 1,
+      "metrics": "平台互动未接入"
+    },
+    {
+      "id": "20260815-qixi-datiehua",
+      "type": "日常性热点",
+      "domain": "非遗 / 节俗",
+      "title": "七夕民俗活动中的打铁花受到关注",
+      "summary": "新华社图片报道记录节庆场景中的传统技艺展示。",
+      "url": "https://www.news.cn/photo/20260815/232c261ebdd94686a33e93d4e7af99f9/c.html",
+      "source": "新华社",
+      "sourceTitle": "七夕民俗活动中的打铁花受到关注",
+      "sourceType": "权威媒体报道",
+      "publishedAt": "2026-08-15",
+      "firstSeen": "2026-08-17T04:11:32.822Z",
+      "lastSeen": "2026-08-17T04:11:32.822Z",
+      "platforms": [
+        "新闻",
+        "图片",
+        "视频"
+      ],
+      "people": [],
+      "works": [
+        "打铁花"
+      ],
+      "institutions": [],
+      "places": [],
+      "p0": false,
+      "sourceCount": 1,
+      "metrics": "平台互动未接入"
+    },
+    {
+      "id": "20260815-bookfair-crutch",
+      "type": "内容性热点",
+      "domain": "文学 / 阅读生活",
+      "title": "读者拄拐杖逛上海书展引发关于阅读热情的讨论",
+      "summary": "书展现场人物故事成为日常阅读文化的传播样本。",
+      "url": "https://m.thepaper.cn/newsDetail_forward_33785088",
+      "source": "澎湃新闻",
+      "sourceTitle": "读者拄拐杖逛上海书展引发关于阅读热情的讨论",
+      "sourceType": "媒体公开报道",
+      "publishedAt": "2026-08-15",
+      "firstSeen": "2026-08-17T04:11:32.822Z",
+      "lastSeen": "2026-08-17T04:11:32.822Z",
+      "platforms": [
+        "新闻"
+      ],
+      "people": [],
+      "works": [],
+      "institutions": [
+        "上海书展"
+      ],
+      "places": [
+        "上海"
+      ],
+      "p0": false,
+      "sourceCount": 1,
+      "metrics": "平台互动未接入"
+    },
+    {
+      "id": "20260815-li-du-coffee",
+      "type": "内容性热点",
+      "domain": "文学 / 文创",
+      "title": "“李杜咖啡”等文学文创亮相书展",
+      "summary": "文学人物与消费场景结合，成为经典文化年轻化传播样本。",
+      "url": "https://sh.news.cn/20260815/d9576b74a73047e5b36e1ac5e764d408/c.html",
+      "source": "新华网上海频道",
+      "sourceTitle": "“李杜咖啡”等文学文创亮相书展",
+      "sourceType": "权威媒体报道",
+      "publishedAt": "2026-08-15",
+      "firstSeen": "2026-08-17T04:11:32.822Z",
+      "lastSeen": "2026-08-17T04:11:32.822Z",
+      "platforms": [
+        "新闻"
+      ],
+      "people": [
+        "李白",
+        "杜甫"
+      ],
+      "works": [],
+      "institutions": [
+        "上海书展"
+      ],
+      "places": [
+        "上海"
+      ],
+      "p0": false,
+      "sourceCount": 1,
+      "metrics": "平台互动未接入"
+    },
+    {
+      "id": "20260815-hubei-museum-study",
+      "type": "日常性热点",
+      "domain": "文化遗产 / 研学",
+      "title": "湖北文博研学活动持续升温",
+      "summary": "新华网图片报道呈现博物馆教育与青少年文化体验。",
+      "url": "https://www.news.cn/photo/20260815/9556e78d36ca413294d299cdfb3e31a2/c.html",
+      "source": "新华社",
+      "sourceTitle": "湖北文博研学活动持续升温",
+      "sourceType": "权威媒体报道",
+      "publishedAt": "2026-08-15",
+      "firstSeen": "2026-08-17T04:11:32.822Z",
+      "lastSeen": "2026-08-17T04:11:32.822Z",
+      "platforms": [
+        "新闻",
+        "图片"
+      ],
+      "people": [],
+      "works": [],
+      "institutions": [],
+      "places": [
+        "湖北"
+      ],
+      "p0": false,
+      "sourceCount": 1,
+      "metrics": "平台互动未接入"
+    },
+    {
+      "id": "20260814-quanyongxian-secret",
+      "type": "事件性热点",
+      "domain": "文学 / 新书",
+      "title": "全勇先携长篇小说《秘密》亮相上海书展",
+      "summary": "围绕作家全勇先新作《秘密》的公开活动与作品讨论进入书展报道。",
+      "url": "https://m.thepaper.cn/newsDetail_forward_33779447?from=sohu",
+      "source": "澎湃新闻",
+      "sourceTitle": "全勇先携长篇小说《秘密》亮相上海书展",
+      "sourceType": "媒体公开报道",
+      "publishedAt": "2026-08-14",
+      "firstSeen": "2026-08-17T04:11:32.822Z",
+      "lastSeen": "2026-08-17T04:11:32.822Z",
+      "platforms": [
+        "新闻"
+      ],
+      "people": [
+        "全勇先"
+      ],
+      "works": [
+        "《秘密》"
+      ],
+      "institutions": [
+        "上海书展"
+      ],
+      "places": [
+        "上海"
+      ],
+      "p0": false,
+      "sourceCount": 1,
+      "metrics": "平台互动未接入"
+    },
+    {
+      "id": "20260814-zhanqingyun-vincent",
+      "type": "事件性热点",
+      "domain": "文学 / 公共讨论",
+      "title": "詹青云、温森特上海书展活动吸引逾20万人报名",
+      "summary": "围绕人文公众人物的现场活动形成高关注度报名与传播线索。",
+      "url": "https://m.thepaper.cn/newsDetail_forward_33783597?from=sohu",
+      "source": "澎湃新闻",
+      "sourceTitle": "詹青云、温森特上海书展活动吸引逾20万人报名",
+      "sourceType": "媒体公开报道",
+      "publishedAt": "2026-08-14",
+      "firstSeen": "2026-08-17T04:11:32.822Z",
+      "lastSeen": "2026-08-17T04:11:32.822Z",
+      "platforms": [
+        "新闻"
+      ],
+      "people": [
+        "詹青云",
+        "温森特"
+      ],
+      "works": [],
+      "institutions": [
+        "上海书展"
+      ],
+      "places": [
+        "上海"
+      ],
+      "p0": false,
+      "sourceCount": 1,
+      "metrics": "平台互动未接入"
+    },
+    {
+      "id": "20260814-avignon-ich",
+      "type": "事件性热点",
+      "domain": "非遗 / 国际传播",
+      "title": "中国三台非遗剧目亮相法国阿维尼翁",
+      "summary": "中国非遗舞台作品在阿维尼翁集中亮相，形成传统文化国际传播事件。",
+      "url": "https://www.news.cn/culture/20260814/c5407190bc604cb8bf42adaead12da80/c.html",
+      "source": "新华社",
+      "sourceTitle": "中国三台非遗剧目亮相法国阿维尼翁",
+      "sourceType": "权威媒体报道",
+      "publishedAt": "2026-08-14",
+      "firstSeen": "2026-08-17T04:11:32.822Z",
+      "lastSeen": "2026-08-17T04:11:32.822Z",
+      "platforms": [
+        "新闻"
+      ],
+      "people": [],
+      "works": [],
+      "institutions": [
+        "阿维尼翁艺术节"
+      ],
+      "places": [
+        "法国阿维尼翁"
+      ],
+      "p0": false,
+      "sourceCount": 1,
+      "metrics": "平台互动未接入"
+    },
+    {
+      "id": "20260814-dunhuang-series",
+      "type": "事件性热点",
+      "domain": "文学 / 敦煌学",
+      "title": "敦煌学研究丛书在上海书展集中发布",
+      "summary": "敦煌文化研究与出版成果成为书展学术出版线索。",
+      "url": "https://m.thepaper.cn/newsDetail_forward_33776485?from=sohu",
+      "source": "澎湃新闻",
+      "sourceTitle": "敦煌学研究丛书在上海书展集中发布",
+      "sourceType": "媒体公开报道",
+      "publishedAt": "2026-08-14",
+      "firstSeen": "2026-08-17T04:11:32.822Z",
+      "lastSeen": "2026-08-17T04:11:32.822Z",
+      "platforms": [
+        "新闻"
+      ],
+      "people": [],
+      "works": [
+        "敦煌学研究丛书"
+      ],
+      "institutions": [
+        "上海书展"
+      ],
+      "places": [
+        "上海",
+        "敦煌"
+      ],
+      "p0": false,
+      "sourceCount": 1,
+      "metrics": "平台互动未接入"
+    },
+    {
+      "id": "20260814-sea-relics",
+      "type": "事件性热点",
+      "domain": "文化遗产 / 展览",
+      "title": "“海上遗珍”相关展览进入公众文化视野",
+      "summary": "相关公开报道呈现海洋文化遗产与博物馆叙事。",
+      "url": "https://www.thepaper.cn/newsDetail_forward_33785377",
+      "source": "澎湃新闻",
+      "sourceTitle": "“海上遗珍”相关展览进入公众文化视野",
+      "sourceType": "媒体公开报道",
+      "publishedAt": "2026-08-14",
+      "firstSeen": "2026-08-17T04:11:32.822Z",
+      "lastSeen": "2026-08-17T04:11:32.822Z",
+      "platforms": [
+        "新闻"
+      ],
+      "people": [],
+      "works": [
+        "海上遗珍"
+      ],
+      "institutions": [],
+      "places": [
+        "上海"
+      ],
+      "p0": false,
+      "sourceCount": 1,
+      "metrics": "平台互动未接入"
+    },
+    {
+      "id": "20260814-amateur-writing",
+      "type": "内容性热点",
+      "domain": "文学 / 大众写作",
+      "title": "“素人写作”成为文学现场的持续议题",
+      "summary": "中国作家网讨论普通劳动者与非职业作者写作的公共意义。",
+      "url": "https://www.chinawriter.com.cn/n1/2026/0814/c404033-40779535.html",
+      "source": "中国作家网",
+      "sourceTitle": "“素人写作”成为文学现场的持续议题",
+      "sourceType": "文学垂直网站",
+      "publishedAt": "2026-08-14",
+      "firstSeen": "2026-08-17T04:11:32.822Z",
+      "lastSeen": "2026-08-17T04:11:32.822Z",
+      "platforms": [
+        "官网",
+        "新闻"
+      ],
+      "people": [],
+      "works": [],
+      "institutions": [
+        "中国作家网"
+      ],
+      "places": [],
+      "p0": false,
+      "sourceCount": 1,
+      "metrics": "平台互动未接入"
+    },
+    {
+      "id": "20260814-new-popular-arts",
+      "type": "内容性热点",
+      "domain": "文学 / 新大众文艺",
+      "title": "“新大众文艺”如何连接日常经验引发讨论",
+      "summary": "光明网公开文章讨论大众文化生产与人民生活经验之间的关系。",
+      "url": "https://wenyi.gmw.cn/2026-08/14/content_38943691.htm",
+      "source": "光明网文艺评论频道",
+      "sourceTitle": "“新大众文艺”如何连接日常经验引发讨论",
+      "sourceType": "权威媒体评论",
+      "publishedAt": "2026-08-14",
+      "firstSeen": "2026-08-17T04:11:32.822Z",
+      "lastSeen": "2026-08-17T04:11:32.822Z",
+      "platforms": [
+        "新闻"
+      ],
+      "people": [],
+      "works": [],
+      "institutions": [
+        "光明网"
+      ],
+      "places": [],
+      "p0": false,
+      "sourceCount": 1,
+      "metrics": "平台互动未接入"
+    },
+    {
+      "id": "20260814-huangtianji",
+      "type": "内容性热点",
+      "domain": "文学 / 古典文学",
+      "title": "黄天骥谈中国古典文学的当代表达",
+      "summary": "围绕古典文学研究与公共传播的人文声音进入文化媒体视野。",
+      "url": "https://www.chinawriter.com.cn/n1/2026/0814/c404030-40779772.html",
+      "source": "中国作家网",
+      "sourceTitle": "黄天骥谈中国古典文学的当代表达",
+      "sourceType": "文学垂直网站",
+      "publishedAt": "2026-08-14",
+      "firstSeen": "2026-08-17T04:11:32.822Z",
+      "lastSeen": "2026-08-17T04:11:32.822Z",
+      "platforms": [
+        "官网",
+        "新闻"
+      ],
+      "people": [
+        "黄天骥"
+      ],
+      "works": [],
+      "institutions": [
+        "中国作家网"
+      ],
+      "places": [],
+      "p0": false,
+      "sourceCount": 1,
+      "metrics": "平台互动未接入"
+    },
+    {
+      "id": "20260814-jules-verne",
+      "type": "内容性热点",
+      "domain": "文学 / 世界文学",
+      "title": "凡尔纳作品的当代阅读价值再受关注",
+      "summary": "公开评论从科学想象与文学经典角度重新讨论凡尔纳。",
+      "url": "https://wenyi.gmw.cn/2026-08/14/content_38944825.htm",
+      "source": "光明网文艺评论频道",
+      "sourceTitle": "凡尔纳作品的当代阅读价值再受关注",
+      "sourceType": "权威媒体评论",
+      "publishedAt": "2026-08-14",
+      "firstSeen": "2026-08-17T04:11:32.822Z",
+      "lastSeen": "2026-08-17T04:11:32.822Z",
+      "platforms": [
+        "新闻"
+      ],
+      "people": [
+        "儒勒·凡尔纳"
+      ],
+      "works": [],
+      "institutions": [
+        "光明网"
+      ],
+      "places": [],
+      "p0": false,
+      "sourceCount": 1,
+      "metrics": "平台互动未接入"
+    },
+    {
+      "id": "20260814-cultural-export",
+      "type": "日常性热点",
+      "domain": "非遗 / 文化出海",
+      "title": "地方文化与非遗项目探索新的国际传播路径",
+      "summary": "新华网公开报道呈现地方文化资源面向海外传播的实践样本。",
+      "url": "https://www.news.cn/book/20260814/882f1db7eba04ad08887d38062b199d0/c.html",
+      "source": "新华网",
+      "sourceTitle": "地方文化与非遗项目探索新的国际传播路径",
+      "sourceType": "权威媒体报道",
+      "publishedAt": "2026-08-14",
+      "firstSeen": "2026-08-17T04:11:32.822Z",
+      "lastSeen": "2026-08-17T04:11:32.822Z",
+      "platforms": [
+        "新闻"
+      ],
+      "people": [],
+      "works": [],
+      "institutions": [],
+      "places": [],
+      "p0": false,
+      "sourceCount": 1,
+      "metrics": "平台互动未接入"
+    },
     {
       "id": "seed-maweidu-huangmao-essay-2026",
       "type": "内容性热点",
@@ -16,35 +839,54 @@
       "publishedAt": "2026-08-12T12:00:00+08:00",
       "firstSeen": "2026-08-13T16:30:00+08:00",
       "lastSeen": "2026-08-13T16:30:00+08:00",
-      "platforms": ["抖音"],
-      "people": ["马未都"],
-      "works": ["《搬瓜黄毛男孩的一篇作文为何能感动众人？我们来分析分析。》"],
-      "institutions": ["马未都抖音账号"],
+      "platforms": [
+        "抖音"
+      ],
+      "people": [
+        "马未都"
+      ],
+      "works": [
+        "《搬瓜黄毛男孩的一篇作文为何能感动众人？我们来分析分析。》"
+      ],
+      "institutions": [
+        "马未都抖音账号"
+      ],
       "places": [],
       "p0": true,
       "sourceCount": 1,
       "metrics": "平台互动未接入"
     },
     {
-      "id": "seed-shanghai-book-fair-2026",
+      "id": "seed-baoshan-cloisonne-2026",
       "type": "事件性热点",
-      "domain": "文学 / 出版",
-      "title": "2026上海书展8月12日开幕，约380家出版机构参展",
-      "summary": "本届书展采用上海展览中心、上海书城双主场，并联动全市16区分会场；莫言、迟子建、王计兵等进入嘉宾名单。",
-      "url": "https://www.shanghai.gov.cn/nw15343/20260722/b594dd499fa44216b82dc0988d1be20f.html",
+      "domain": "非遗 / 公共文化",
+      "title": "上海宝山非遗手工坊开放掐丝珐琅体验报名",
+      "summary": "宝山区以每月一场的方式推出非遗展示与手作体验，本期掐丝珐琅活动定于8月14日举行。",
+      "url": "https://www.shanghai.gov.cn/nw17239/20260728/50628b9c9a394609b634ae3bf8a1c3c5.html",
       "source": "上海市人民政府",
-      "sourceTitle": "2026上海书展8月12日开幕，浦东分会场邀你“悦读山海，知遇浦东”",
+      "sourceTitle": "宝山“宝韵”非遗手工坊：匠心・掐丝珐琅体验技艺活动，开始报名啦！",
       "sourceType": "政府公开页面",
-      "publishedAt": "2026-07-21T12:00:00+08:00",
+      "publishedAt": "2026-07-28T12:00:00+08:00",
       "firstSeen": "2026-08-13T16:22:00+08:00",
       "lastSeen": "2026-08-13T16:22:00+08:00",
-      "platforms": ["官网", "新闻", "微博", "小红书"],
-      "people": ["莫言", "迟子建", "王计兵"],
-      "works": [],
-      "institutions": ["上海书展", "上海市新闻出版局"],
-      "places": ["上海"],
-      "p0": true,
-      "sourceCount": 5,
+      "platforms": [
+        "官网",
+        "微信"
+      ],
+      "people": [],
+      "works": [
+        "掐丝珐琅制作技艺"
+      ],
+      "institutions": [
+        "宝山区文明办",
+        "宝山区文旅局",
+        "宝山区图书馆"
+      ],
+      "places": [
+        "上海宝山"
+      ],
+      "p0": false,
+      "sourceCount": 1,
       "metrics": "平台互动未接入"
     },
     {
@@ -60,11 +902,22 @@
       "publishedAt": "2026-07-27T10:07:00+08:00",
       "firstSeen": "2026-08-13T16:22:00+08:00",
       "lastSeen": "2026-08-13T16:22:00+08:00",
-      "platforms": ["新闻", "微信"],
-      "people": ["莫言", "珍妮特·温特森", "利迪娅·若热"],
+      "platforms": [
+        "新闻",
+        "微信"
+      ],
+      "people": [
+        "莫言",
+        "珍妮特·温特森",
+        "利迪娅·若热"
+      ],
       "works": [],
-      "institutions": ["上海国际文学周"],
-      "places": ["上海"],
+      "institutions": [
+        "上海国际文学周"
+      ],
+      "places": [
+        "上海"
+      ],
       "p0": true,
       "sourceCount": 2,
       "metrics": "平台互动未接入"
@@ -82,35 +935,90 @@
       "publishedAt": "2026-07-27T10:07:00+08:00",
       "firstSeen": "2026-08-13T16:22:00+08:00",
       "lastSeen": "2026-08-13T16:22:00+08:00",
-      "platforms": ["新闻", "微信"],
+      "platforms": [
+        "新闻",
+        "微信"
+      ],
       "people": [],
-      "works": ["景德镇手工瓷业遗存"],
-      "institutions": ["联合国教科文组织"],
-      "places": ["景德镇"],
+      "works": [
+        "景德镇手工瓷业遗存"
+      ],
+      "institutions": [
+        "联合国教科文组织"
+      ],
+      "places": [
+        "景德镇"
+      ],
       "p0": true,
       "sourceCount": 1,
       "metrics": "平台互动未接入"
     },
     {
-      "id": "seed-wang-jibing-luxun-prize-2026",
+      "id": "seed-shanghai-book-fair-2026",
       "type": "事件性热点",
-      "domain": "文学 / 文学奖",
-      "title": "王计兵《低处飞行》获第九届鲁迅文学奖诗歌奖",
-      "summary": "“外卖诗人”王计兵成为首位获得这一国家级文学大奖的外卖骑手，并在采访中回应获奖后仍会继续送外卖和写作。",
-      "url": "https://m.jstv.com/news/2026/7/15/1527035643711221760.html",
-      "source": "荔枝新闻",
-      "sourceTitle": "江苏4部作品获得第九届鲁迅文学奖 “外卖诗人”王计兵摘得国家级文学大奖",
-      "sourceType": "媒体公开报道",
-      "publishedAt": "2026-07-15T19:32:00+08:00",
+      "domain": "文学 / 出版",
+      "title": "2026上海书展8月12日开幕，约380家出版机构参展",
+      "summary": "本届书展采用上海展览中心、上海书城双主场，并联动全市16区分会场；莫言、迟子建、王计兵等进入嘉宾名单。",
+      "url": "https://www.shanghai.gov.cn/nw15343/20260722/b594dd499fa44216b82dc0988d1be20f.html",
+      "source": "上海市人民政府",
+      "sourceTitle": "2026上海书展8月12日开幕，浦东分会场邀你“悦读山海，知遇浦东”",
+      "sourceType": "政府公开页面",
+      "publishedAt": "2026-07-21T12:00:00+08:00",
       "firstSeen": "2026-08-13T16:22:00+08:00",
       "lastSeen": "2026-08-13T16:22:00+08:00",
-      "platforms": ["新闻", "视频"],
-      "people": ["王计兵"],
-      "works": ["《低处飞行》"],
-      "institutions": ["中国作家协会", "鲁迅文学奖"],
-      "places": ["江苏"],
+      "platforms": [
+        "官网",
+        "新闻",
+        "微博",
+        "小红书"
+      ],
+      "people": [
+        "莫言",
+        "迟子建",
+        "王计兵"
+      ],
+      "works": [],
+      "institutions": [
+        "上海书展",
+        "上海市新闻出版局"
+      ],
+      "places": [
+        "上海"
+      ],
       "p0": true,
-      "sourceCount": 3,
+      "sourceCount": 5,
+      "metrics": "平台互动未接入"
+    },
+    {
+      "id": "seed-xinjiang-ich-aid-2026",
+      "type": "事件性热点",
+      "domain": "非遗 / 区域文化",
+      "title": "2026“新疆是个好地方”非遗援疆主题展示汇聚31省区市",
+      "summary": "活动于7月30日至8月3日在石河子举行，设置主题展览、特色活动和非遗工坊资源对接。",
+      "url": "https://www.xjbt.gov.cn/c/2026-07-20/8494398.shtml",
+      "source": "新疆生产建设兵团",
+      "sourceTitle": "2026“新疆是个好地方”非遗援疆主题展示活动将在八师石河子市举行",
+      "sourceType": "政府公开页面",
+      "publishedAt": "2026-07-20T12:00:00+08:00",
+      "firstSeen": "2026-08-13T16:22:00+08:00",
+      "lastSeen": "2026-08-13T16:22:00+08:00",
+      "platforms": [
+        "官网",
+        "新闻"
+      ],
+      "people": [],
+      "works": [],
+      "institutions": [
+        "文化和旅游部",
+        "新疆维吾尔自治区人民政府",
+        "新疆生产建设兵团"
+      ],
+      "places": [
+        "石河子",
+        "新疆"
+      ],
+      "p0": false,
+      "sourceCount": 2,
       "metrics": "平台互动未接入"
     },
     {
@@ -126,10 +1034,22 @@
       "publishedAt": "2026-07-16T12:00:00+08:00",
       "firstSeen": "2026-08-13T16:22:00+08:00",
       "lastSeen": "2026-08-13T16:22:00+08:00",
-      "platforms": ["官网", "新闻"],
-      "people": ["王计兵", "梁鸿"],
-      "works": ["《低处飞行》", "《要有光》"],
-      "institutions": ["中国作家网", "鲁迅文学奖"],
+      "platforms": [
+        "官网",
+        "新闻"
+      ],
+      "people": [
+        "王计兵",
+        "梁鸿"
+      ],
+      "works": [
+        "《低处飞行》",
+        "《要有光》"
+      ],
+      "institutions": [
+        "中国作家网",
+        "鲁迅文学奖"
+      ],
       "places": [],
       "p0": true,
       "sourceCount": 1,
@@ -148,11 +1068,24 @@
       "publishedAt": "2026-07-16T08:55:00+08:00",
       "firstSeen": "2026-08-13T16:22:00+08:00",
       "lastSeen": "2026-08-13T16:22:00+08:00",
-      "platforms": ["官网", "新闻"],
-      "people": ["罗伟章"],
-      "works": ["《屋檐》"],
-      "institutions": ["中国作家网", "鲁迅文学奖"],
-      "places": ["四川", "上海"],
+      "platforms": [
+        "官网",
+        "新闻"
+      ],
+      "people": [
+        "罗伟章"
+      ],
+      "works": [
+        "《屋檐》"
+      ],
+      "institutions": [
+        "中国作家网",
+        "鲁迅文学奖"
+      ],
+      "places": [
+        "四川",
+        "上海"
+      ],
       "p0": true,
       "sourceCount": 1,
       "metrics": "平台互动未接入"
@@ -170,57 +1103,53 @@
       "publishedAt": "2026-07-16T08:39:00+08:00",
       "firstSeen": "2026-08-13T16:22:00+08:00",
       "lastSeen": "2026-08-13T16:22:00+08:00",
-      "platforms": ["官网"],
-      "people": ["陈年喜"],
+      "platforms": [
+        "官网"
+      ],
+      "people": [
+        "陈年喜"
+      ],
       "works": [],
-      "institutions": ["中国作家网"],
+      "institutions": [
+        "中国作家网"
+      ],
       "places": [],
       "p0": false,
       "sourceCount": 1,
       "metrics": "平台互动未接入"
     },
     {
-      "id": "seed-xinjiang-ich-aid-2026",
+      "id": "seed-wang-jibing-luxun-prize-2026",
       "type": "事件性热点",
-      "domain": "非遗 / 区域文化",
-      "title": "2026“新疆是个好地方”非遗援疆主题展示汇聚31省区市",
-      "summary": "活动于7月30日至8月3日在石河子举行，设置主题展览、特色活动和非遗工坊资源对接。",
-      "url": "https://www.xjbt.gov.cn/c/2026-07-20/8494398.shtml",
-      "source": "新疆生产建设兵团",
-      "sourceTitle": "2026“新疆是个好地方”非遗援疆主题展示活动将在八师石河子市举行",
-      "sourceType": "政府公开页面",
-      "publishedAt": "2026-07-20T12:00:00+08:00",
+      "domain": "文学 / 文学奖",
+      "title": "王计兵《低处飞行》获第九届鲁迅文学奖诗歌奖",
+      "summary": "“外卖诗人”王计兵成为首位获得这一国家级文学大奖的外卖骑手，并在采访中回应获奖后仍会继续送外卖和写作。",
+      "url": "https://m.jstv.com/news/2026/7/15/1527035643711221760.html",
+      "source": "荔枝新闻",
+      "sourceTitle": "江苏4部作品获得第九届鲁迅文学奖 “外卖诗人”王计兵摘得国家级文学大奖",
+      "sourceType": "媒体公开报道",
+      "publishedAt": "2026-07-15T19:32:00+08:00",
       "firstSeen": "2026-08-13T16:22:00+08:00",
       "lastSeen": "2026-08-13T16:22:00+08:00",
-      "platforms": ["官网", "新闻"],
-      "people": [],
-      "works": [],
-      "institutions": ["文化和旅游部", "新疆维吾尔自治区人民政府", "新疆生产建设兵团"],
-      "places": ["石河子", "新疆"],
-      "p0": false,
-      "sourceCount": 2,
-      "metrics": "平台互动未接入"
-    },
-    {
-      "id": "seed-baoshan-cloisonne-2026",
-      "type": "事件性热点",
-      "domain": "非遗 / 公共文化",
-      "title": "上海宝山非遗手工坊开放掐丝珐琅体验报名",
-      "summary": "宝山区以每月一场的方式推出非遗展示与手作体验，本期掐丝珐琅活动定于8月14日举行。",
-      "url": "https://www.shanghai.gov.cn/nw17239/20260728/50628b9c9a394609b634ae3bf8a1c3c5.html",
-      "source": "上海市人民政府",
-      "sourceTitle": "宝山“宝韵”非遗手工坊：匠心・掐丝珐琅体验技艺活动，开始报名啦！",
-      "sourceType": "政府公开页面",
-      "publishedAt": "2026-07-28T12:00:00+08:00",
-      "firstSeen": "2026-08-13T16:22:00+08:00",
-      "lastSeen": "2026-08-13T16:22:00+08:00",
-      "platforms": ["官网", "微信"],
-      "people": [],
-      "works": ["掐丝珐琅制作技艺"],
-      "institutions": ["宝山区文明办", "宝山区文旅局", "宝山区图书馆"],
-      "places": ["上海宝山"],
-      "p0": false,
-      "sourceCount": 1,
+      "platforms": [
+        "新闻",
+        "视频"
+      ],
+      "people": [
+        "王计兵"
+      ],
+      "works": [
+        "《低处飞行》"
+      ],
+      "institutions": [
+        "中国作家协会",
+        "鲁迅文学奖"
+      ],
+      "places": [
+        "江苏"
+      ],
+      "p0": true,
+      "sourceCount": 3,
       "metrics": "平台互动未接入"
     },
     {
@@ -236,11 +1165,22 @@
       "publishedAt": "2026-07-14T11:13:00+08:00",
       "firstSeen": "2026-08-13T16:22:00+08:00",
       "lastSeen": "2026-08-13T16:22:00+08:00",
-      "platforms": ["官网", "新闻"],
+      "platforms": [
+        "官网",
+        "新闻"
+      ],
       "people": [],
-      "works": ["绍剧《哪吒闹海》"],
-      "institutions": ["杭州非遗嘉年华", "中国工艺美术馆"],
-      "places": ["北京", "杭州"],
+      "works": [
+        "绍剧《哪吒闹海》"
+      ],
+      "institutions": [
+        "杭州非遗嘉年华",
+        "中国工艺美术馆"
+      ],
+      "places": [
+        "北京",
+        "杭州"
+      ],
       "p0": false,
       "sourceCount": 1,
       "metrics": "平台互动未接入"
@@ -258,20 +1198,46 @@
       "publishedAt": "2026-07-14T10:45:00+08:00",
       "firstSeen": "2026-08-13T16:22:00+08:00",
       "lastSeen": "2026-08-13T16:22:00+08:00",
-      "platforms": ["电视", "新闻", "视频"],
-      "people": ["龙洋", "单霁翔", "武大靖", "杜玉珍"],
-      "works": ["《非遗里的中国》山东济宁篇"],
-      "institutions": ["中央广播电视总台"],
-      "places": ["山东济宁"],
+      "platforms": [
+        "电视",
+        "新闻",
+        "视频"
+      ],
+      "people": [
+        "龙洋",
+        "单霁翔",
+        "武大靖",
+        "杜玉珍"
+      ],
+      "works": [
+        "《非遗里的中国》山东济宁篇"
+      ],
+      "institutions": [
+        "中央广播电视总台"
+      ],
+      "places": [
+        "山东济宁"
+      ],
       "p0": false,
       "sourceCount": 1,
       "metrics": "平台互动未接入"
     }
   ],
   "meta": {
-    "total": 12,
-    "platforms": ["官网", "新闻", "微信", "视频", "微博", "小红书", "电视"],
-    "collector": "公开网页首批线索 + TrendRadar增量",
-    "interactionMetrics": "未接入"
+    "total": 40,
+    "platforms": [
+      "新闻",
+      "视频",
+      "官网",
+      "微信",
+      "图片",
+      "抖音",
+      "微博",
+      "小红书",
+      "电视"
+    ],
+    "collector": "每日文化热点扫描写回 + TrendRadar增量 + 公开网页",
+    "interactionMetrics": "未接入",
+    "sync": "ChatGPT每日扫描写回 radar-data/culture-feed.json"
   }
 }
