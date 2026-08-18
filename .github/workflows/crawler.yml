@@ -172,6 +172,112 @@ jobs:
           git commit -m "Update culture radar feed" || exit 0
           git push origin HEAD:radar-data
 
+      - name: Push curated culture radar digest to WeCom
+        if: success()
+        env:
+          CULTURE_WECOM_WEBHOOK: ${{ secrets.CULTURE_WECOM_WEBHOOK }}
+          EVENT_NAME: ${{ github.event_name }}
+        run: |
+          python - <<'PY'
+          import json
+          import os
+          import sys
+          import urllib.request
+          from datetime import datetime, timedelta, timezone
+          from pathlib import Path
+          from zoneinfo import ZoneInfo
+
+          webhook = os.environ.get("CULTURE_WECOM_WEBHOOK", "").strip()
+          if not webhook:
+              print("CULTURE_WECOM_WEBHOOK is not configured; skipping WeCom push.")
+              sys.exit(0)
+
+          now_cn = datetime.now(ZoneInfo("Asia/Shanghai"))
+          if os.environ.get("EVENT_NAME") != "workflow_dispatch" and now_cn.hour != 10:
+              print(f"Not the daily 10:00 China-time window ({now_cn:%H:%M}); skipping WeCom push.")
+              sys.exit(0)
+
+          candidates = [Path("/tmp/culture-feed.json"), Path("culture-feed.json")]
+          feed_path = next((path for path in candidates if path.exists()), None)
+          if feed_path is None:
+              raise SystemExit("culture-feed.json was not found")
+
+          feed = json.loads(feed_path.read_text(encoding="utf-8"))
+          items = feed.get("items") or []
+          cutoff = datetime.now(timezone.utc) - timedelta(hours=36)
+
+          def parsed(value):
+              if not value:
+                  return datetime.min.replace(tzinfo=timezone.utc)
+              try:
+                  dt = datetime.fromisoformat(str(value).replace("Z", "+00:00"))
+                  if dt.tzinfo is None:
+                      dt = dt.replace(tzinfo=ZoneInfo("Asia/Shanghai"))
+                  return dt.astimezone(timezone.utc)
+              except ValueError:
+                  return datetime.min.replace(tzinfo=timezone.utc)
+
+          items.sort(
+              key=lambda item: parsed(item.get("publishedAt") or item.get("firstSeen")),
+              reverse=True,
+          )
+          fresh = [
+              item for item in items
+              if parsed(item.get("firstSeen") or item.get("publishedAt")) >= cutoff
+          ]
+          selected = (fresh or items)[:10]
+
+          lines = [
+              "# 文化热点雷达日报",
+              f">更新时间：{now_cn:%Y-%m-%d %H:%M}｜新增候选：{len(fresh)}条",
+              "",
+          ]
+          for index, item in enumerate(selected, 1):
+              title = str(item.get("title") or "未命名线索").replace("\n", " ").strip()
+              url = str(item.get("url") or "https://culture-radar.plastiche0225.chatgpt.site")
+              kind = str(item.get("type") or "文化热点")
+              lines.append(f"{index}. [{title}]({url})")
+              lines.append(f"> {kind}｜{item.get('source') or '公开出处'}")
+          lines.extend([
+              "",
+              "[查看全部文化线索](https://culture-radar.plastiche0225.chatgpt.site)",
+              "> 互动数据未接入时不推测、不补数。",
+          ])
+
+          content = "\n".join(lines)
+          while len(content.encode("utf-8")) > 3900 and len(selected) > 1:
+              selected.pop()
+              lines = lines[:3]
+              for index, item in enumerate(selected, 1):
+                  title = str(item.get("title") or "未命名线索").replace("\n", " ").strip()
+                  url = str(item.get("url") or "https://culture-radar.plastiche0225.chatgpt.site")
+                  kind = str(item.get("type") or "文化热点")
+                  lines.append(f"{index}. [{title}]({url})")
+                  lines.append(f"> {kind}｜{item.get('source') or '公开出处'}")
+              lines.extend([
+                  "",
+                  "[查看全部文化线索](https://culture-radar.plastiche0225.chatgpt.site)",
+                  "> 互动数据未接入时不推测、不补数。",
+              ])
+              content = "\n".join(lines)
+
+          payload = json.dumps(
+              {"msgtype": "markdown", "markdown": {"content": content}},
+              ensure_ascii=False,
+          ).encode("utf-8")
+          request = urllib.request.Request(
+              webhook,
+              data=payload,
+              headers={"Content-Type": "application/json"},
+              method="POST",
+          )
+          with urllib.request.urlopen(request, timeout=15) as response:
+              result = json.loads(response.read().decode("utf-8"))
+          if result.get("errcode") != 0:
+              raise SystemExit(f"WeCom push failed: {result}")
+          print(f"WeCom push succeeded with {len(selected)} items.")
+          PY
+
       # --------------------------------------------------------------------------------
       # ☁️ CLOUDFLARE PAGES DEPLOY / 部署到 Cloudflare Pages（可选）
       # --------------------------------------------------------------------------------
