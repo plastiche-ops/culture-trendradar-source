@@ -1,8 +1,669 @@
 {
   "version": 1,
-  "generatedAt": "2026-08-17T04:11:32.822Z",
+  "generatedAt": "2026-08-18T01:53:27.464Z",
   "windowDays": 30,
   "items": [
+    {
+      "id": "20260818-ai-aesthetic-education",
+      "type": "内容性热点",
+      "domain": "人文 / 审美教育",
+      "title": "光明日报：拥抱技术，更需守护审美教育的人文内核",
+      "summary": "评论提出高校、教师与社会需协同推进AI时代审美教育，避免技术工具挤压人的判断、感受与创造。",
+      "url": "https://news.gmw.cn/2026-08/18/content_38948335.htm",
+      "source": "光明日报",
+      "sourceTitle": "光明日报：拥抱技术，更需守护审美教育的人文内核",
+      "sourceType": "权威媒体评论",
+      "publishedAt": "2026-08-18",
+      "firstSeen": "2026-08-18T01:53:27.464Z",
+      "lastSeen": "2026-08-18T01:53:27.464Z",
+      "platforms": [
+        "新闻",
+        "公开网页"
+      ],
+      "people": [],
+      "works": [],
+      "institutions": [
+        "光明日报"
+      ],
+      "places": [],
+      "p0": false,
+      "sourceCount": 1,
+      "metrics": "平台互动未接入"
+    },
+    {
+      "id": "20260818-four-generations-stage",
+      "type": "内容性热点",
+      "domain": "文学 / 戏剧改编",
+      "title": "话剧《四世同堂》演出逾400场，舞台改编重塑人物复杂性",
+      "summary": "中国作家网文章讨论老舍经典如何通过表演、人物细节与舞台调度获得当代表达。",
+      "url": "https://www.chinawriter.com.cn/n1/2026/0818/c419389-40781461.html",
+      "source": "中国作家网",
+      "sourceTitle": "话剧《四世同堂》演出逾400场，舞台改编重塑人物复杂性",
+      "sourceType": "文学垂直网站",
+      "publishedAt": "2026-08-18",
+      "firstSeen": "2026-08-18T01:53:27.464Z",
+      "lastSeen": "2026-08-18T01:53:27.464Z",
+      "platforms": [
+        "公开网页",
+        "戏剧"
+      ],
+      "people": [
+        "老舍",
+        "秦海璐",
+        "孙小茗"
+      ],
+      "works": [
+        "《四世同堂》"
+      ],
+      "institutions": [],
+      "places": [],
+      "p0": false,
+      "sourceCount": 1,
+      "metrics": "平台互动未接入"
+    },
+    {
+      "id": "20260818-zhijiang-participatory-culture",
+      "type": "日常性热点",
+      "domain": "人文 / 公共文化",
+      "title": "之江文化中心从“参观”转向“参与”，拓展暑期文化消费场景",
+      "summary": "光明日报报道剧场互动、展览体验等公共文化活动，呈现观众由观看者转为参与者的趋势。",
+      "url": "https://news.gmw.cn/2026-08/18/content_38948255.htm",
+      "source": "光明日报",
+      "sourceTitle": "之江文化中心从“参观”转向“参与”，拓展暑期文化消费场景",
+      "sourceType": "权威媒体报道",
+      "publishedAt": "2026-08-18",
+      "firstSeen": "2026-08-18T01:53:27.464Z",
+      "lastSeen": "2026-08-18T01:53:27.464Z",
+      "platforms": [
+        "新闻",
+        "公开网页"
+      ],
+      "people": [],
+      "works": [],
+      "institutions": [
+        "之江文化中心"
+      ],
+      "places": [
+        "杭州"
+      ],
+      "p0": false,
+      "sourceCount": 1,
+      "metrics": "平台互动未接入"
+    },
+    {
+      "id": "20260817-western-book-fair",
+      "type": "事件性热点",
+      "domain": "文学 / 出版",
+      "title": "青海首次举办大型区域性西部书展，展销图书万余种",
+      "summary": "西部书展汇聚46家出版单位，设置汉文、藏文、蒙文图书专区，活动持续至8月22日。",
+      "url": "https://www.chinanews.com.cn/cul/2026/08-17/10679129.shtml",
+      "source": "中国新闻网",
+      "sourceTitle": "青海首次举办大型区域性西部书展，展销图书万余种",
+      "sourceType": "权威媒体报道",
+      "publishedAt": "2026-08-17T17:11:11+08:00",
+      "firstSeen": "2026-08-18T01:53:27.464Z",
+      "lastSeen": "2026-08-18T01:53:27.464Z",
+      "platforms": [
+        "新闻",
+        "公开网页"
+      ],
+      "people": [],
+      "works": [],
+      "institutions": [
+        "青海出版传媒集团"
+      ],
+      "places": [
+        "青海西宁"
+      ],
+      "p0": false,
+      "sourceCount": 1,
+      "metrics": "平台互动未接入"
+    },
+    {
+      "id": "20260817-shanghai-road-books",
+      "type": "内容性热点",
+      "domain": "文学 / 城市人文",
+      "title": "“上海马路丛书”以六条街道重写城市文脉与烟火记忆",
+      "summary": "六位作者从愚园路、南昌路、汉口路等街道出发，讨论城市历史、思想与日常生活如何进入文学书写。",
+      "url": "https://www.sh.chinanews.com.cn/wenhua/2026-08-17/148509.shtml",
+      "source": "中新网上海",
+      "sourceTitle": "“上海马路丛书”以六条街道重写城市文脉与烟火记忆",
+      "sourceType": "权威媒体报道",
+      "publishedAt": "2026-08-17T17:09:00+08:00",
+      "firstSeen": "2026-08-18T01:53:27.464Z",
+      "lastSeen": "2026-08-18T01:53:27.464Z",
+      "platforms": [
+        "新闻",
+        "公开网页"
+      ],
+      "people": [
+        "徐锦江",
+        "黄向辉",
+        "马尚龙"
+      ],
+      "works": [
+        "“上海马路丛书”"
+      ],
+      "institutions": [
+        "上海书展"
+      ],
+      "places": [
+        "上海"
+      ],
+      "p0": false,
+      "sourceCount": 1,
+      "metrics": "平台互动未接入"
+    },
+    {
+      "id": "20260817-inner-mongolia-ich-nadam",
+      "type": "事件性热点",
+      "domain": "非遗 / 民俗",
+      "title": "2026内蒙古自治区“非遗”那达慕在巴林右旗启幕",
+      "summary": "活动汇集内蒙古12盟市项目，巴林石雕、传统技艺、草原美食等在非遗一条街集中展示。",
+      "url": "https://www.news.cn/gongyi/20260817/b55356323a93417e8dd75ea279b149e3/c.html",
+      "source": "新华网",
+      "sourceTitle": "2026内蒙古自治区“非遗”那达慕在巴林右旗启幕",
+      "sourceType": "权威媒体报道",
+      "publishedAt": "2026-08-17T14:56:06+08:00",
+      "firstSeen": "2026-08-18T01:53:27.464Z",
+      "lastSeen": "2026-08-18T01:53:27.464Z",
+      "platforms": [
+        "新闻",
+        "公开网页"
+      ],
+      "people": [
+        "达林台"
+      ],
+      "works": [
+        "巴林石雕",
+        "那达慕"
+      ],
+      "institutions": [
+        "新华社"
+      ],
+      "places": [
+        "内蒙古赤峰",
+        "巴林右旗"
+      ],
+      "p0": false,
+      "sourceCount": 1,
+      "metrics": "平台互动未接入"
+    },
+    {
+      "id": "20260817-beijing-literature-awards",
+      "type": "事件性热点",
+      "domain": "文学 / 文学奖",
+      "title": "《北京文学》2025年度优秀作品评选揭晓，37部作品获奖",
+      "summary": "评选覆盖中短篇小说、报告文学、散文、诗歌、新人新作等7类，王计兵、班宇、陈春成等进入获奖名单。",
+      "url": "https://www.chinawriter.com.cn/n1/2026/0817/c403994-40781091.html",
+      "source": "中国作家网",
+      "sourceTitle": "《北京文学》2025年度优秀作品评选揭晓，37部作品获奖",
+      "sourceType": "文学垂直网站",
+      "publishedAt": "2026-08-17T14:33:00+08:00",
+      "firstSeen": "2026-08-18T01:53:27.464Z",
+      "lastSeen": "2026-08-18T01:53:27.464Z",
+      "platforms": [
+        "公开网页",
+        "新闻"
+      ],
+      "people": [
+        "王计兵",
+        "班宇",
+        "陈春成",
+        "韩东",
+        "罗伟章"
+      ],
+      "works": [],
+      "institutions": [
+        "北京文学期刊中心",
+        "北京市文联"
+      ],
+      "places": [
+        "北京"
+      ],
+      "p0": true,
+      "sourceCount": 1,
+      "metrics": "平台互动未接入"
+    },
+    {
+      "id": "20260817-ai-human-writing",
+      "type": "内容性热点",
+      "domain": "文学 / AI写作",
+      "title": "“AI时代，人类写作何去何从”进入文学评论议程",
+      "summary": "文艺报文章梳理AI参与诗歌、小说与作家创作流程的案例，讨论人类经验、作者责任与文学价值。",
+      "url": "https://www.chinawriter.com.cn/n1/2026/0817/c404030-40781005.html",
+      "source": "文艺报（中国作家网）",
+      "sourceTitle": "“AI时代，人类写作何去何从”进入文学评论议程",
+      "sourceType": "文学垂直网站",
+      "publishedAt": "2026-08-17T11:10:00+08:00",
+      "firstSeen": "2026-08-18T01:53:27.464Z",
+      "lastSeen": "2026-08-18T01:53:27.464Z",
+      "platforms": [
+        "公开网页",
+        "新闻"
+      ],
+      "people": [],
+      "works": [],
+      "institutions": [
+        "文艺报"
+      ],
+      "places": [],
+      "p0": false,
+      "sourceCount": 1,
+      "metrics": "平台互动未接入"
+    },
+    {
+      "id": "20260817-guoqiyong-collected-works",
+      "type": "事件性热点",
+      "domain": "人文 / 哲学出版",
+      "title": "《郭齐勇文集》全9卷出版，总结当代中国哲学研究成果",
+      "summary": "文集整理郭齐勇在中国哲学史、儒学等领域的研究，被视为其阶段性学术总结。",
+      "url": "https://www.chinawriter.com.cn/n1/2026/0817/c404030-40781003.html",
+      "source": "中国作家网",
+      "sourceTitle": "《郭齐勇文集》全9卷出版，总结当代中国哲学研究成果",
+      "sourceType": "文学垂直网站",
+      "publishedAt": "2026-08-17T11:09:00+08:00",
+      "firstSeen": "2026-08-18T01:53:27.464Z",
+      "lastSeen": "2026-08-18T01:53:27.464Z",
+      "platforms": [
+        "公开网页",
+        "新闻"
+      ],
+      "people": [
+        "郭齐勇"
+      ],
+      "works": [
+        "《郭齐勇文集》"
+      ],
+      "institutions": [
+        "江苏人民出版社",
+        "武汉大学国学院"
+      ],
+      "places": [
+        "武汉",
+        "江苏"
+      ],
+      "p0": false,
+      "sourceCount": 1,
+      "metrics": "平台互动未接入"
+    },
+    {
+      "id": "20260817-writer-maps",
+      "type": "内容性热点",
+      "domain": "文学 / 世界文学",
+      "title": "《作家地图》作者琼斯：地图是作家召唤世界的方式",
+      "summary": "休·刘易斯-琼斯以《金银岛》《魔戒》等为例，讨论手绘地图如何成为奇幻文学世界的入口。",
+      "url": "https://www.chinawriter.com.cn/n1/2026/0817/c403994-40780831.html",
+      "source": "中国作家网",
+      "sourceTitle": "《作家地图》作者琼斯：地图是作家召唤世界的方式",
+      "sourceType": "文学垂直网站",
+      "publishedAt": "2026-08-17T08:46:00+08:00",
+      "firstSeen": "2026-08-18T01:53:27.464Z",
+      "lastSeen": "2026-08-18T01:53:27.464Z",
+      "platforms": [
+        "公开网页",
+        "新闻"
+      ],
+      "people": [
+        "休·刘易斯-琼斯"
+      ],
+      "works": [
+        "《作家地图》",
+        "《金银岛》",
+        "《魔戒》"
+      ],
+      "institutions": [
+        "上海国际文学周"
+      ],
+      "places": [
+        "上海"
+      ],
+      "p0": false,
+      "sourceCount": 1,
+      "metrics": "平台互动未接入"
+    },
+    {
+      "id": "20260817-moyan-internet-ai",
+      "type": "内容性热点",
+      "domain": "文学 / 名人原生表达",
+      "title": "莫言谈短视频、AI与短小说：篇幅可以短，人物和意味不能变薄",
+      "summary": "莫言在上海书展围绕新作《人呐》谈互联网语感、短视频与AI，强调AI无法替代对人物和生活的真正理解。",
+      "url": "https://www.chinawriter.com.cn/n1/2026/0817/c403994-40780819.html",
+      "source": "中国作家网",
+      "sourceTitle": "莫言谈短视频、AI与短小说：篇幅可以短，人物和意味不能变薄",
+      "sourceType": "文学垂直网站",
+      "publishedAt": "2026-08-17T08:41:00+08:00",
+      "firstSeen": "2026-08-18T01:53:27.464Z",
+      "lastSeen": "2026-08-18T01:53:27.464Z",
+      "platforms": [
+        "公开网页",
+        "新闻"
+      ],
+      "people": [
+        "莫言",
+        "宋方金"
+      ],
+      "works": [
+        "《人呐》"
+      ],
+      "institutions": [
+        "上海书展",
+        "中国作家网"
+      ],
+      "places": [
+        "上海"
+      ],
+      "p0": true,
+      "sourceCount": 1,
+      "metrics": "平台互动未接入"
+    },
+    {
+      "id": "20260817-inner-mongolia-literature-project",
+      "type": "事件性热点",
+      "domain": "文学 / 地域文学",
+      "title": "“内蒙古文学重点作品创作工程”集中发布六部新作",
+      "summary": "长篇小说、短篇小说集、散文集与诗集六部作品集中发布，呈现内蒙古地域经验与现实生活。",
+      "url": "https://www.chinawriter.com.cn/n1/2026/0817/c403994-40780769.html",
+      "source": "中国作家网",
+      "sourceTitle": "“内蒙古文学重点作品创作工程”集中发布六部新作",
+      "sourceType": "文学垂直网站",
+      "publishedAt": "2026-08-17T08:37:00+08:00",
+      "firstSeen": "2026-08-18T01:53:27.464Z",
+      "lastSeen": "2026-08-18T01:53:27.464Z",
+      "platforms": [
+        "公开网页",
+        "新闻"
+      ],
+      "people": [
+        "田福",
+        "陈慧明",
+        "白涛",
+        "吕斌"
+      ],
+      "works": [
+        "《金驹》",
+        "《石吼》",
+        "《大地的词根》"
+      ],
+      "institutions": [
+        "内蒙古自治区文联",
+        "作家出版社"
+      ],
+      "places": [
+        "内蒙古"
+      ],
+      "p0": false,
+      "sourceCount": 1,
+      "metrics": "平台互动未接入"
+    },
+    {
+      "id": "20260817-yumin-hydrogen-bomb-book",
+      "type": "事件性热点",
+      "domain": "文学 / 纪实写作",
+      "title": "于敏诞辰100周年，《于敏和氢弹》新书发布",
+      "summary": "新书发布暨研讨会于8月16日在北京举行，以纪实写作呈现于敏隐姓埋名28年的科研生涯。",
+      "url": "https://www.chinawriter.com.cn/n1/2026/0817/c403994-40780736.html",
+      "source": "中国作家网",
+      "sourceTitle": "于敏诞辰100周年，《于敏和氢弹》新书发布",
+      "sourceType": "文学垂直网站",
+      "publishedAt": "2026-08-17T08:28:00+08:00",
+      "firstSeen": "2026-08-18T01:53:27.464Z",
+      "lastSeen": "2026-08-18T01:53:27.464Z",
+      "platforms": [
+        "公开网页",
+        "新闻"
+      ],
+      "people": [
+        "于敏",
+        "杨春风"
+      ],
+      "works": [
+        "《于敏和氢弹》"
+      ],
+      "institutions": [
+        "天津出版传媒集团",
+        "辽宁省作协"
+      ],
+      "places": [
+        "北京"
+      ],
+      "p0": true,
+      "sourceCount": 1,
+      "metrics": "平台互动未接入"
+    },
+    {
+      "id": "20260816-shanghai-bookfair-160k",
+      "type": "事件性热点",
+      "domain": "文学 / 出版",
+      "title": "上海书展首个周末客流13.5万人次创纪录",
+      "summary": "8月15—16日上海展览中心主会场分别迎来6.5万和7万人次，出版社出现集中补货与多款图书售罄。",
+      "url": "https://www.chinawriter.com.cn/n1/2026/0817/c403994-40780664.html",
+      "source": "文汇报（中国作家网）",
+      "sourceTitle": "“走不动路”的上海书展彰显阅读引力",
+      "sourceType": "权威媒体公开报道",
+      "publishedAt": "2026-08-17T08:16:00+08:00",
+      "firstSeen": "2026-08-17T04:11:32.822Z",
+      "lastSeen": "2026-08-18T01:53:27.464Z",
+      "platforms": [
+        "新闻"
+      ],
+      "people": [],
+      "works": [],
+      "institutions": [
+        "上海书展"
+      ],
+      "places": [
+        "上海"
+      ],
+      "p0": true,
+      "sourceCount": 1,
+      "metrics": "平台互动未接入"
+    },
+    {
+      "id": "20260817-tree-speaks-china",
+      "type": "事件性热点",
+      "domain": "人文 / 纪录片",
+      "title": "古树文化纪录片《树说中国》开播，葛剑雄等担任“讲树人”",
+      "summary": "纪录片从柏木、槐树、桑树、榕树、银杏切入中华历史文化，摄制团队调研290处地点、拍摄近3.6万株古树。",
+      "url": "https://dzb.hxnews.com/news/zyzx/202608/17/2266294.shtml",
+      "source": "信息时报（海峡网公开页）",
+      "sourceTitle": "古树文化纪录片《树说中国》开播，葛剑雄等担任“讲树人”",
+      "sourceType": "媒体公开报道",
+      "publishedAt": "2026-08-17",
+      "firstSeen": "2026-08-18T01:53:27.464Z",
+      "lastSeen": "2026-08-18T01:53:27.464Z",
+      "platforms": [
+        "电视",
+        "视频",
+        "公开网页"
+      ],
+      "people": [
+        "葛剑雄",
+        "梁衡"
+      ],
+      "works": [
+        "《树说中国》"
+      ],
+      "institutions": [
+        "国家广播电视总局"
+      ],
+      "places": [
+        "陕西",
+        "四川",
+        "江苏"
+      ],
+      "p0": true,
+      "sourceCount": 1,
+      "metrics": "平台互动未接入"
+    },
+    {
+      "id": "20260817-centenary-kaiming",
+      "type": "内容性热点",
+      "domain": "文学 / 出版史",
+      "title": "开明书店百年：一场理想主义者的出版梦",
+      "summary": "中华读书报回顾叶圣陶、胡愈之、郑振铎等开明同人的出版与教育实践，形成出版史纪念性内容。",
+      "url": "https://www.thepaper.cn/newsDetail_forward_33797288",
+      "source": "中华读书报（澎湃转载）",
+      "sourceTitle": "开明书店百年：一场理想主义者的出版梦",
+      "sourceType": "媒体公开报道",
+      "publishedAt": "2026-08-17",
+      "firstSeen": "2026-08-18T01:53:27.464Z",
+      "lastSeen": "2026-08-18T01:53:27.464Z",
+      "platforms": [
+        "新闻",
+        "公开网页"
+      ],
+      "people": [
+        "叶圣陶",
+        "胡愈之",
+        "郑振铎",
+        "沈雁冰"
+      ],
+      "works": [],
+      "institutions": [
+        "开明书店"
+      ],
+      "places": [
+        "上海",
+        "北京"
+      ],
+      "p0": false,
+      "sourceCount": 1,
+      "metrics": "平台互动未接入"
+    },
+    {
+      "id": "20260817-baltic-promise",
+      "type": "事件性热点",
+      "domain": "文学 / 新书",
+      "title": "《波罗的海之约》在上海书展发布",
+      "summary": "瞿大庆以三十年海外经历书写华沙、格但斯克的城市历史与中波民间交往。",
+      "url": "https://www.sh.chinanews.com.cn/wenhua/2026-08-17/148516.shtml",
+      "source": "中新网上海",
+      "sourceTitle": "《波罗的海之约》在上海书展发布",
+      "sourceType": "权威媒体报道",
+      "publishedAt": "2026-08-17",
+      "firstSeen": "2026-08-18T01:53:27.464Z",
+      "lastSeen": "2026-08-18T01:53:27.464Z",
+      "platforms": [
+        "新闻",
+        "公开网页"
+      ],
+      "people": [
+        "瞿大庆",
+        "潘大明"
+      ],
+      "works": [
+        "《波罗的海之约》"
+      ],
+      "institutions": [
+        "上海书展"
+      ],
+      "places": [
+        "上海",
+        "华沙",
+        "格但斯克"
+      ],
+      "p0": false,
+      "sourceCount": 1,
+      "metrics": "平台互动未接入"
+    },
+    {
+      "id": "20260817-cairou-wonton-city-memory",
+      "type": "内容性热点",
+      "domain": "文学 / 城市人文",
+      "title": "《菜肉馄饨》主创以市井食物讲述上海城市情感",
+      "summary": "茅善玉、周野芒等在书展分会场讨论弄堂记忆、邻里关系与城市更新中的情感保存。",
+      "url": "https://www.sh.chinanews.com.cn/wenhua/2026-08-17/148512.shtml",
+      "source": "中新网上海",
+      "sourceTitle": "《菜肉馄饨》主创以市井食物讲述上海城市情感",
+      "sourceType": "权威媒体报道",
+      "publishedAt": "2026-08-17",
+      "firstSeen": "2026-08-18T01:53:27.464Z",
+      "lastSeen": "2026-08-18T01:53:27.464Z",
+      "platforms": [
+        "新闻",
+        "公开网页"
+      ],
+      "people": [
+        "茅善玉",
+        "周野芒",
+        "马尚龙"
+      ],
+      "works": [
+        "《菜肉馄饨》"
+      ],
+      "institutions": [
+        "上海书展"
+      ],
+      "places": [
+        "上海"
+      ],
+      "p0": false,
+      "sourceCount": 1,
+      "metrics": "平台互动未接入"
+    },
+    {
+      "id": "20260817-caigao-andersen",
+      "type": "内容性热点",
+      "domain": "文学 / 绘本",
+      "title": "蔡皋获国际安徒生奖后谈创作：童年是最好的摇篮",
+      "summary": "央视《面对面》呈现80岁的蔡皋如何从中国民间文化汲取绘本创作资源；她是插画奖设立60年来首位中国获奖者。",
+      "url": "https://www.thepaper.cn/newsDetail_forward_33796428?commTag=true",
+      "source": "央视新闻（澎湃转载）",
+      "sourceTitle": "蔡皋获国际安徒生奖后谈创作：童年是最好的摇篮",
+      "sourceType": "权威媒体公开报道",
+      "publishedAt": "2026-08-17T02:39:00+08:00",
+      "firstSeen": "2026-08-18T01:53:27.464Z",
+      "lastSeen": "2026-08-18T01:53:27.464Z",
+      "platforms": [
+        "央视新闻",
+        "公开网页"
+      ],
+      "people": [
+        "蔡皋"
+      ],
+      "works": [],
+      "institutions": [
+        "国际儿童读物联盟"
+      ],
+      "places": [
+        "加拿大渥太华"
+      ],
+      "p0": true,
+      "sourceCount": 1,
+      "metrics": "平台互动未接入"
+    },
+    {
+      "id": "20260817-yuhua-jiahui-fake",
+      "type": "事件性热点",
+      "domain": "文学 / 作家权益",
+      "title": "余华再为假署名散文《家徽》打假：AI时代成了“无解的题”",
+      "summary": "余华在央视采访中表示，自2017年澄清《家徽》并非自己所写后，错误署名仍持续传播；面对大量伪造金句，他称没有精力逐条辟谣。",
+      "url": "https://news.dayoo.com/society/202608/16/140000_54991389.htm",
+      "source": "央视新闻（大洋网转载）",
+      "sourceTitle": "余华再为假署名散文《家徽》打假：AI时代成了“无解的题”",
+      "sourceType": "权威媒体公开报道",
+      "publishedAt": "2026-08-16T09:40:00+08:00",
+      "firstSeen": "2026-08-18T01:53:27.464Z",
+      "lastSeen": "2026-08-18T01:53:27.464Z",
+      "platforms": [
+        "央视新闻",
+        "公开网页"
+      ],
+      "people": [
+        "余华"
+      ],
+      "works": [
+        "《家徽》"
+      ],
+      "institutions": [
+        "央视新闻"
+      ],
+      "places": [],
+      "p0": true,
+      "sourceCount": 1,
+      "metrics": "平台互动未接入"
+    },
     {
       "id": "20260816-maboyong-qin2",
       "type": "事件性热点",
@@ -33,34 +694,6 @@
         "上海"
       ],
       "p0": false,
-      "sourceCount": 1,
-      "metrics": "平台互动未接入"
-    },
-    {
-      "id": "20260816-shanghai-bookfair-160k",
-      "type": "事件性热点",
-      "domain": "文学 / 出版",
-      "title": "上海书展周末客流约16万人次",
-      "summary": "书展客流与高密度文化活动形成出版文化事件。",
-      "url": "https://www.shobserver.com/news/detail?id=1161023",
-      "source": "上观新闻",
-      "sourceTitle": "上海书展周末客流约16万人次",
-      "sourceType": "权威媒体报道",
-      "publishedAt": "2026-08-16",
-      "firstSeen": "2026-08-17T04:11:32.822Z",
-      "lastSeen": "2026-08-17T04:11:32.822Z",
-      "platforms": [
-        "新闻"
-      ],
-      "people": [],
-      "works": [],
-      "institutions": [
-        "上海书展"
-      ],
-      "places": [
-        "上海"
-      ],
-      "p0": true,
       "sourceCount": 1,
       "metrics": "平台互动未接入"
     },
@@ -539,6 +1172,40 @@
         "湖北"
       ],
       "p0": false,
+      "sourceCount": 1,
+      "metrics": "平台互动未接入"
+    },
+    {
+      "id": "20260815-maweidu-tang-poetry",
+      "type": "内容性热点",
+      "domain": "文学 / 名人原生表达",
+      "title": "马未都：唐诗是一部唐代的百科全书",
+      "summary": "马未都本人账号发布短视频，以“百科全书”为切口谈唐诗的社会生活与文化信息，是名人原生人文解读类内容。",
+      "url": "https://www.sina.cn/news/detail/5332071614777659.html",
+      "source": "马未都本人微博（新浪公开页）",
+      "sourceTitle": "马未都：唐诗是一部唐代的百科全书",
+      "sourceType": "本人原发公开镜像",
+      "publishedAt": "2026-08-15T07:00:00+08:00",
+      "firstSeen": "2026-08-18T01:53:27.464Z",
+      "lastSeen": "2026-08-18T01:53:27.464Z",
+      "platforms": [
+        "微博",
+        "抖音"
+      ],
+      "people": [
+        "马未都"
+      ],
+      "works": [
+        "唐诗"
+      ],
+      "institutions": [
+        "马未都账号",
+        "观复博物馆"
+      ],
+      "places": [
+        "北京"
+      ],
+      "p0": true,
       "sourceCount": 1,
       "metrics": "平台互动未接入"
     },
@@ -1224,17 +1891,20 @@
     }
   ],
   "meta": {
-    "total": 40,
+    "total": 60,
     "platforms": [
       "新闻",
+      "公开网页",
+      "戏剧",
+      "电视",
       "视频",
+      "央视新闻",
       "官网",
       "微信",
       "图片",
-      "抖音",
       "微博",
-      "小红书",
-      "电视"
+      "抖音",
+      "小红书"
     ],
     "collector": "每日文化热点扫描写回 + TrendRadar增量 + 公开网页",
     "interactionMetrics": "未接入",
