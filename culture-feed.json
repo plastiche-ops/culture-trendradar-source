@@ -1,8 +1,188 @@
 {
   "version": 1,
-  "generatedAt": "2026-08-18T01:53:27.464Z",
+  "generatedAt": "2026-08-19T01:57:24.989Z",
   "windowDays": 30,
   "items": [
+    {
+      "id": "20260815-wangyao-paper-life",
+      "type": "事件性热点",
+      "domain": "文学 / 新书",
+      "title": "王尧谈《纸上的生活》：散文想象也是理解世界的方式",
+      "summary": "王尧在上海书展分享由17篇散文组成的新作，强调它不是单纯写乡愁，而是个人思想生活的切片，并尝试融合小说、诗歌和学术元素。",
+      "url": "https://www.chinawriter.com.cn/n1/2026/0819/c403994-40782144.html",
+      "source": "澎湃新闻（中国作家网）",
+      "sourceTitle": "王尧散文集《纸上的生活》：知识分子的精神地图",
+      "sourceType": "文学垂直网站",
+      "publishedAt": "2026-08-19T08:26:00+08:00",
+      "firstSeen": "2026-08-17T04:11:32.822Z",
+      "lastSeen": "2026-08-19T01:57:24.989Z",
+      "platforms": [
+        "新闻"
+      ],
+      "people": [
+        "王尧"
+      ],
+      "works": [
+        "《纸上的生活》"
+      ],
+      "institutions": [],
+      "places": [],
+      "p0": false,
+      "sourceCount": 1,
+      "metrics": "平台互动未接入"
+    },
+    {
+      "id": "20260816-physical-bookstores",
+      "type": "内容性热点",
+      "domain": "文学 / 实体书店",
+      "title": "实体书店如何选好书、卖好书：所有“书店+”的底层逻辑是留住人",
+      "summary": "从大隐书局、大众书局等案例讨论实体书店的差异化选书、流量入口和文创、餐饮、演出等复合业态。",
+      "url": "https://www.chinawriter.com.cn/n1/2026/0819/c403994-40782071.html",
+      "source": "中国作家网",
+      "sourceTitle": "今天，书店如何选好书、卖好书",
+      "sourceType": "文学垂直网站",
+      "publishedAt": "2026-08-19",
+      "firstSeen": "2026-08-17T04:11:32.822Z",
+      "lastSeen": "2026-08-19T01:57:24.989Z",
+      "platforms": [
+        "官网",
+        "新闻"
+      ],
+      "people": [],
+      "works": [],
+      "institutions": [
+        "中国作家网"
+      ],
+      "places": [],
+      "p0": false,
+      "sourceCount": 1,
+      "metrics": "平台互动未接入"
+    },
+    {
+      "id": "20260819-aiping-luxun-interview",
+      "type": "内容性热点",
+      "domain": "文学 / 鲁迅文学奖",
+      "title": "鲁奖作家艾平：按捺住浮躁，久久凝视生活中的人",
+      "summary": "艾平凭散文集《天生草原》获第九届鲁迅文学奖后接受专访，谈扎根呼伦贝尔、记录文明转型中人与万物重新寻找相处之道。",
+      "url": "https://www.chinawriter.com.cn/n1/2026/0819/c405057-40782091.html",
+      "source": "北京青年报（中国作家网）",
+      "sourceTitle": "鲁奖作家艾平：按捺住浮躁，久久凝视生活中的人",
+      "sourceType": "文学垂直网站",
+      "publishedAt": "2026-08-19T07:59:00+08:00",
+      "firstSeen": "2026-08-19T01:57:24.989Z",
+      "lastSeen": "2026-08-19T01:57:24.989Z",
+      "platforms": [
+        "新闻",
+        "公开网页"
+      ],
+      "people": [
+        "艾平"
+      ],
+      "works": [
+        "《天生草原》"
+      ],
+      "institutions": [
+        "鲁迅文学奖"
+      ],
+      "places": [
+        "内蒙古呼伦贝尔"
+      ],
+      "p0": true,
+      "sourceCount": 1,
+      "metrics": "平台互动未接入"
+    },
+    {
+      "id": "20260818-fuxiuying-qingzhi",
+      "type": "事件性热点",
+      "domain": "文学 / 新书",
+      "title": "付秀莹长篇小说《青枝》面世，多地举行新书分享",
+      "summary": "《青枝》以乡村少女米子的命运为切口，书写改革开放浪潮中的农村青年、城乡流动与重新出发。",
+      "url": "https://www.chinawriter.com.cn/n1/2026/0818/c403994-40781883.html",
+      "source": "花城出版社（中国作家网）",
+      "sourceTitle": "付秀莹长篇小说《青枝》面世，多地举行新书分享",
+      "sourceType": "出版社公开报道",
+      "publishedAt": "2026-08-18T16:34:00+08:00",
+      "firstSeen": "2026-08-19T01:57:24.989Z",
+      "lastSeen": "2026-08-19T01:57:24.989Z",
+      "platforms": [
+        "官网",
+        "新闻"
+      ],
+      "people": [
+        "付秀莹"
+      ],
+      "works": [
+        "《青枝》"
+      ],
+      "institutions": [
+        "花城出版社"
+      ],
+      "places": [],
+      "p0": false,
+      "sourceCount": 1,
+      "metrics": "平台互动未接入"
+    },
+    {
+      "id": "20260818-yanchi-qixi",
+      "type": "事件性热点",
+      "domain": "非遗 / 七夕民俗",
+      "title": "宁夏盐池以非遗体验、飞花令和穿针游园呈现七夕民俗",
+      "summary": "当地七夕活动把非遗体验、诗词飞花令、红线穿针等传统游艺组合为公众参与场景。",
+      "url": "https://nx.news.cn/20260818/2282371442e341e6b895a07191722153/c.html",
+      "source": "新华网宁夏频道",
+      "sourceTitle": "宁夏盐池以非遗体验、飞花令和穿针游园呈现七夕民俗",
+      "sourceType": "权威媒体报道",
+      "publishedAt": "2026-08-18T16:27:44+08:00",
+      "firstSeen": "2026-08-19T01:57:24.989Z",
+      "lastSeen": "2026-08-19T01:57:24.989Z",
+      "platforms": [
+        "新闻",
+        "公开网页"
+      ],
+      "people": [],
+      "works": [
+        "七夕民俗",
+        "穿针乞巧"
+      ],
+      "institutions": [],
+      "places": [
+        "宁夏盐池"
+      ],
+      "p0": true,
+      "sourceCount": 1,
+      "metrics": "平台互动未接入"
+    },
+    {
+      "id": "20260818-liuqingbang-huadengdiao",
+      "type": "内容性热点",
+      "domain": "文学 / 乡土文学",
+      "title": "刘庆邦《花灯调》以“第一书记的眼泪”书写乡土伦理",
+      "summary": "评论以贵州乡土经验为切口，讨论《花灯调》如何把基层人物情感与地方曲调结合。",
+      "url": "https://www.chinawriter.com.cn/n1/2026/0818/c404030-40781768.html",
+      "source": "北京青年报（中国作家网）",
+      "sourceTitle": "刘庆邦《花灯调》以“第一书记的眼泪”书写乡土伦理",
+      "sourceType": "文学垂直网站",
+      "publishedAt": "2026-08-18T10:36:00+08:00",
+      "firstSeen": "2026-08-19T01:57:24.989Z",
+      "lastSeen": "2026-08-19T01:57:24.989Z",
+      "platforms": [
+        "官网",
+        "新闻"
+      ],
+      "people": [
+        "刘庆邦"
+      ],
+      "works": [
+        "《花灯调》"
+      ],
+      "institutions": [],
+      "places": [
+        "贵州"
+      ],
+      "p0": false,
+      "sourceCount": 1,
+      "metrics": "平台互动未接入"
+    },
     {
       "id": "20260818-ai-aesthetic-education",
       "type": "内容性热点",
@@ -85,6 +265,280 @@
       ],
       "places": [
         "杭州"
+      ],
+      "p0": false,
+      "sourceCount": 1,
+      "metrics": "平台互动未接入"
+    },
+    {
+      "id": "20260818-shanghai-bookfair-close",
+      "type": "事件性热点",
+      "domain": "文学 / 出版",
+      "title": "2026上海书展闭幕，双主场吸引读者超42.2万人次",
+      "summary": "为期七天的上海书展闭幕，上海展览中心和上海书城双主场累计吸引读者超过42.2万人次，图书盲盒、编辑手写推荐等年轻化形式受到关注。",
+      "url": "https://www.shobserver.cn/news/detail?id=1161987",
+      "source": "上观新闻",
+      "sourceTitle": "2026上海书展闭幕，双主场吸引读者超42.2万人次",
+      "sourceType": "权威媒体报道",
+      "publishedAt": "2026-08-18",
+      "firstSeen": "2026-08-19T01:57:24.989Z",
+      "lastSeen": "2026-08-19T01:57:24.989Z",
+      "platforms": [
+        "新闻",
+        "公开网页"
+      ],
+      "people": [],
+      "works": [],
+      "institutions": [
+        "上海书展"
+      ],
+      "places": [
+        "上海"
+      ],
+      "p0": true,
+      "sourceCount": 1,
+      "metrics": "平台互动未接入"
+    },
+    {
+      "id": "20260818-shanghai-old-books",
+      "type": "日常性热点",
+      "domain": "文学 / 旧书文化",
+      "title": "上海书展“旧书新知”展位走红，年轻人淘“爷爷辈”图书",
+      "summary": "书展旧书展位以3元至15元的价格吸引不同年龄读者，连环画、实用书和旧版百科成为跨代阅读与怀旧消费样本。",
+      "url": "https://tidenews.com.cn/news.html?id=3533555",
+      "source": "潮新闻",
+      "sourceTitle": "上海书展“旧书新知”展位走红，年轻人淘“爷爷辈”图书",
+      "sourceType": "媒体公开报道",
+      "publishedAt": "2026-08-18",
+      "firstSeen": "2026-08-19T01:57:24.989Z",
+      "lastSeen": "2026-08-19T01:57:24.989Z",
+      "platforms": [
+        "新闻",
+        "公开网页"
+      ],
+      "people": [],
+      "works": [],
+      "institutions": [
+        "上海书展"
+      ],
+      "places": [
+        "上海"
+      ],
+      "p0": false,
+      "sourceCount": 1,
+      "metrics": "平台互动未接入"
+    },
+    {
+      "id": "20260818-qingshui-yellow-river",
+      "type": "事件性热点",
+      "domain": "文学 / 生态文学",
+      "title": "《一泓清水入黄河》发布，追踪汾河千年生态变迁",
+      "summary": "李景平以汾河治理为双线叙事核心，结合历史生态变迁与一线治水故事，形成生态文学新书线索。",
+      "url": "https://www.chinawriter.com.cn/n1/2026/0818/c403994-40781517.html",
+      "source": "中国作家网",
+      "sourceTitle": "《一泓清水入黄河》发布，追踪汾河千年生态变迁",
+      "sourceType": "文学垂直网站",
+      "publishedAt": "2026-08-18",
+      "firstSeen": "2026-08-19T01:57:24.989Z",
+      "lastSeen": "2026-08-19T01:57:24.989Z",
+      "platforms": [
+        "官网",
+        "新闻"
+      ],
+      "people": [
+        "李景平"
+      ],
+      "works": [
+        "《一泓清水入黄河》"
+      ],
+      "institutions": [
+        "山西教育出版社"
+      ],
+      "places": [
+        "山西太原",
+        "汾河"
+      ],
+      "p0": false,
+      "sourceCount": 1,
+      "metrics": "平台互动未接入"
+    },
+    {
+      "id": "20260818-modern-ci-poetry",
+      "type": "内容性热点",
+      "domain": "文学 / 诗歌",
+      "title": "“现代词”被提出为21世纪新诗的新诗体",
+      "summary": "文学评论梳理沈奇、胡弦、沙克等诗人的实验，讨论现代汉语如何重新激活古典词体的形式感。",
+      "url": "https://www.chinawriter.com.cn/n1/2026/0818/c404030-40781766.html",
+      "source": "中国作家网",
+      "sourceTitle": "“现代词”被提出为21世纪新诗的新诗体",
+      "sourceType": "文学垂直网站",
+      "publishedAt": "2026-08-18",
+      "firstSeen": "2026-08-19T01:57:24.989Z",
+      "lastSeen": "2026-08-19T01:57:24.989Z",
+      "platforms": [
+        "官网",
+        "新闻"
+      ],
+      "people": [
+        "沈奇",
+        "胡弦",
+        "沙克"
+      ],
+      "works": [],
+      "institutions": [
+        "中国作家网"
+      ],
+      "places": [],
+      "p0": false,
+      "sourceCount": 1,
+      "metrics": "平台互动未接入"
+    },
+    {
+      "id": "20260818-shaanxi-red-fist",
+      "type": "事件性热点",
+      "domain": "非遗 / 传统体育",
+      "title": "陕西举办首届红拳公开赛，全国选手同场竞技",
+      "summary": "首届陕西省红拳公开赛在三原县开赛，红拳作为陕西代表性传统武术项目进入赛事化、公众化传播场景。",
+      "url": "https://sn.news.cn/20260818/ff1befa98aec4901911529490e6e866a/c.html",
+      "source": "新华网陕西频道",
+      "sourceTitle": "陕西举办首届红拳公开赛，全国选手同场竞技",
+      "sourceType": "权威媒体报道",
+      "publishedAt": "2026-08-18",
+      "firstSeen": "2026-08-19T01:57:24.989Z",
+      "lastSeen": "2026-08-19T01:57:24.989Z",
+      "platforms": [
+        "新闻",
+        "公开网页"
+      ],
+      "people": [],
+      "works": [
+        "红拳"
+      ],
+      "institutions": [],
+      "places": [
+        "陕西咸阳",
+        "三原县"
+      ],
+      "p0": false,
+      "sourceCount": 1,
+      "metrics": "平台互动未接入"
+    },
+    {
+      "id": "20260818-cross-strait-dragon-lion",
+      "type": "事件性热点",
+      "domain": "非遗 / 传统体育",
+      "title": "海峡两岸大学生以舞龙舞狮会友，共续中华文脉",
+      "summary": "来自海峡两岸的16支代表队在泉州参加舞龙舞狮争霸赛，传统体育成为青年文化交流载体。",
+      "url": "https://www.news.cn/finance/20260818/6291cea00d6f4a1b9cb54d28e267fd3d/c.html",
+      "source": "新华网",
+      "sourceTitle": "海峡两岸大学生以舞龙舞狮会友，共续中华文脉",
+      "sourceType": "权威媒体报道",
+      "publishedAt": "2026-08-18",
+      "firstSeen": "2026-08-19T01:57:24.989Z",
+      "lastSeen": "2026-08-19T01:57:24.989Z",
+      "platforms": [
+        "新闻",
+        "视频",
+        "公开网页"
+      ],
+      "people": [],
+      "works": [
+        "舞龙",
+        "舞狮"
+      ],
+      "institutions": [],
+      "places": [
+        "福建泉州"
+      ],
+      "p0": false,
+      "sourceCount": 1,
+      "metrics": "平台互动未接入"
+    },
+    {
+      "id": "20260818-jingdezhen-ceramic-protection",
+      "type": "内容性热点",
+      "domain": "非遗 / 陶瓷文化",
+      "title": "景德镇陶瓷文化保护强调“原生空间中的活态呈现”",
+      "summary": "公开文章提出保护老作坊、老里弄和老村落，让拉坯、施釉、烧窑在原生文化空间中活态呈现，并与现代设计、数字艺术结合。",
+      "url": "https://www.qstheory.cn/20260818/d6a89bd9e8d043b4ab3ecaf126e5f18a/c.html",
+      "source": "求是网",
+      "sourceTitle": "景德镇陶瓷文化保护强调“原生空间中的活态呈现”",
+      "sourceType": "权威公开评论",
+      "publishedAt": "2026-08-18",
+      "firstSeen": "2026-08-19T01:57:24.989Z",
+      "lastSeen": "2026-08-19T01:57:24.989Z",
+      "platforms": [
+        "新闻",
+        "公开网页"
+      ],
+      "people": [],
+      "works": [
+        "景德镇陶瓷传统技艺"
+      ],
+      "institutions": [],
+      "places": [
+        "景德镇"
+      ],
+      "p0": true,
+      "sourceCount": 1,
+      "metrics": "平台互动未接入"
+    },
+    {
+      "id": "20260818-ai-ich-inheritance",
+      "type": "内容性热点",
+      "domain": "非遗 / 数字化",
+      "title": "AI数字化能否破解非遗活态传承的长期痛点引发讨论",
+      "summary": "经济日报相关报道关注AI对口传心授技艺的记录、保存与教学，同时涉及真实性和传承主体位置等问题。",
+      "url": "https://www.jingjiribao.cn/static/detail.jsp?id=677080",
+      "source": "经济日报",
+      "sourceTitle": "AI数字化能否破解非遗活态传承的长期痛点引发讨论",
+      "sourceType": "权威媒体报道",
+      "publishedAt": "2026-08-18",
+      "firstSeen": "2026-08-19T01:57:24.989Z",
+      "lastSeen": "2026-08-19T01:57:24.989Z",
+      "platforms": [
+        "新闻",
+        "公开网页"
+      ],
+      "people": [],
+      "works": [],
+      "institutions": [
+        "经济日报"
+      ],
+      "places": [
+        "贵州"
+      ],
+      "p0": false,
+      "sourceCount": 1,
+      "metrics": "平台互动未接入"
+    },
+    {
+      "id": "20260818-ordos-dalian",
+      "type": "事件性热点",
+      "domain": "非遗 / 区域文化",
+      "title": "“鄂尔多斯文化神州行”将走进大连",
+      "summary": "活动计划集中展示马头琴、古如歌、鄂尔多斯舞等草原非遗，形成跨区域非遗展演线索。",
+      "url": "https://nmg.news.cn/20260818/d4da955ed70e40eeba6b3c8662d9b3f4/c.html",
+      "source": "新华网内蒙古频道",
+      "sourceTitle": "“鄂尔多斯文化神州行”将走进大连",
+      "sourceType": "权威媒体报道",
+      "publishedAt": "2026-08-18",
+      "firstSeen": "2026-08-19T01:57:24.989Z",
+      "lastSeen": "2026-08-19T01:57:24.989Z",
+      "platforms": [
+        "新闻",
+        "公开网页"
+      ],
+      "people": [],
+      "works": [
+        "马头琴",
+        "古如歌",
+        "鄂尔多斯舞"
+      ],
+      "institutions": [],
+      "places": [
+        "内蒙古鄂尔多斯",
+        "辽宁大连"
       ],
       "p0": false,
       "sourceCount": 1,
@@ -912,28 +1366,35 @@
       "metrics": "平台互动未接入"
     },
     {
-      "id": "20260816-physical-bookstores",
-      "type": "内容性热点",
-      "domain": "文学 / 实体书店",
-      "title": "实体书店如何连接城市文化生活再受讨论",
-      "summary": "中国作家网公开报道聚焦书店空间、阅读社群与城市文化。",
-      "url": "https://www.chinawriter.com.cn/n1/2026/0816/c403994-40780333.html",
-      "source": "中国作家网",
-      "sourceTitle": "实体书店如何连接城市文化生活再受讨论",
-      "sourceType": "文学垂直网站",
-      "publishedAt": "2026-08-16",
-      "firstSeen": "2026-08-17T04:11:32.822Z",
-      "lastSeen": "2026-08-17T04:11:32.822Z",
+      "id": "20260815-yangjiang-maritime-silk-road-doc",
+      "type": "事件性热点",
+      "domain": "人文 / 微纪录片",
+      "title": "15集国际微纪录片“海丝新声·潮起阳江”开播",
+      "summary": "阳江广播电视台联合总台及亚太广播联盟制作，以海洋产业、城市文化和海丝交流为主题面向海内外播出。",
+      "url": "https://news.qq.com/rain/a/20260815A0B0A700",
+      "source": "阳江广播电视台官方账号",
+      "sourceTitle": "15集国际微纪录片“海丝新声·潮起阳江”开播",
+      "sourceType": "机构公开发布",
+      "publishedAt": "2026-08-15T18:10:00+08:00",
+      "firstSeen": "2026-08-19T01:57:24.989Z",
+      "lastSeen": "2026-08-19T01:57:24.989Z",
       "platforms": [
-        "官网",
-        "新闻"
+        "腾讯新闻",
+        "视频",
+        "公开网页"
       ],
       "people": [],
-      "works": [],
-      "institutions": [
-        "中国作家网"
+      "works": [
+        "“海丝新声·潮起阳江”"
       ],
-      "places": [],
+      "institutions": [
+        "阳江广播电视台",
+        "中央广播电视总台",
+        "亚太广播联盟"
+      ],
+      "places": [
+        "广东阳江"
+      ],
       "p0": false,
       "sourceCount": 1,
       "metrics": "平台互动未接入"
@@ -1000,34 +1461,6 @@
       "places": [
         "上海"
       ],
-      "p0": false,
-      "sourceCount": 1,
-      "metrics": "平台互动未接入"
-    },
-    {
-      "id": "20260815-wangyao-paper-life",
-      "type": "事件性热点",
-      "domain": "文学 / 新书",
-      "title": "王尧《纸上的生活》进入新书讨论",
-      "summary": "作家王尧的新作及其关于文学生活的表达形成内容线索。",
-      "url": "https://znyd.rednet.cn/content/646042/54/16162547.html",
-      "source": "红网",
-      "sourceTitle": "王尧《纸上的生活》进入新书讨论",
-      "sourceType": "媒体公开报道",
-      "publishedAt": "2026-08-15",
-      "firstSeen": "2026-08-17T04:11:32.822Z",
-      "lastSeen": "2026-08-17T04:11:32.822Z",
-      "platforms": [
-        "新闻"
-      ],
-      "people": [
-        "王尧"
-      ],
-      "works": [
-        "《纸上的生活》"
-      ],
-      "institutions": [],
-      "places": [],
       "p0": false,
       "sourceCount": 1,
       "metrics": "平台互动未接入"
@@ -1891,15 +2324,16 @@
     }
   ],
   "meta": {
-    "total": 60,
+    "total": 74,
     "platforms": [
       "新闻",
+      "官网",
       "公开网页",
       "戏剧",
-      "电视",
       "视频",
+      "电视",
       "央视新闻",
-      "官网",
+      "腾讯新闻",
       "微信",
       "图片",
       "微博",
