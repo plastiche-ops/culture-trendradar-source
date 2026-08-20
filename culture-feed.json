@@ -1,8 +1,316 @@
 {
   "version": 1,
-  "generatedAt": "2026-08-19T01:57:24.989Z",
+  "generatedAt": "2026-08-20T01:55:07.000Z",
   "windowDays": 30,
   "items": [
+    {
+      "id": "20260820-poetry-deepseek-review",
+      "type": "内容性热点",
+      "domain": "文学 / AI与诗歌",
+      "title": "中国诗歌网引入DeepSeek点评，引发“人类体温”与审美同质化讨论",
+      "summary": "中国诗歌网自2025年起为上传诗作生成DeepSeek点评，“每日好诗”编辑会二次生成、删减和整合；访谈同时集中讨论AI评论的程式化、署名伦理与诗歌审美边界。",
+      "url": "https://www.chinawriter.com.cn/n1/2026/0820/c405057-40782839.html",
+      "source": "文学报（中国作家网）",
+      "sourceTitle": "人类不需要一座新的巴别塔：当诗歌网站引入DeepSeek点评",
+      "sourceType": "文学垂直网站",
+      "publishedAt": "2026-08-20T08:03:00+08:00",
+      "firstSeen": "2026-08-20T01:55:07.000Z",
+      "lastSeen": "2026-08-20T01:55:07.000Z",
+      "platforms": [
+        "官网",
+        "新闻",
+        "微信"
+      ],
+      "people": [
+        "王夫刚",
+        "滕月恭"
+      ],
+      "works": [
+        "《“每日好诗”DeepSeek点评诗选》"
+      ],
+      "institutions": [
+        "中国诗歌网",
+        "《诗刊》社"
+      ],
+      "places": [],
+      "p0": true,
+      "sourceCount": 1,
+      "metrics": "平台互动未接入"
+    },
+    {
+      "id": "20260820-kunlun-culture-forum",
+      "type": "事件性热点",
+      "domain": "人文 / 文化遗产",
+      "title": "2026年昆仑文化论坛围绕尕日塘秦刻石展开多学科讨论",
+      "summary": "论坛8月19日在西宁开幕，设置秦刻石专题研讨以及精神探源、遗产活化、多元传播、生态人文等分论坛，延续此前持续百日的“昆仑石刻”公共学术争鸣。",
+      "url": "https://epaper.gmw.cn/gmrb/html/content/202608/20/content_22866.html",
+      "source": "光明日报",
+      "sourceTitle": "2026年昆仑文化论坛举行",
+      "sourceType": "权威媒体报道",
+      "publishedAt": "2026-08-20",
+      "firstSeen": "2026-08-20T01:55:07.000Z",
+      "lastSeen": "2026-08-20T01:55:07.000Z",
+      "platforms": [
+        "新闻",
+        "公开网页"
+      ],
+      "people": [
+        "仝涛"
+      ],
+      "works": [
+        "尕日塘秦刻石"
+      ],
+      "institutions": [
+        "青海昆仑文化研究院"
+      ],
+      "places": [
+        "青海西宁",
+        "扎陵湖"
+      ],
+      "p0": true,
+      "sourceCount": 1,
+      "metrics": "平台互动未接入"
+    },
+    {
+      "id": "20260820-ordos-nairi-ich",
+      "type": "内容性热点",
+      "domain": "非遗 / 民间艺术",
+      "title": "鄂尔多斯“乃日”从草原日常走向联赛舞台与数字资源库",
+      "summary": "鄂托克旗以200名农牧民组成礼乐方阵，并通过文化户、文艺队、传习所和数字资源库推动“乃日”活态传承；当地已有128家文化户、182支文艺队。",
+      "url": "https://epaper.gmw.cn/gmrb/html/content/202608/20/content_22865.html",
+      "source": "光明日报",
+      "sourceTitle": "鄂尔多斯：草原之上 非遗破圈生长",
+      "sourceType": "权威媒体报道",
+      "publishedAt": "2026-08-20",
+      "firstSeen": "2026-08-20T01:55:07.000Z",
+      "lastSeen": "2026-08-20T01:55:07.000Z",
+      "platforms": [
+        "新闻",
+        "公开网页"
+      ],
+      "people": [
+        "芒来巴特尔",
+        "珠那"
+      ],
+      "works": [
+        "鄂尔多斯“乃日”"
+      ],
+      "institutions": [
+        "鄂托克旗文化馆"
+      ],
+      "places": [
+        "内蒙古鄂尔多斯",
+        "鄂托克旗"
+      ],
+      "p0": false,
+      "sourceCount": 1,
+      "metrics": "平台互动未接入"
+    },
+    {
+      "id": "20260820-luoyang-bridge-living-heritage",
+      "type": "日常性热点",
+      "domain": "非遗 / 文化遗产",
+      "title": "泉州洛阳桥周边引入非遗与文创业态，世界遗产融入市井生活",
+      "summary": "洛阳桥作为“泉州：宋元中国的世界海洋商贸中心”遗产点，其周边古街通过非遗、文创和历史建筑活化形成日常性文化体验场景。",
+      "url": "https://epaper.gmw.cn/gmrb/html/content/202608/20/content_22867.html",
+      "source": "光明日报",
+      "sourceTitle": "千年古韵与今日烟火，在此悠然相遇",
+      "sourceType": "权威媒体报道",
+      "publishedAt": "2026-08-20",
+      "firstSeen": "2026-08-20T01:55:07.000Z",
+      "lastSeen": "2026-08-20T01:55:07.000Z",
+      "platforms": [
+        "新闻",
+        "图片",
+        "公开网页"
+      ],
+      "people": [],
+      "works": [
+        "洛阳桥"
+      ],
+      "institutions": [],
+      "places": [
+        "福建泉州"
+      ],
+      "p0": false,
+      "sourceCount": 1,
+      "metrics": "平台互动未接入"
+    },
+    {
+      "id": "20260819-writers-shanxi-fieldtrip",
+      "type": "事件性热点",
+      "domain": "文学 / 作家活动",
+      "title": "吉狄马加带队，第十一届“著名作家看山西”采风启动",
+      "summary": "8月17日至22日，多位茅盾文学奖、鲁迅文学奖作家在朔州、阳泉采风，将围绕地域风貌、民俗与历史文化开展创作。",
+      "url": "https://www.chinanews.com.cn/cul/2026/08-19/10680532.shtml",
+      "source": "中国新闻网",
+      "sourceTitle": "文学赋能文旅 第十一届著名作家看山西采风活动举行",
+      "sourceType": "权威媒体报道",
+      "publishedAt": "2026-08-19T18:56:01+08:00",
+      "firstSeen": "2026-08-20T01:55:07.000Z",
+      "lastSeen": "2026-08-20T01:55:07.000Z",
+      "platforms": [
+        "新闻",
+        "公开网页"
+      ],
+      "people": [
+        "吉狄马加",
+        "刘醒龙",
+        "刘庆邦",
+        "穆涛",
+        "李浩",
+        "王祥夫",
+        "弋舟"
+      ],
+      "works": [],
+      "institutions": [
+        "山西省文化和旅游厅"
+      ],
+      "places": [
+        "山西朔州",
+        "山西阳泉"
+      ],
+      "p0": false,
+      "sourceCount": 1,
+      "metrics": "平台互动未接入"
+    },
+    {
+      "id": "20260819-china-wet-markets-book",
+      "type": "内容性热点",
+      "domain": "人文 / 日常生活史",
+      "title": "钟淑如新书《中国菜市场》追问菜市场为何没有被超市取代",
+      "summary": "钟淑如以10余年、50多座城市和200多家菜市场的田野研究，讨论菜市场作为地方物产、时令知识与社区关系生成基础设施的价值。",
+      "url": "https://www.chinanews.com.cn/cul/2026/08-19/10680170.shtml",
+      "source": "中国青年报（中国新闻网）",
+      "sourceTitle": "菜市场究竟承载着什么？这位学者把它写成了一本书",
+      "sourceType": "权威媒体报道",
+      "publishedAt": "2026-08-19T14:00:13+08:00",
+      "firstSeen": "2026-08-20T01:55:07.000Z",
+      "lastSeen": "2026-08-20T01:55:07.000Z",
+      "platforms": [
+        "新闻",
+        "公开网页"
+      ],
+      "people": [
+        "钟淑如"
+      ],
+      "works": [
+        "《中国菜市场》"
+      ],
+      "institutions": [
+        "中山大学旅游学院"
+      ],
+      "places": [
+        "海南",
+        "广州",
+        "昆明"
+      ],
+      "p0": false,
+      "sourceCount": 1,
+      "metrics": "平台互动未接入"
+    },
+    {
+      "id": "20260819-hubei-museum-qixi",
+      "type": "事件性热点",
+      "domain": "非遗 / 七夕民俗",
+      "title": "湖北省博物馆以穿针乞巧和婚俗文物带动七夕参观热潮",
+      "summary": "湖北省博物馆在七夕推出主题文化活动，以穿针乞巧、凤鸟双连杯、玉禁步和明代亲王妃封册等串联先秦至明代婚俗文化。",
+      "url": "https://www.chinanews.com.cn/cul/2026/08-19/10680148.shtml",
+      "source": "中国新闻网",
+      "sourceTitle": "湖北省博迎七夕热潮 “中式浪漫”圈粉游客",
+      "sourceType": "权威媒体报道",
+      "publishedAt": "2026-08-19T11:26:09+08:00",
+      "firstSeen": "2026-08-20T01:55:07.000Z",
+      "lastSeen": "2026-08-20T01:55:07.000Z",
+      "platforms": [
+        "新闻",
+        "视频",
+        "公开网页"
+      ],
+      "people": [
+        "罗恰"
+      ],
+      "works": [
+        "穿针乞巧",
+        "彩绘漆木凤鸟双连杯"
+      ],
+      "institutions": [
+        "湖北省博物馆"
+      ],
+      "places": [
+        "湖北武汉"
+      ],
+      "p0": false,
+      "sourceCount": 1,
+      "metrics": "平台互动未接入"
+    },
+    {
+      "id": "20260819-qixi-cultural-consumption",
+      "type": "日常性热点",
+      "domain": "非遗 / 传统节日",
+      "title": "七夕非遗从静态展示转向夜游、市集与参与式消费场景",
+      "summary": "多地把乞巧、团扇拓印、传统婚俗和簪花礼制转化为夜游、工坊、国风婚礼和沉浸式市集，形成传统节日的跨城市传播样本。",
+      "url": "https://www.news.cn/20260819/4194d596553b4e068660ba3f464dd745/c.html",
+      "source": "经济参考报（新华网）",
+      "sourceTitle": "传统文化赋能新业态 七夕消费添“热度”",
+      "sourceType": "权威媒体报道",
+      "publishedAt": "2026-08-19T09:43:05+08:00",
+      "firstSeen": "2026-08-20T01:55:07.000Z",
+      "lastSeen": "2026-08-20T01:55:07.000Z",
+      "platforms": [
+        "新闻",
+        "公开网页"
+      ],
+      "people": [],
+      "works": [
+        "七夕乞巧习俗",
+        "团扇拓印",
+        "传统婚俗"
+      ],
+      "institutions": [],
+      "places": [
+        "北京",
+        "广州",
+        "南京",
+        "苏州",
+        "上海"
+      ],
+      "p0": true,
+      "sourceCount": 1,
+      "metrics": "平台互动未接入"
+    },
+    {
+      "id": "20260819-shanghai-ich-rehabilitation",
+      "type": "事件性热点",
+      "domain": "非遗 / 公共文化",
+      "title": "上海“非遗进大墙”教育成果展开幕，呈现传统技艺参与矫治实践",
+      "summary": "展览8月18日在上海市群众艺术馆开幕，集中呈现非遗项目进入监狱教育矫治的阶段性成果，并提出继续以科技等方式赋能。",
+      "url": "https://www.jfdaily.com/sgh/detail?id=4041043",
+      "source": "上观新闻",
+      "sourceTitle": "2026艺术改变人生——上海“非遗进大墙”教育成果展开幕",
+      "sourceType": "权威媒体报道",
+      "publishedAt": "2026-08-19T09:19:24+08:00",
+      "firstSeen": "2026-08-20T01:55:07.000Z",
+      "lastSeen": "2026-08-20T01:55:07.000Z",
+      "platforms": [
+        "新闻",
+        "公开网页"
+      ],
+      "people": [],
+      "works": [
+        "“非遗进大墙”教育成果展"
+      ],
+      "institutions": [
+        "上海市司法局",
+        "上海市群众艺术馆"
+      ],
+      "places": [
+        "上海"
+      ],
+      "p0": false,
+      "sourceCount": 1,
+      "metrics": "平台互动未接入"
+    },
     {
       "id": "20260815-wangyao-paper-life",
       "type": "事件性热点",
@@ -26,33 +334,6 @@
         "《纸上的生活》"
       ],
       "institutions": [],
-      "places": [],
-      "p0": false,
-      "sourceCount": 1,
-      "metrics": "平台互动未接入"
-    },
-    {
-      "id": "20260816-physical-bookstores",
-      "type": "内容性热点",
-      "domain": "文学 / 实体书店",
-      "title": "实体书店如何选好书、卖好书：所有“书店+”的底层逻辑是留住人",
-      "summary": "从大隐书局、大众书局等案例讨论实体书店的差异化选书、流量入口和文创、餐饮、演出等复合业态。",
-      "url": "https://www.chinawriter.com.cn/n1/2026/0819/c403994-40782071.html",
-      "source": "中国作家网",
-      "sourceTitle": "今天，书店如何选好书、卖好书",
-      "sourceType": "文学垂直网站",
-      "publishedAt": "2026-08-19",
-      "firstSeen": "2026-08-17T04:11:32.822Z",
-      "lastSeen": "2026-08-19T01:57:24.989Z",
-      "platforms": [
-        "官网",
-        "新闻"
-      ],
-      "people": [],
-      "works": [],
-      "institutions": [
-        "中国作家网"
-      ],
       "places": [],
       "p0": false,
       "sourceCount": 1,
@@ -86,6 +367,64 @@
       ],
       "places": [
         "内蒙古呼伦贝尔"
+      ],
+      "p0": true,
+      "sourceCount": 1,
+      "metrics": "平台互动未接入"
+    },
+    {
+      "id": "20260816-physical-bookstores",
+      "type": "内容性热点",
+      "domain": "文学 / 实体书店",
+      "title": "实体书店如何选好书、卖好书：所有“书店+”的底层逻辑是留住人",
+      "summary": "从大隐书局、大众书局等案例讨论实体书店的差异化选书、流量入口和文创、餐饮、演出等复合业态。",
+      "url": "https://www.chinawriter.com.cn/n1/2026/0819/c403994-40782071.html",
+      "source": "中国作家网",
+      "sourceTitle": "今天，书店如何选好书、卖好书",
+      "sourceType": "文学垂直网站",
+      "publishedAt": "2026-08-19",
+      "firstSeen": "2026-08-17T04:11:32.822Z",
+      "lastSeen": "2026-08-19T01:57:24.989Z",
+      "platforms": [
+        "官网",
+        "新闻"
+      ],
+      "people": [],
+      "works": [],
+      "institutions": [
+        "中国作家网"
+      ],
+      "places": [],
+      "p0": false,
+      "sourceCount": 1,
+      "metrics": "平台互动未接入"
+    },
+    {
+      "id": "20260818-nlc-chinese-food-documentary",
+      "type": "事件性热点",
+      "domain": "非遗 / 纪录片",
+      "title": "国家图书馆启动中餐主题纪录片征集，拓展非遗影像建档",
+      "summary": "征集涵盖烹饪技艺、食材生产、饮食礼仪和民俗等，分微纪录、短片、长片、系列片四类，计划遴选典藏及优选作品入藏。",
+      "url": "https://www.chinanews.com.cn/cul/2026/08-18/10679871.shtml",
+      "source": "中国新闻网",
+      "sourceTitle": "国家图书馆面向社会各界征集中餐主题纪录片",
+      "sourceType": "权威媒体报道",
+      "publishedAt": "2026-08-18T20:35:37+08:00",
+      "firstSeen": "2026-08-20T01:55:07.000Z",
+      "lastSeen": "2026-08-20T01:55:07.000Z",
+      "platforms": [
+        "新闻",
+        "公开网页"
+      ],
+      "people": [],
+      "works": [
+        "“谁知盘中餐”中餐主题纪录片征集"
+      ],
+      "institutions": [
+        "国家图书馆"
+      ],
+      "places": [
+        "北京"
       ],
       "p0": true,
       "sourceCount": 1,
@@ -914,6 +1253,37 @@
       "metrics": "平台互动未接入"
     },
     {
+      "id": "20260817-caigao-andersen",
+      "type": "内容性热点",
+      "domain": "文学 / 绘本",
+      "title": "蔡皋获国际安徒生奖后谈创作：童年是最好的摇篮",
+      "summary": "央视《面对面》呈现80岁的蔡皋如何从中国民间文化汲取绘本创作资源；她是插画奖设立60年来首位中国获奖者。",
+      "url": "https://www.thepaper.cn/newsDetail_forward_33796428?commTag=true",
+      "source": "央视新闻（澎湃转载）",
+      "sourceTitle": "蔡皋获国际安徒生奖后谈创作：童年是最好的摇篮",
+      "sourceType": "权威媒体公开报道",
+      "publishedAt": "2026-08-17T02:39:00+08:00",
+      "firstSeen": "2026-08-18T01:53:27.464Z",
+      "lastSeen": "2026-08-18T01:53:27.464Z",
+      "platforms": [
+        "央视新闻",
+        "公开网页"
+      ],
+      "people": [
+        "蔡皋"
+      ],
+      "works": [],
+      "institutions": [
+        "国际儿童读物联盟"
+      ],
+      "places": [
+        "加拿大渥太华"
+      ],
+      "p0": true,
+      "sourceCount": 1,
+      "metrics": "平台互动未接入"
+    },
+    {
       "id": "20260817-tree-speaks-china",
       "type": "事件性热点",
       "domain": "人文 / 纪录片",
@@ -1053,37 +1423,6 @@
         "上海"
       ],
       "p0": false,
-      "sourceCount": 1,
-      "metrics": "平台互动未接入"
-    },
-    {
-      "id": "20260817-caigao-andersen",
-      "type": "内容性热点",
-      "domain": "文学 / 绘本",
-      "title": "蔡皋获国际安徒生奖后谈创作：童年是最好的摇篮",
-      "summary": "央视《面对面》呈现80岁的蔡皋如何从中国民间文化汲取绘本创作资源；她是插画奖设立60年来首位中国获奖者。",
-      "url": "https://www.thepaper.cn/newsDetail_forward_33796428?commTag=true",
-      "source": "央视新闻（澎湃转载）",
-      "sourceTitle": "蔡皋获国际安徒生奖后谈创作：童年是最好的摇篮",
-      "sourceType": "权威媒体公开报道",
-      "publishedAt": "2026-08-17T02:39:00+08:00",
-      "firstSeen": "2026-08-18T01:53:27.464Z",
-      "lastSeen": "2026-08-18T01:53:27.464Z",
-      "platforms": [
-        "央视新闻",
-        "公开网页"
-      ],
-      "people": [
-        "蔡皋"
-      ],
-      "works": [],
-      "institutions": [
-        "国际儿童读物联盟"
-      ],
-      "places": [
-        "加拿大渥太华"
-      ],
-      "p0": true,
       "sourceCount": 1,
       "metrics": "平台互动未接入"
     },
@@ -1400,6 +1739,40 @@
       "metrics": "平台互动未接入"
     },
     {
+      "id": "20260815-maweidu-tang-poetry",
+      "type": "内容性热点",
+      "domain": "文学 / 名人原生表达",
+      "title": "马未都：唐诗是一部唐代的百科全书",
+      "summary": "马未都本人账号发布短视频，以“百科全书”为切口谈唐诗的社会生活与文化信息，是名人原生人文解读类内容。",
+      "url": "https://www.sina.cn/news/detail/5332071614777659.html",
+      "source": "马未都本人微博（新浪公开页）",
+      "sourceTitle": "马未都：唐诗是一部唐代的百科全书",
+      "sourceType": "本人原发公开镜像",
+      "publishedAt": "2026-08-15T07:00:00+08:00",
+      "firstSeen": "2026-08-18T01:53:27.464Z",
+      "lastSeen": "2026-08-18T01:53:27.464Z",
+      "platforms": [
+        "微博",
+        "抖音"
+      ],
+      "people": [
+        "马未都"
+      ],
+      "works": [
+        "唐诗"
+      ],
+      "institutions": [
+        "马未都账号",
+        "观复博物馆"
+      ],
+      "places": [
+        "北京"
+      ],
+      "p0": true,
+      "sourceCount": 1,
+      "metrics": "平台互动未接入"
+    },
+    {
       "id": "20260815-moyan-renna",
       "type": "事件性热点",
       "domain": "文学 / 作家活动",
@@ -1609,37 +1982,39 @@
       "metrics": "平台互动未接入"
     },
     {
-      "id": "20260815-maweidu-tang-poetry",
-      "type": "内容性热点",
-      "domain": "文学 / 名人原生表达",
-      "title": "马未都：唐诗是一部唐代的百科全书",
-      "summary": "马未都本人账号发布短视频，以“百科全书”为切口谈唐诗的社会生活与文化信息，是名人原生人文解读类内容。",
-      "url": "https://www.sina.cn/news/detail/5332071614777659.html",
-      "source": "马未都本人微博（新浪公开页）",
-      "sourceTitle": "马未都：唐诗是一部唐代的百科全书",
-      "sourceType": "本人原发公开镜像",
-      "publishedAt": "2026-08-15T07:00:00+08:00",
-      "firstSeen": "2026-08-18T01:53:27.464Z",
-      "lastSeen": "2026-08-18T01:53:27.464Z",
+      "id": "20260812-wang-xiji-obituary",
+      "type": "事件性热点",
+      "domain": "重要人文 / 名人逝世",
+      "title": "“两弹一星”元勋王希季逝世，享年105岁",
+      "summary": "王希季于8月12日在北京逝世。他主持研制中国第一枚探空火箭、提出第一枚运载火箭技术方案，并参与返回式卫星等空间技术发展。",
+      "url": "https://www.news.cn/20260814/2770125929bc4c7988cc8cfcd7e12522/c.html",
+      "source": "新华网",
+      "sourceTitle": "“两弹一星”元勋王希季逝世",
+      "sourceType": "权威媒体报道",
+      "publishedAt": "2026-08-14T19:18:26+08:00",
+      "firstSeen": "2026-08-20T01:55:07.000Z",
+      "lastSeen": "2026-08-20T01:55:07.000Z",
       "platforms": [
-        "微博",
-        "抖音"
+        "新闻",
+        "公开网页"
       ],
       "people": [
-        "马未都"
+        "王希季"
       ],
       "works": [
-        "唐诗"
+        "长征一号",
+        "T7M探空火箭"
       ],
       "institutions": [
-        "马未都账号",
-        "观复博物馆"
+        "中国空间技术研究院",
+        "中国科学院"
       ],
       "places": [
-        "北京"
+        "北京",
+        "云南昆明"
       ],
       "p0": true,
-      "sourceCount": 1,
+      "sourceCount": 2,
       "metrics": "平台互动未接入"
     },
     {
@@ -1927,6 +2302,39 @@
       "metrics": "平台互动未接入"
     },
     {
+      "id": "20260812-zhu-rongji-obituary",
+      "type": "事件性热点",
+      "domain": "重要人文 / 名人逝世",
+      "title": "国务院原总理朱镕基逝世，享年98岁",
+      "summary": "新华社8月12日发布讣告，朱镕基于当日11时06分在北京逝世。该事件随后引发社会纪念与其改革生涯相关内容的集中传播。",
+      "url": "https://www.news.cn/politics/20260812/4c2c72e299ef4561915d2e507393a81f/c.html",
+      "source": "新华网",
+      "sourceTitle": "受权发布丨中共中央 全国人大常委会 国务院 全国政协讣告 朱镕基同志逝世",
+      "sourceType": "权威机构发布",
+      "publishedAt": "2026-08-12T18:00:52+08:00",
+      "firstSeen": "2026-08-20T01:55:07.000Z",
+      "lastSeen": "2026-08-20T01:55:07.000Z",
+      "platforms": [
+        "新闻",
+        "公开网页"
+      ],
+      "people": [
+        "朱镕基"
+      ],
+      "works": [],
+      "institutions": [
+        "国务院",
+        "清华大学经济管理学院"
+      ],
+      "places": [
+        "北京",
+        "湖南长沙"
+      ],
+      "p0": true,
+      "sourceCount": 2,
+      "metrics": "平台互动未接入"
+    },
+    {
       "id": "seed-maweidu-huangmao-essay-2026",
       "type": "内容性热点",
       "domain": "文学 / 原生人文解读",
@@ -1954,6 +2362,41 @@
       "places": [],
       "p0": true,
       "sourceCount": 1,
+      "metrics": "平台互动未接入"
+    },
+    {
+      "id": "20260808-he-yongkang-obituary",
+      "type": "事件性热点",
+      "domain": "文学 / 名人逝世",
+      "title": "红学家何永康逝世，曾多年主持江苏高考作文阅卷",
+      "summary": "南京师范大学文学院发布讣告，何永康8月8日在南京逝世，享年84岁；他著有《红楼美学》，也是高考作文《赤兔之死》获得满分的重要评阅者。",
+      "url": "https://www.yzwb.net/news/jy/202608/t20260810_381145.html",
+      "source": "紫牛新闻（南京师范大学文学院讣告）",
+      "sourceTitle": "何永康教授逝世，曾多年主持江苏省高考阅卷工作",
+      "sourceType": "机构公开信息转述",
+      "publishedAt": "2026-08-10",
+      "firstSeen": "2026-08-20T01:55:07.000Z",
+      "lastSeen": "2026-08-20T01:55:07.000Z",
+      "platforms": [
+        "新闻",
+        "公开网页"
+      ],
+      "people": [
+        "何永康"
+      ],
+      "works": [
+        "《红楼美学》",
+        "《赤兔之死》"
+      ],
+      "institutions": [
+        "南京师范大学文学院"
+      ],
+      "places": [
+        "南京",
+        "江苏海安"
+      ],
+      "p0": true,
+      "sourceCount": 2,
       "metrics": "平台互动未接入"
     },
     {
@@ -2230,7 +2673,7 @@
       "sourceType": "媒体公开报道",
       "publishedAt": "2026-07-15T19:32:00+08:00",
       "firstSeen": "2026-08-13T16:22:00+08:00",
-      "lastSeen": "2026-08-13T16:22:00+08:00",
+      "lastSeen": "2026-08-20T01:55:07.000Z",
       "platforms": [
         "新闻",
         "视频"
@@ -2324,18 +2767,18 @@
     }
   ],
   "meta": {
-    "total": 74,
+    "total": 87,
     "platforms": [
-      "新闻",
       "官网",
-      "公开网页",
-      "戏剧",
-      "视频",
-      "电视",
-      "央视新闻",
-      "腾讯新闻",
+      "新闻",
       "微信",
+      "公开网页",
       "图片",
+      "视频",
+      "戏剧",
+      "央视新闻",
+      "电视",
+      "腾讯新闻",
       "微博",
       "抖音",
       "小红书"
