@@ -1,8 +1,453 @@
 {
   "version": 1,
-  "generatedAt": "2026-08-20T01:55:07.000Z",
+  "generatedAt": "2026-08-21T01:05:00.000Z",
   "windowDays": 30,
   "items": [
+    {
+      "id": "20260816-yongning-douyin-reading",
+      "type": "日常性热点",
+      "domain": "文学 / 乡村阅读",
+      "title": "永宁县“三千行动”阅读分享会在抖音留下原生平台线索",
+      "summary": "抖音公开页显示，永宁县组织21名村民和文学爱好者参与乡村阅读分享及作家交流；精确发布时间与互动量未获取。",
+      "url": "https://www.douyin.com/video/7674434247096012066",
+      "source": "抖音公开页面",
+      "sourceTitle": "书香润乡村 共话山乡巨变——永宁县“三千行动”阅读分享会",
+      "sourceType": "平台公开搜索页",
+      "publishedAt": "",
+      "platforms": [
+        "抖音"
+      ],
+      "people": [],
+      "works": [
+        "“千名作家联千村（社区）进千校”传承中华优秀传统文化行动"
+      ],
+      "institutions": [
+        "永宁县委宣传部",
+        "永宁县文学艺术界联合会"
+      ],
+      "places": [
+        "宁夏永宁县望远镇"
+      ],
+      "p0": false,
+      "sourceCount": 1,
+      "firstSeen": "2026-08-21T01:05:00.000Z",
+      "lastSeen": "2026-08-21T01:05:00.000Z",
+      "metrics": "平台互动未接入"
+    },
+    {
+      "id": "20260821-luxun-literature-award-night",
+      "type": "事件性热点",
+      "domain": "文学 / 鲁迅文学奖",
+      "title": "2026中国文学盛典·鲁迅文学奖之夜将于8月28日在上海启幕",
+      "summary": "第九届鲁迅文学奖颁奖活动将于8月28日晚举行，并联动鲁迅文学周、上海文学馆专题展、获奖作家对谈及“网络文学百年对话”等活动。",
+      "url": "https://www.chinawriter.com.cn/n1/2026/0821/c403994-40783744.html",
+      "source": "中国作家网",
+      "sourceTitle": "2026中国文学盛典·鲁迅文学奖之夜将在上海启幕",
+      "sourceType": "文学机构官网",
+      "publishedAt": "2026-08-21T08:47:00+08:00",
+      "platforms": [
+        "官网",
+        "新闻",
+        "电视",
+        "网络直播"
+      ],
+      "people": [
+        "鲁迅"
+      ],
+      "works": [
+        "第九届鲁迅文学奖"
+      ],
+      "institutions": [
+        "中国作家协会",
+        "上海市人民政府",
+        "鲁迅文学奖"
+      ],
+      "places": [
+        "上海"
+      ],
+      "p0": true,
+      "sourceCount": 1,
+      "firstSeen": "2026-08-21T01:05:00.000Z",
+      "lastSeen": "2026-08-21T01:05:00.000Z",
+      "metrics": "平台互动未接入"
+    },
+    {
+      "id": "20260821-deep-reading-review-contest",
+      "type": "内容性热点",
+      "domain": "文学 / 阅读与AI",
+      "title": "“深阅读”书评大赛收官，李敬泽提出AI可辅助检索但不能代写",
+      "summary": "大赛收到近500篇书评、98件获奖作品，设置文字、音频、视频和青少年赛道；李敬泽在现场讨论AI工具与深度阅读、独立思考之间的边界。",
+      "url": "https://www.chinawriter.com.cn/n1/2026/0821/c403994-40783576.html",
+      "source": "中国新闻出版广电报（中国作家网）",
+      "sourceTitle": "2026“深阅读”书评大赛收官",
+      "sourceType": "文化垂直媒体报道",
+      "publishedAt": "2026-08-21T08:08:00+08:00",
+      "platforms": [
+        "新闻",
+        "公开网页",
+        "音频",
+        "视频"
+      ],
+      "people": [
+        "李敬泽",
+        "聂震宁",
+        "王洪波",
+        "拣尽南枝"
+      ],
+      "works": [
+        "2026“深阅读”书评大赛"
+      ],
+      "institutions": [
+        "广西师范大学出版社集团",
+        "中国新闻出版传媒集团"
+      ],
+      "places": [
+        "北京"
+      ],
+      "p0": true,
+      "sourceCount": 1,
+      "firstSeen": "2026-08-21T01:05:00.000Z",
+      "lastSeen": "2026-08-21T01:05:00.000Z",
+      "metrics": "平台互动未接入"
+    },
+    {
+      "id": "20260821-zheng-xiaoying-carmen-xiamen",
+      "type": "事件性热点",
+      "domain": "人文 / 歌剧",
+      "title": "97岁指挥家郑小瑛在厦门执棒中文版歌剧《卡门》",
+      "summary": "郑小瑛8月20日在厦门嘉庚剧院执棒中文版《卡门》，再次刷新其保持的“世界最高龄歌剧指挥家”纪录，剧目还将参加第六届中国歌剧节。",
+      "url": "https://www.chinanews.com.cn/cul/2026/08-21/10681380.shtml",
+      "source": "中国新闻网",
+      "sourceTitle": "歌剧《卡门》中文版厦门上演 97岁指挥家郑小瑛执棒",
+      "sourceType": "权威媒体报道",
+      "publishedAt": "2026-08-21T00:44:28+08:00",
+      "platforms": [
+        "新闻",
+        "公开网页"
+      ],
+      "people": [
+        "郑小瑛",
+        "汤紫馨",
+        "比才",
+        "梅里美"
+      ],
+      "works": [
+        "《卡门》"
+      ],
+      "institutions": [
+        "郑小瑛歌剧艺术中心",
+        "中央歌剧院",
+        "福建省歌舞剧院"
+      ],
+      "places": [
+        "福建厦门"
+      ],
+      "p0": true,
+      "sourceCount": 1,
+      "firstSeen": "2026-08-21T01:05:00.000Z",
+      "lastSeen": "2026-08-21T01:05:00.000Z",
+      "metrics": "平台互动未接入"
+    },
+    {
+      "id": "20260820-ai-era-art-value",
+      "type": "内容性热点",
+      "domain": "人文 / 艺术与AI",
+      "title": "孙周兴等学者讨论：AI时代为什么更需要艺术",
+      "summary": "“德国当代艺术丛书”发布会集中提出，艺术以个体经验、差异和想象抵抗技术同质化，是AI难以替代的人类创造活动。",
+      "url": "https://www.chinanews.com.cn/cul/2026/08-20/10681311.shtml",
+      "source": "中国新闻网",
+      "sourceTitle": "AI时代为什么更需要艺术？学者：艺术让每个人独一无二",
+      "sourceType": "权威媒体报道",
+      "publishedAt": "2026-08-20T20:33:38+08:00",
+      "platforms": [
+        "新闻",
+        "公开网页"
+      ],
+      "people": [
+        "孙周兴",
+        "陈小文",
+        "严智龙"
+      ],
+      "works": [
+        "“德国当代艺术丛书”"
+      ],
+      "institutions": [
+        "浙江大学",
+        "山东大学",
+        "上海戏剧学院"
+      ],
+      "places": [
+        "上海"
+      ],
+      "p0": true,
+      "sourceCount": 1,
+      "firstSeen": "2026-08-21T01:05:00.000Z",
+      "lastSeen": "2026-08-21T01:05:00.000Z",
+      "metrics": "平台互动未接入"
+    },
+    {
+      "id": "20260820-fuzhou-qixi-ich-market",
+      "type": "事件性热点",
+      "domain": "非遗 / 七夕民俗",
+      "title": "福州七夕非遗市集在上下杭启幕，制香、闽剧与手作集中亮相",
+      "summary": "8月21日至23日，福州上下杭采峰别墅设置约20个非遗摊位，呈现传统制香、闽剧、曲艺、手作和VR体验。",
+      "url": "https://fz.fjsen.com/2026-08/20/content_32238968.htm",
+      "source": "东南网",
+      "sourceTitle": "七夕浪漫不散场！2026年福州非遗市集本周末启幕",
+      "sourceType": "地方权威媒体报道",
+      "publishedAt": "2026-08-20T18:29:00+08:00",
+      "platforms": [
+        "新闻",
+        "公开网页"
+      ],
+      "people": [],
+      "works": [
+        "福州传统制香技艺",
+        "闽剧"
+      ],
+      "institutions": [
+        "福州市文化和旅游局"
+      ],
+      "places": [
+        "福州台江区上下杭"
+      ],
+      "p0": false,
+      "sourceCount": 1,
+      "firstSeen": "2026-08-21T01:05:00.000Z",
+      "lastSeen": "2026-08-21T01:05:00.000Z",
+      "metrics": "平台互动未接入"
+    },
+    {
+      "id": "20260820-kunshan-glass-art",
+      "type": "事件性热点",
+      "domain": "非遗 / 当代工艺",
+      "title": "昆山启动“古音·方寸·合书”跨界玻璃艺术系列活动",
+      "summary": "活动以玻璃艺术连接古琴意象、当代设计、学术交流和产业实践，呈现传统文化在现代材料与工艺教育中的转化。",
+      "url": "https://www.chinanews.com.cn/cul/2026/08-20/10681206.shtml",
+      "source": "中国新闻网",
+      "sourceTitle": "“古音·方寸·合书”跨界玻璃艺术系列活动启幕",
+      "sourceType": "权威媒体报道",
+      "publishedAt": "2026-08-20T18:05:29+08:00",
+      "platforms": [
+        "新闻",
+        "公开网页"
+      ],
+      "people": [
+        "李付彪"
+      ],
+      "works": [
+        "“古音——李付彪玻璃艺术作品展”",
+        "“合书——跨界玻璃艺术创作营”"
+      ],
+      "institutions": [
+        "上海工艺美术职业学院",
+        "上海工艺美术学会当代玻璃艺术委员会"
+      ],
+      "places": [
+        "江苏昆山"
+      ],
+      "p0": false,
+      "sourceCount": 1,
+      "firstSeen": "2026-08-21T01:05:00.000Z",
+      "lastSeen": "2026-08-21T01:05:00.000Z",
+      "metrics": "平台互动未接入"
+    },
+    {
+      "id": "20260820-li-oufan-memoir",
+      "type": "内容性热点",
+      "domain": "文学 / 学人回忆录",
+      "title": "《我的二十世纪》沪上首发，两代学人共话李欧梵的二十世纪经验",
+      "summary": "李欧梵首部完整回忆录在上海首发，以个人经历讨论现代性、记忆与知识分子的二十世纪经验，并由陈子善、陈建华等展开代际对谈。",
+      "url": "https://www.chinawriter.com.cn/n1/2026/0820/c403994-40783300.html",
+      "source": "澎湃新闻（中国作家网）",
+      "sourceTitle": "《我的二十世纪》沪上首发：两代学人共话“李欧梵与我们的二十世纪”",
+      "sourceType": "文学垂直网站",
+      "publishedAt": "2026-08-20T15:11:00+08:00",
+      "platforms": [
+        "新闻",
+        "公开网页"
+      ],
+      "people": [
+        "李欧梵",
+        "陈子善",
+        "陈建华"
+      ],
+      "works": [
+        "《我的二十世纪：李欧梵回忆录》"
+      ],
+      "institutions": [
+        "译林出版社",
+        "建投书局"
+      ],
+      "places": [
+        "上海",
+        "香港"
+      ],
+      "p0": true,
+      "sourceCount": 1,
+      "firstSeen": "2026-08-21T01:05:00.000Z",
+      "lastSeen": "2026-08-21T01:05:00.000Z",
+      "metrics": "平台互动未接入"
+    },
+    {
+      "id": "20260820-zhejiang-microdrama-mass-art",
+      "type": "内容性热点",
+      "domain": "人文 / 新大众文艺",
+      "title": "浙江微短剧“全民创剧”升温，乡村原生内容在视频号出圈",
+      "summary": "报道梳理浙江微短剧的群众创作与文旅转化：《半江烟火半江雾》由村民自编自演，在千余粉丝账号上首日获得7万点击。",
+      "url": "https://www.chinanews.com.cn/cul/2026/08-20/10680970.shtml",
+      "source": "中国新闻网",
+      "sourceTitle": "全民创剧风潮起：微短剧何以成为浙江新大众文艺新引擎？",
+      "sourceType": "权威媒体报道",
+      "publishedAt": "2026-08-20T14:09:20+08:00",
+      "platforms": [
+        "新闻",
+        "视频号",
+        "公开网页"
+      ],
+      "people": [
+        "汤学君",
+        "焦峰",
+        "胡贵清"
+      ],
+      "works": [
+        "《孤马传》",
+        "《Ta说南宋》",
+        "《半江烟火半江雾》"
+      ],
+      "institutions": [
+        "浙江省文化和旅游厅",
+        "浙江省电视艺术家协会"
+      ],
+      "places": [
+        "浙江"
+      ],
+      "p0": true,
+      "sourceCount": 1,
+      "firstSeen": "2026-08-21T01:05:00.000Z",
+      "lastSeen": "2026-08-21T01:05:00.000Z",
+      "metrics": "平台互动未接入"
+    },
+    {
+      "id": "20260820-german-world-china-writing-series",
+      "type": "内容性热点",
+      "domain": "文学 / 比较文学",
+      "title": "十卷本丛书系统梳理德语世界里的中国书写",
+      "summary": "“中国话语与世界文学研究丛书”以数百份一手资料追踪德语世界的中国想象，连接区域国别研究、比较文学与中国话语研究。",
+      "url": "https://www.chinawriter.com.cn/n1/2026/0820/c403994-40783106.html",
+      "source": "中国新闻网（中国作家网）",
+      "sourceTitle": "“中国话语与世界文学研究丛书”系统梳理德语世界里的中国书写",
+      "sourceType": "文学垂直网站",
+      "publishedAt": "2026-08-20T09:06:00+08:00",
+      "platforms": [
+        "新闻",
+        "公开网页"
+      ],
+      "people": [
+        "张帆",
+        "顾青",
+        "何心怡",
+        "陈雨田"
+      ],
+      "works": [
+        "“中国话语与世界文学研究丛书”"
+      ],
+      "institutions": [
+        "上海外国语大学文学研究院",
+        "中国话语与世界文学研究中心",
+        "商务印书馆"
+      ],
+      "places": [
+        "上海",
+        "德国"
+      ],
+      "p0": false,
+      "sourceCount": 1,
+      "firstSeen": "2026-08-21T01:05:00.000Z",
+      "lastSeen": "2026-08-21T01:05:00.000Z",
+      "metrics": "平台互动未接入"
+    },
+    {
+      "id": "20260820-hebei-young-writers-17-books",
+      "type": "事件性热点",
+      "domain": "文学 / 出版",
+      "title": "河北集中推出17部青年与网络作家新作，探索文学IP多形态转化",
+      "summary": "河北省作协与河北出版传媒集团签署合作协议，同步推出《燕赵秀林丛书》第二季12部作品和《河北网络作家方阵丛书》5部作品。",
+      "url": "https://www.chinawriter.com.cn/n1/2026/0820/c403994-40783060.html",
+      "source": "河北作协微信公众号（中国作家网）",
+      "sourceTitle": "河北文学出版深度融合再提速，17部青年作家新作集中推出",
+      "sourceType": "机构公众号公开转述",
+      "publishedAt": "2026-08-20T08:45:00+08:00",
+      "platforms": [
+        "微信",
+        "官网",
+        "新闻"
+      ],
+      "people": [
+        "何弘",
+        "徐光耀",
+        "刘建东",
+        "李浩然",
+        "宋煜",
+        "一点豌豆"
+      ],
+      "works": [
+        "《燕赵秀林丛书》第二季",
+        "《河北网络作家方阵丛书》"
+      ],
+      "institutions": [
+        "河北省作家协会",
+        "河北出版传媒集团",
+        "河北教育出版社",
+        "花山文艺出版社"
+      ],
+      "places": [
+        "河北"
+      ],
+      "p0": false,
+      "sourceCount": 1,
+      "firstSeen": "2026-08-21T01:05:00.000Z",
+      "lastSeen": "2026-08-21T01:05:00.000Z",
+      "metrics": "平台互动未接入"
+    },
+    {
+      "id": "20260820-yuhua-writers-taizhou",
+      "type": "日常性热点",
+      "domain": "文学 / 作家活动",
+      "title": "《雨花》全国作家笔会在泰州讨论地方景观与当代文学表达",
+      "summary": "8月14日至16日，作家和诗人在泰州采风并研讨自然、历史景观如何进入当代文学，形成文学期刊与地方文化联动样本。",
+      "url": "https://www.chinawriter.com.cn/n1/2026/0820/c403994-40783050.html",
+      "source": "雨花杂志社微信公众号（中国作家网）",
+      "sourceTitle": "《雨花》2026年度全国作家笔会暨“作家回家”活动在泰州举办",
+      "sourceType": "机构公众号公开转述",
+      "publishedAt": "2026-08-20T08:42:00+08:00",
+      "platforms": [
+        "微信",
+        "官网",
+        "新闻"
+      ],
+      "people": [
+        "臧棣",
+        "朵渔",
+        "刘春",
+        "贾梦玮"
+      ],
+      "works": [
+        "《雨花》"
+      ],
+      "institutions": [
+        "江苏省作家协会",
+        "雨花杂志社"
+      ],
+      "places": [
+        "江苏泰州"
+      ],
+      "p0": false,
+      "sourceCount": 1,
+      "firstSeen": "2026-08-21T01:05:00.000Z",
+      "lastSeen": "2026-08-21T01:05:00.000Z",
+      "metrics": "平台互动未接入"
+    },
     {
       "id": "20260820-poetry-deepseek-review",
       "type": "内容性热点",
@@ -175,6 +620,42 @@
       "metrics": "平台互动未接入"
     },
     {
+      "id": "20260819-ich-wedding-gifts",
+      "type": "日常性热点",
+      "domain": "非遗 / 青年消费",
+      "title": "景泰蓝、螺钿与合香成为年轻人的新婚贺礼",
+      "summary": "石家庄等地20至35岁消费者把景泰蓝、螺钿、合香等非遗手作带入婚礼与人生仪式，显示非遗从展示场景进入日常情感消费。",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-19/10680338.shtml",
+      "source": "中国新闻网",
+      "sourceTitle": "非遗手作成为年轻人新婚新“贺礼”",
+      "sourceType": "权威媒体报道",
+      "publishedAt": "2026-08-19T15:08:56+08:00",
+      "platforms": [
+        "新闻",
+        "公开网页"
+      ],
+      "people": [
+        "黄文海",
+        "乔婕",
+        "王玲玲"
+      ],
+      "works": [
+        "景泰蓝制作技艺",
+        "螺钿",
+        "合香"
+      ],
+      "institutions": [],
+      "places": [
+        "河北石家庄",
+        "河北大厂"
+      ],
+      "p0": false,
+      "sourceCount": 1,
+      "firstSeen": "2026-08-21T01:05:00.000Z",
+      "lastSeen": "2026-08-21T01:05:00.000Z",
+      "metrics": "平台互动未接入"
+    },
+    {
       "id": "20260819-china-wet-markets-book",
       "type": "内容性热点",
       "domain": "人文 / 日常生活史",
@@ -210,6 +691,37 @@
       "metrics": "平台互动未接入"
     },
     {
+      "id": "20260819-keiko-kishi-death",
+      "type": "事件性热点",
+      "domain": "人文 / 电影人物",
+      "title": "日本影人岸惠子逝世，享年93岁",
+      "summary": "日本资深演员岸惠子逝世，其在电影《你的名字》中饰演真知子等银幕形象曾影响一代大众文化记忆。",
+      "url": "https://www.cna.com.tw/news/amov/202608190139.aspx",
+      "source": "中央社",
+      "sourceTitle": "日本影后岸惠子93歲辭世　「你的名字」真知子卷風靡一時",
+      "sourceType": "权威媒体报道",
+      "publishedAt": "2026-08-19T13:35:00+08:00",
+      "platforms": [
+        "新闻",
+        "公开网页"
+      ],
+      "people": [
+        "岸惠子"
+      ],
+      "works": [
+        "《你的名字》"
+      ],
+      "institutions": [],
+      "places": [
+        "日本"
+      ],
+      "p0": true,
+      "sourceCount": 1,
+      "firstSeen": "2026-08-21T01:05:00.000Z",
+      "lastSeen": "2026-08-21T01:05:00.000Z",
+      "metrics": "平台互动未接入"
+    },
+    {
       "id": "20260819-hubei-museum-qixi",
       "type": "事件性热点",
       "domain": "非遗 / 七夕民俗",
@@ -242,6 +754,40 @@
       ],
       "p0": false,
       "sourceCount": 1,
+      "metrics": "平台互动未接入"
+    },
+    {
+      "id": "20260819-letter-to-grandma-screening",
+      "type": "事件性热点",
+      "domain": "人文 / 电影",
+      "title": "《给阿嬷的情书》桃园特别放映十分钟售罄，引发院线可见度讨论",
+      "summary": "影片在桃园电影节两场特别放映开票约十分钟售罄，现场排队近百米，并引发台湾本土人文纪录片院线机会的讨论。",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-19/10680046.shtml",
+      "source": "中国新闻网",
+      "sourceTitle": "《给阿嬷的情书》“特别放映”爆火 为何仍无缘台湾院线",
+      "sourceType": "权威媒体报道",
+      "publishedAt": "2026-08-19T10:08:59+08:00",
+      "platforms": [
+        "新闻",
+        "公开网页"
+      ],
+      "people": [
+        "姚经玉",
+        "朱延平"
+      ],
+      "works": [
+        "《给阿嬷的情书》"
+      ],
+      "institutions": [
+        "2026桃园电影节"
+      ],
+      "places": [
+        "台湾桃园"
+      ],
+      "p0": false,
+      "sourceCount": 1,
+      "firstSeen": "2026-08-21T01:05:00.000Z",
+      "lastSeen": "2026-08-21T01:05:00.000Z",
       "metrics": "平台互动未接入"
     },
     {
@@ -340,6 +886,71 @@
       "metrics": "平台互动未接入"
     },
     {
+      "id": "20260819-yangjin-huanshan",
+      "type": "内容性热点",
+      "domain": "文学 / 新书",
+      "title": "作家央金十年42次进藏，以《幻山》书写喜马拉雅心灵之旅",
+      "summary": "央金在上海书展分享新作《幻山》，以十年42次进藏经历为底色，讨论生命、死亡、接纳与高原经验的文学转化。",
+      "url": "https://www.chinawriter.com.cn/n1/2026/0819/c403994-40782142.html",
+      "source": "澎湃新闻（中国作家网）",
+      "sourceTitle": "作家央金十年42次进藏，《幻山》写就喜马拉雅心灵之旅",
+      "sourceType": "文学垂直网站",
+      "publishedAt": "2026-08-19T08:24:00+08:00",
+      "platforms": [
+        "新闻",
+        "公开网页"
+      ],
+      "people": [
+        "央金",
+        "宋三土",
+        "薛舒",
+        "陈仓"
+      ],
+      "works": [
+        "《幻山：一场喜马拉雅的心灵奇旅》"
+      ],
+      "institutions": [
+        "上海三联书店"
+      ],
+      "places": [
+        "西藏",
+        "喜马拉雅",
+        "上海"
+      ],
+      "p0": false,
+      "sourceCount": 1,
+      "firstSeen": "2026-08-21T01:05:00.000Z",
+      "lastSeen": "2026-08-21T01:05:00.000Z",
+      "metrics": "平台互动未接入"
+    },
+    {
+      "id": "20260816-physical-bookstores",
+      "type": "内容性热点",
+      "domain": "文学 / 实体书店",
+      "title": "实体书店如何选好书、卖好书：所有“书店+”的底层逻辑是留住人",
+      "summary": "从大隐书局、大众书局等案例讨论实体书店的差异化选书、流量入口和文创、餐饮、演出等复合业态。",
+      "url": "https://www.chinawriter.com.cn/n1/2026/0819/c403994-40782071.html",
+      "source": "中国作家网",
+      "sourceTitle": "今天，书店如何选好书、卖好书",
+      "sourceType": "文学垂直网站",
+      "publishedAt": "2026-08-19",
+      "firstSeen": "2026-08-17T04:11:32.822Z",
+      "lastSeen": "2026-08-19T01:57:24.989Z",
+      "platforms": [
+        "官网",
+        "新闻"
+      ],
+      "people": [],
+      "works": [],
+      "institutions": [
+        "中国作家网"
+      ],
+      "places": [],
+      "p0": false,
+      "sourceCount": 1,
+      "metrics": "平台互动未接入"
+    },
+    {
       "id": "20260819-aiping-luxun-interview",
       "type": "内容性热点",
       "domain": "文学 / 鲁迅文学奖",
@@ -373,30 +984,33 @@
       "metrics": "平台互动未接入"
     },
     {
-      "id": "20260816-physical-bookstores",
+      "id": "20260818-zhang-huaicun-home-dialogue",
       "type": "内容性热点",
-      "domain": "文学 / 实体书店",
-      "title": "实体书店如何选好书、卖好书：所有“书店+”的底层逻辑是留住人",
-      "summary": "从大隐书局、大众书局等案例讨论实体书店的差异化选书、流量入口和文创、餐饮、演出等复合业态。",
-      "url": "https://www.chinawriter.com.cn/n1/2026/0819/c403994-40782071.html",
-      "source": "中国作家网",
-      "sourceTitle": "今天，书店如何选好书、卖好书",
-      "sourceType": "文学垂直网站",
-      "publishedAt": "2026-08-19",
-      "firstSeen": "2026-08-17T04:11:32.822Z",
-      "lastSeen": "2026-08-19T01:57:24.989Z",
+      "domain": "人文 / 跨文化表达",
+      "title": "张怀存谈“家”为何是东西方共情密码",
+      "summary": "张怀存结合青海成长记忆和伦敦展览，讨论家庭、乡土与女性经验如何成为跨文化沟通的共同情感入口。",
+      "url": "https://www.chinanews.com.cn/dxw/2026/08-18/10679931.shtml",
+      "source": "中国新闻网",
+      "sourceTitle": "张怀存：为何说“家”是东西方共情密码？",
+      "sourceType": "权威媒体访谈",
+      "publishedAt": "2026-08-18T21:40:49+08:00",
       "platforms": [
-        "官网",
-        "新闻"
+        "新闻",
+        "公开网页"
       ],
-      "people": [],
+      "people": [
+        "张怀存"
+      ],
       "works": [],
-      "institutions": [
-        "中国作家网"
+      "institutions": [],
+      "places": [
+        "青海",
+        "伦敦"
       ],
-      "places": [],
       "p0": false,
       "sourceCount": 1,
+      "firstSeen": "2026-08-21T01:05:00.000Z",
+      "lastSeen": "2026-08-21T01:05:00.000Z",
       "metrics": "平台互动未接入"
     },
     {
@@ -1253,37 +1867,6 @@
       "metrics": "平台互动未接入"
     },
     {
-      "id": "20260817-caigao-andersen",
-      "type": "内容性热点",
-      "domain": "文学 / 绘本",
-      "title": "蔡皋获国际安徒生奖后谈创作：童年是最好的摇篮",
-      "summary": "央视《面对面》呈现80岁的蔡皋如何从中国民间文化汲取绘本创作资源；她是插画奖设立60年来首位中国获奖者。",
-      "url": "https://www.thepaper.cn/newsDetail_forward_33796428?commTag=true",
-      "source": "央视新闻（澎湃转载）",
-      "sourceTitle": "蔡皋获国际安徒生奖后谈创作：童年是最好的摇篮",
-      "sourceType": "权威媒体公开报道",
-      "publishedAt": "2026-08-17T02:39:00+08:00",
-      "firstSeen": "2026-08-18T01:53:27.464Z",
-      "lastSeen": "2026-08-18T01:53:27.464Z",
-      "platforms": [
-        "央视新闻",
-        "公开网页"
-      ],
-      "people": [
-        "蔡皋"
-      ],
-      "works": [],
-      "institutions": [
-        "国际儿童读物联盟"
-      ],
-      "places": [
-        "加拿大渥太华"
-      ],
-      "p0": true,
-      "sourceCount": 1,
-      "metrics": "平台互动未接入"
-    },
-    {
       "id": "20260817-tree-speaks-china",
       "type": "事件性热点",
       "domain": "人文 / 纪录片",
@@ -1423,6 +2006,37 @@
         "上海"
       ],
       "p0": false,
+      "sourceCount": 1,
+      "metrics": "平台互动未接入"
+    },
+    {
+      "id": "20260817-caigao-andersen",
+      "type": "内容性热点",
+      "domain": "文学 / 绘本",
+      "title": "蔡皋获国际安徒生奖后谈创作：童年是最好的摇篮",
+      "summary": "央视《面对面》呈现80岁的蔡皋如何从中国民间文化汲取绘本创作资源；她是插画奖设立60年来首位中国获奖者。",
+      "url": "https://www.thepaper.cn/newsDetail_forward_33796428?commTag=true",
+      "source": "央视新闻（澎湃转载）",
+      "sourceTitle": "蔡皋获国际安徒生奖后谈创作：童年是最好的摇篮",
+      "sourceType": "权威媒体公开报道",
+      "publishedAt": "2026-08-17T02:39:00+08:00",
+      "firstSeen": "2026-08-18T01:53:27.464Z",
+      "lastSeen": "2026-08-18T01:53:27.464Z",
+      "platforms": [
+        "央视新闻",
+        "公开网页"
+      ],
+      "people": [
+        "蔡皋"
+      ],
+      "works": [],
+      "institutions": [
+        "国际儿童读物联盟"
+      ],
+      "places": [
+        "加拿大渥太华"
+      ],
+      "p0": true,
       "sourceCount": 1,
       "metrics": "平台互动未接入"
     },
@@ -1739,40 +2353,6 @@
       "metrics": "平台互动未接入"
     },
     {
-      "id": "20260815-maweidu-tang-poetry",
-      "type": "内容性热点",
-      "domain": "文学 / 名人原生表达",
-      "title": "马未都：唐诗是一部唐代的百科全书",
-      "summary": "马未都本人账号发布短视频，以“百科全书”为切口谈唐诗的社会生活与文化信息，是名人原生人文解读类内容。",
-      "url": "https://www.sina.cn/news/detail/5332071614777659.html",
-      "source": "马未都本人微博（新浪公开页）",
-      "sourceTitle": "马未都：唐诗是一部唐代的百科全书",
-      "sourceType": "本人原发公开镜像",
-      "publishedAt": "2026-08-15T07:00:00+08:00",
-      "firstSeen": "2026-08-18T01:53:27.464Z",
-      "lastSeen": "2026-08-18T01:53:27.464Z",
-      "platforms": [
-        "微博",
-        "抖音"
-      ],
-      "people": [
-        "马未都"
-      ],
-      "works": [
-        "唐诗"
-      ],
-      "institutions": [
-        "马未都账号",
-        "观复博物馆"
-      ],
-      "places": [
-        "北京"
-      ],
-      "p0": true,
-      "sourceCount": 1,
-      "metrics": "平台互动未接入"
-    },
-    {
       "id": "20260815-moyan-renna",
       "type": "事件性热点",
       "domain": "文学 / 作家活动",
@@ -1978,6 +2558,40 @@
         "湖北"
       ],
       "p0": false,
+      "sourceCount": 1,
+      "metrics": "平台互动未接入"
+    },
+    {
+      "id": "20260815-maweidu-tang-poetry",
+      "type": "内容性热点",
+      "domain": "文学 / 名人原生表达",
+      "title": "马未都：唐诗是一部唐代的百科全书",
+      "summary": "马未都本人账号发布短视频，以“百科全书”为切口谈唐诗的社会生活与文化信息，是名人原生人文解读类内容。",
+      "url": "https://www.sina.cn/news/detail/5332071614777659.html",
+      "source": "马未都本人微博（新浪公开页）",
+      "sourceTitle": "马未都：唐诗是一部唐代的百科全书",
+      "sourceType": "本人原发公开镜像",
+      "publishedAt": "2026-08-15T07:00:00+08:00",
+      "firstSeen": "2026-08-18T01:53:27.464Z",
+      "lastSeen": "2026-08-18T01:53:27.464Z",
+      "platforms": [
+        "微博",
+        "抖音"
+      ],
+      "people": [
+        "马未都"
+      ],
+      "works": [
+        "唐诗"
+      ],
+      "institutions": [
+        "马未都账号",
+        "观复博物馆"
+      ],
+      "places": [
+        "北京"
+      ],
+      "p0": true,
       "sourceCount": 1,
       "metrics": "平台互动未接入"
     },
@@ -2767,7 +3381,7 @@
     }
   ],
   "meta": {
-    "total": 87,
+    "total": 104,
     "platforms": [
       "官网",
       "新闻",
