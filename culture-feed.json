@@ -1,8 +1,491 @@
 {
   "version": 1,
-  "generatedAt": "2026-08-21T01:05:00.000Z",
+  "generatedAt": "2026-08-22T01:02:28.000Z",
   "windowDays": 30,
   "items": [
+    {
+      "id": "20260821-isha-literary-history-douyin",
+      "type": "内容性热点",
+      "domain": "文学 / 名人原生内容",
+      "title": "诗人伊沙在抖音谈“文学史就是一座等级森严的墓园”",
+      "summary": "抖音公开页面呈现伊沙对古典、现代与当代文学评价等级的个人判断；页面可访问，但账号名、精确发布时间和互动数据未获取。",
+      "url": "https://www.douyin.com/video/7673837321287978292",
+      "source": "抖音公开页面",
+      "sourceTitle": "伊沙坦言：文学史就是一座等级森严的墓园",
+      "sourceType": "平台公开搜索页",
+      "publishedAt": "",
+      "platforms": [
+        "抖音"
+      ],
+      "people": [
+        "伊沙"
+      ],
+      "works": [],
+      "institutions": [],
+      "places": [],
+      "p0": true,
+      "sourceCount": 1,
+      "firstSeen": "2026-08-22T01:02:28.000Z",
+      "lastSeen": "2026-08-22T01:02:28.000Z",
+      "metrics": "平台互动未接入"
+    },
+    {
+      "id": "20260821-hunan-ich-digital-platform",
+      "type": "事件性热点",
+      "domain": "非遗 / 数字化",
+      "title": "湖南上线非遗数字服务平台，为传承人作品建立“数字身份证”",
+      "summary": "“数钥通+联合数资”平台在湖南文旅产业博览会上线，覆盖确权、版权审核、交易留痕、展销与文化出海，面向全国非遗大师和代表性传承人提供标准化服务。",
+      "url": "https://www.chinanews.com.cn/cul/2026/08-21/10682071.shtml",
+      "source": "中国新闻网",
+      "sourceTitle": "湖南为非遗代表性传承人输出标准化数字服务",
+      "sourceType": "权威媒体报道",
+      "publishedAt": "2026-08-21T21:30:09+08:00",
+      "platforms": [
+        "新闻",
+        "公开网页"
+      ],
+      "people": [],
+      "works": [
+        "数钥通",
+        "联合数资"
+      ],
+      "institutions": [
+        "湖南日报文旅集团",
+        "联合利国文化产权交易所"
+      ],
+      "places": [
+        "湖南长沙"
+      ],
+      "p0": true,
+      "sourceCount": 1,
+      "firstSeen": "2026-08-22T01:02:28.000Z",
+      "lastSeen": "2026-08-22T01:02:28.000Z",
+      "metrics": "平台互动未接入"
+    },
+    {
+      "id": "20260821-shangrila-ich-park",
+      "type": "事件性热点",
+      "domain": "非遗 / 民族文化",
+      "title": "云南迪庆非遗大观园开园，以三条漫游线路串联古城活态非遗",
+      "summary": "非遗大观园依托迪庆民族文化生态保护区，以独克宗古城为核心，把散落在街巷和村寨的非遗项目串联成90分钟至120分钟体验线路。",
+      "url": "https://www.yn.news.cn/20260821/cd707454171949509c68740b079e924f/c.html",
+      "source": "新华网云南频道",
+      "sourceTitle": "第四届世界的“香格里拉”文化旅游节开幕",
+      "sourceType": "权威媒体报道",
+      "publishedAt": "2026-08-21T19:40:52+08:00",
+      "platforms": [
+        "新闻",
+        "公开网页"
+      ],
+      "people": [],
+      "works": [
+        "云南迪庆非遗大观园漫游地图"
+      ],
+      "institutions": [
+        "迪庆民族文化生态保护区"
+      ],
+      "places": [
+        "云南迪庆",
+        "香格里拉",
+        "独克宗古城"
+      ],
+      "p0": false,
+      "sourceCount": 1,
+      "firstSeen": "2026-08-22T01:02:28.000Z",
+      "lastSeen": "2026-08-22T01:02:28.000Z",
+      "metrics": "平台互动未接入"
+    },
+    {
+      "id": "20260821-toward-earth-criticism",
+      "type": "内容性热点",
+      "domain": "文学 / 新大众文艺",
+      "title": "《朝向大地》提出为素人写作和自媒体创作重建大众文学批评",
+      "summary": "徐良的新著以“鲜活现象+文本细读+古典范畴”回应全民创作时代，主张文学批评走向基层、网络作者与民间写作者。",
+      "url": "https://www.chinawriter.com.cn/n1/2026/0821/c403994-40784032.html",
+      "source": "中国新闻网（中国作家网）",
+      "sourceTitle": "《朝向大地》研讨会在成都举行 文学批评专著引发学界热议",
+      "sourceType": "文学垂直网站",
+      "publishedAt": "2026-08-21T16:59:00+08:00",
+      "platforms": [
+        "新闻",
+        "公开网页"
+      ],
+      "people": [
+        "徐良",
+        "彭飞龙",
+        "伍立杨",
+        "赵晓梦"
+      ],
+      "works": [
+        "《朝向大地——新大众文艺时代文学批评的反思与试验》"
+      ],
+      "institutions": [
+        "四川省文艺评论家协会",
+        "延边大学出版社"
+      ],
+      "places": [
+        "四川成都"
+      ],
+      "p0": true,
+      "sourceCount": 1,
+      "firstSeen": "2026-08-22T01:02:28.000Z",
+      "lastSeen": "2026-08-22T01:02:28.000Z",
+      "metrics": "平台互动未接入"
+    },
+    {
+      "id": "20260821-gansu-anthology-launch",
+      "type": "事件性热点",
+      "domain": "文学 / 地域书写",
+      "title": "44位名家书写陇原，《甘肃啊甘肃》在兰州首发",
+      "summary": "选本收录叶圣陶、茅盾、冯骥才、余秋雨、贾平凹、费孝通等44位作家学者的散文与游记，并将彩陶、南佐遗址、马家窑等列为后续深挖方向。",
+      "url": "https://www.chinanews.com.cn/cul/2026/08-21/10681831.shtml",
+      "source": "中国新闻网",
+      "sourceTitle": "44位名家落笔陇原 《甘肃啊甘肃》兰州首发",
+      "sourceType": "权威媒体报道",
+      "publishedAt": "2026-08-21T16:44:13+08:00",
+      "platforms": [
+        "新闻",
+        "公开网页"
+      ],
+      "people": [
+        "徐兆寿",
+        "张鹏",
+        "马步升",
+        "叶圣陶",
+        "茅盾",
+        "冯骥才",
+        "余秋雨",
+        "贾平凹",
+        "费孝通"
+      ],
+      "works": [
+        "《甘肃啊甘肃》",
+        "《我在敦煌拍大佛》"
+      ],
+      "institutions": [
+        "敦煌文艺出版社",
+        "2026兰州书展"
+      ],
+      "places": [
+        "甘肃兰州",
+        "敦煌"
+      ],
+      "p0": false,
+      "sourceCount": 1,
+      "firstSeen": "2026-08-22T01:02:28.000Z",
+      "lastSeen": "2026-08-22T01:02:28.000Z",
+      "metrics": "平台互动未接入"
+    },
+    {
+      "id": "20260821-sun-wukong-animation-universe",
+      "type": "内容性热点",
+      "domain": "人文 / 神话IP",
+      "title": "孙悟空频繁客串国漫，成为连接中国动画“神话宇宙”的文化符号",
+      "summary": "从《大圣归来》到《哪吒之魔童闹海》《浪浪山小妖怪》《八仙！》，孙悟空及金箍棒意象被持续用于串联不同神话时空。",
+      "url": "https://www.chinanews.com.cn/cul/2026/08-21/10681792.shtml",
+      "source": "齐鲁晚报（中国新闻网）",
+      "sourceTitle": "“顶流”大圣，忙于救场",
+      "sourceType": "权威媒体报道",
+      "publishedAt": "2026-08-21T16:12:43+08:00",
+      "platforms": [
+        "电影",
+        "动画",
+        "新闻",
+        "公开网页"
+      ],
+      "people": [
+        "孙悟空",
+        "田晓鹏"
+      ],
+      "works": [
+        "《西游记》",
+        "《西游记之大圣归来》",
+        "《哪吒之魔童闹海》",
+        "《浪浪山小妖怪》",
+        "《八仙！》"
+      ],
+      "institutions": [],
+      "places": [],
+      "p0": true,
+      "sourceCount": 1,
+      "firstSeen": "2026-08-22T01:02:28.000Z",
+      "lastSeen": "2026-08-22T01:02:28.000Z",
+      "metrics": "平台互动未接入"
+    },
+    {
+      "id": "20260821-youth-poetry-ai-ban",
+      "type": "事件性热点",
+      "domain": "文学 / 青年诗歌",
+      "title": "华语大学生诗歌大赛征稿明确禁止AI创作",
+      "summary": "第二届“你好青春·华语大学生诗歌大赛”面向全国高校学生征集新诗，规则明确禁止借助AI创作，并设置追回证书奖金及列入黑名单等约束。",
+      "url": "https://www.chinawriter.com.cn/n1/2026/0821/c403988-40783999.html",
+      "source": "中国校园文学微信公众号（中国作家网）",
+      "sourceTitle": "第二届“你好青春·华语大学生诗歌大赛”征稿启事",
+      "sourceType": "主办方公众号公开转述",
+      "publishedAt": "2026-08-21T15:21:00+08:00",
+      "platforms": [
+        "微信",
+        "官网",
+        "公开网页"
+      ],
+      "people": [],
+      "works": [
+        "第二届“你好青春·华语大学生诗歌大赛”"
+      ],
+      "institutions": [
+        "中国校园文学杂志社",
+        "温州大学人文学院"
+      ],
+      "places": [
+        "浙江温州"
+      ],
+      "p0": true,
+      "sourceCount": 1,
+      "firstSeen": "2026-08-22T01:02:28.000Z",
+      "lastSeen": "2026-08-22T01:02:28.000Z",
+      "metrics": "平台互动未接入"
+    },
+    {
+      "id": "20260821-old-drama-cyber-revival",
+      "type": "内容性热点",
+      "domain": "人文 / 影视二创",
+      "title": "《我的前半生》等老剧被年轻人玩成“互联网新四大名著”",
+      "summary": "《我的前半生》台词在微博、小红书、抖音和朋友圈跨平台刷屏，相关老剧单月话题增量超50亿；《甄嬛传》8月13日一天在B站新增相关视频超300条。",
+      "url": "https://www.chinanews.com.cn/cul/2026/08-21/10681721.shtml",
+      "source": "文汇报（中国新闻网）",
+      "sourceTitle": "这届年轻人为什么把老剧“玩出花”？",
+      "sourceType": "权威媒体报道",
+      "publishedAt": "2026-08-21T15:04:57+08:00",
+      "platforms": [
+        "微博",
+        "小红书",
+        "抖音",
+        "微信",
+        "哔哩哔哩",
+        "新闻"
+      ],
+      "people": [
+        "郑晓龙",
+        "何天平"
+      ],
+      "works": [
+        "《我的前半生》",
+        "《甄嬛传》",
+        "《回家的诱惑》",
+        "《知否知否应是绿肥红瘦》",
+        "《亮剑》",
+        "《潜伏》"
+      ],
+      "institutions": [
+        "中国人民大学"
+      ],
+      "places": [],
+      "p0": true,
+      "sourceCount": 1,
+      "metrics": "媒体报道：相关老剧单月话题增量超50亿；《甄嬛传》2026年上半年网播量5.67亿",
+      "firstSeen": "2026-08-22T01:02:28.000Z",
+      "lastSeen": "2026-08-22T01:02:28.000Z"
+    },
+    {
+      "id": "20260821-odyssey-epic-film",
+      "type": "内容性热点",
+      "domain": "人文 / 文学改编电影",
+      "title": "《奥德赛》全球票房近14亿美元，史诗片是否回归引发讨论",
+      "summary": "诺兰执导的《奥德赛》成为年度话题影片，媒体借其全球热度回溯好莱坞史诗片兴衰，并讨论古典史诗在当代银幕的再生产。",
+      "url": "https://www.chinanews.com.cn/cul/2026/08-21/10681694.shtml",
+      "source": "北京青年报（中国新闻网）",
+      "sourceTitle": "《奥德赛》爆火：史诗片高调回归还是昙花一现？",
+      "sourceType": "权威媒体报道",
+      "publishedAt": "2026-08-21T14:32:52+08:00",
+      "platforms": [
+        "电影",
+        "新闻",
+        "公开网页"
+      ],
+      "people": [
+        "克里斯托弗·诺兰",
+        "荷马"
+      ],
+      "works": [
+        "《奥德赛》"
+      ],
+      "institutions": [],
+      "places": [],
+      "p0": true,
+      "sourceCount": 1,
+      "metrics": "媒体报道：截至2026年8月17日全球票房近14亿美元",
+      "firstSeen": "2026-08-22T01:02:28.000Z",
+      "lastSeen": "2026-08-22T01:02:28.000Z"
+    },
+    {
+      "id": "20260821-green-only-1000-shows",
+      "type": "事件性热点",
+      "domain": "人文 / 舞蹈诗剧",
+      "title": "《只此青绿》即将迎来第1000场演出",
+      "summary": "舞蹈诗剧自2021年首演以来巡演五年，将在国家游泳中心举办千场纪念演出，形成传统绘画IP长期舞台化传播样本。",
+      "url": "https://www.chinanews.com.cn/cul/2026/08-21/10681643.shtml",
+      "source": "中国新闻网",
+      "sourceTitle": "舞蹈诗剧《只此青绿》千场纪念将登台水立方",
+      "sourceType": "权威媒体报道",
+      "publishedAt": "2026-08-21T14:28:26+08:00",
+      "platforms": [
+        "新闻",
+        "舞台演出",
+        "公开网页"
+      ],
+      "people": [
+        "韩真",
+        "徐珺蕊",
+        "孟庆旸",
+        "谢素豪"
+      ],
+      "works": [
+        "《只此青绿》",
+        "《千里江山图》"
+      ],
+      "institutions": [
+        "中国东方演艺集团",
+        "国家游泳中心"
+      ],
+      "places": [
+        "北京"
+      ],
+      "p0": true,
+      "sourceCount": 1,
+      "firstSeen": "2026-08-22T01:02:28.000Z",
+      "lastSeen": "2026-08-22T01:02:28.000Z",
+      "metrics": "平台互动未接入"
+    },
+    {
+      "id": "20260821-china-ip-global-youth",
+      "type": "内容性热点",
+      "domain": "人文 / 国漫出海",
+      "title": "中国原创IP从内容出口转向全球青年日常消费",
+      "summary": "行业观察认为国漫出海正从版权翻译进入动画、短剧、衍生品和社区运营协同的全域生态阶段，全球二次元用户规模已突破5.26亿。",
+      "url": "https://www.chinanews.com.cn/cul/2026/08-21/10681684.shtml",
+      "source": "北京青年报（中国新闻网）",
+      "sourceTitle": "以国漫讲好中国故事 中国IP走进全球年轻人的日常",
+      "sourceType": "权威媒体报道",
+      "publishedAt": "2026-08-21T14:25:40+08:00",
+      "platforms": [
+        "漫画",
+        "动画",
+        "新闻",
+        "公开网页"
+      ],
+      "people": [],
+      "works": [],
+      "institutions": [
+        "快看"
+      ],
+      "places": [
+        "中国",
+        "海外"
+      ],
+      "p0": false,
+      "sourceCount": 1,
+      "metrics": "媒体报道：全球二次元用户规模突破5.26亿",
+      "firstSeen": "2026-08-22T01:02:28.000Z",
+      "lastSeen": "2026-08-22T01:02:28.000Z"
+    },
+    {
+      "id": "20260821-qingzhou-red-inkstone",
+      "type": "日常性热点",
+      "domain": "非遗 / 传统工艺",
+      "title": "青州红丝砚进入“何以中国·非遗芳华”系列传播",
+      "summary": "公开图文页面以“丹霞入砚”为主题呈现青州红丝砚的材质纹理、历史声誉与传统制砚文化。",
+      "url": "https://www.chinanews.com.cn/cul/2026/08-21/10681527.shtml",
+      "source": "新黄河（中国新闻网）",
+      "sourceTitle": "何以中国·非遗芳华有弦歌｜青州红丝砚——丹霞入砚名冠古今",
+      "sourceType": "文化专题公开页",
+      "publishedAt": "2026-08-21T10:41:06+08:00",
+      "platforms": [
+        "新闻",
+        "图文",
+        "公开网页"
+      ],
+      "people": [],
+      "works": [
+        "青州红丝砚"
+      ],
+      "institutions": [],
+      "places": [
+        "山东青州"
+      ],
+      "p0": false,
+      "sourceCount": 1,
+      "firstSeen": "2026-08-22T01:02:28.000Z",
+      "lastSeen": "2026-08-22T01:02:28.000Z",
+      "metrics": "平台互动未接入"
+    },
+    {
+      "id": "20260821-huang-lihai-poetry-watch",
+      "type": "内容性热点",
+      "domain": "文学 / 诗歌",
+      "title": "黄礼孩谈诗歌为何是对语言、生命和世界的重新命名",
+      "summary": "围绕随笔集《犹如夜鹰迁徙》，黄礼孩把诗歌理解为抵抗遗忘、通向可能世界的语言行动，形成一条可独立传播的人文声音。",
+      "url": "https://www.chinawriter.com.cn/n1/2026/0821/c404030-40783892.html",
+      "source": "广东新快报（中国作家网）",
+      "sourceTitle": "鹰在黑夜中迁徙：一位诗人的文学守望",
+      "sourceType": "文化媒体报道",
+      "publishedAt": "2026-08-21T10:04:00+08:00",
+      "platforms": [
+        "新闻",
+        "公开网页"
+      ],
+      "people": [
+        "黄礼孩"
+      ],
+      "works": [
+        "《犹如夜鹰迁徙》"
+      ],
+      "institutions": [],
+      "places": [
+        "广东"
+      ],
+      "p0": false,
+      "sourceCount": 1,
+      "firstSeen": "2026-08-22T01:02:28.000Z",
+      "lastSeen": "2026-08-22T01:02:28.000Z",
+      "metrics": "平台互动未接入"
+    },
+    {
+      "id": "20260821-zhao-defa-regional-writing",
+      "type": "内容性热点",
+      "domain": "文学 / 作家原声",
+      "title": "赵德发谈地域写作：发现意义、嵌入历史、充分想象",
+      "summary": "赵德发由寿县、八公山和淝水之战出发，提出地域经验进入文学的三条路径，并以刘亮程《长命》说明想象力如何打通乡村生命经验。",
+      "url": "https://www.chinawriter.com.cn/n1/2026/0821/c404032-40783852.html",
+      "source": "文艺报（中国作家网）",
+      "sourceTitle": "文学创作中的“草木皆兵”",
+      "sourceType": "作家原生文章公开转载",
+      "publishedAt": "2026-08-21T09:40:00+08:00",
+      "platforms": [
+        "官网",
+        "新闻",
+        "公开网页"
+      ],
+      "people": [
+        "赵德发",
+        "刘亮程"
+      ],
+      "works": [
+        "《长命》"
+      ],
+      "institutions": [
+        "文艺报"
+      ],
+      "places": [
+        "安徽寿县",
+        "八公山",
+        "淝水"
+      ],
+      "p0": false,
+      "sourceCount": 1,
+      "firstSeen": "2026-08-22T01:02:28.000Z",
+      "lastSeen": "2026-08-22T01:02:28.000Z",
+      "metrics": "平台互动未接入"
+    },
     {
       "id": "20260816-yongning-douyin-reading",
       "type": "日常性热点",
@@ -72,6 +555,36 @@
       "metrics": "平台互动未接入"
     },
     {
+      "id": "20260821-web-literature-brand-vote",
+      "type": "事件性热点",
+      "domain": "文学 / 网络文学",
+      "title": "第三届中国网络文学品牌榜开启全网投票，80个品牌入围",
+      "summary": "榜单设置网络作家、网络小说、文学IP和海外传播四类榜单，每类20个品牌进入初评名单，转入公众投票阶段。",
+      "url": "https://www.chinawriter.com.cn/n1/2026/0821/c404023-40783840.html",
+      "source": "网文界微信公众号（中国作家网）",
+      "sourceTitle": "第三届中国网络文学品牌榜网络投票正式开启",
+      "sourceType": "机构公众号公开转述",
+      "publishedAt": "2026-08-21T08:29:00+08:00",
+      "platforms": [
+        "微信",
+        "官网",
+        "公开网页"
+      ],
+      "people": [],
+      "works": [
+        "第三届中国网络文学品牌榜"
+      ],
+      "institutions": [
+        "网文界"
+      ],
+      "places": [],
+      "p0": false,
+      "sourceCount": 1,
+      "firstSeen": "2026-08-22T01:02:28.000Z",
+      "lastSeen": "2026-08-22T01:02:28.000Z",
+      "metrics": "平台互动未接入"
+    },
+    {
       "id": "20260821-deep-reading-review-contest",
       "type": "内容性热点",
       "domain": "文学 / 阅读与AI",
@@ -108,6 +621,152 @@
       "sourceCount": 1,
       "firstSeen": "2026-08-21T01:05:00.000Z",
       "lastSeen": "2026-08-21T01:05:00.000Z",
+      "metrics": "平台互动未接入"
+    },
+    {
+      "id": "20260821-hohhot-ecological-literature",
+      "type": "事件性热点",
+      "domain": "文学 / 城市生态",
+      "title": "呼和浩特首部城市生态文学姊妹篇《阴山下》《敕勒川上》发布",
+      "summary": "两部新书分别以普通民族家庭和51位本土作家的城市书写呈现呼和浩特生态景观、烟火生活与十六处城市文化地标。",
+      "url": "https://www.chinawriter.com.cn/n1/2026/0821/c403994-40783568.html",
+      "source": "央广网（中国作家网）",
+      "sourceTitle": "呼和浩特首部城市生态文学姊妹篇图书正式发布",
+      "sourceType": "文学垂直网站",
+      "publishedAt": "2026-08-21T08:02:00+08:00",
+      "platforms": [
+        "新闻",
+        "公开网页"
+      ],
+      "people": [
+        "安宁"
+      ],
+      "works": [
+        "《阴山下》",
+        "《敕勒川上》"
+      ],
+      "institutions": [
+        "2026北疆书展"
+      ],
+      "places": [
+        "内蒙古呼和浩特",
+        "阴山",
+        "敕勒川"
+      ],
+      "p0": false,
+      "sourceCount": 1,
+      "firstSeen": "2026-08-22T01:02:28.000Z",
+      "lastSeen": "2026-08-22T01:02:28.000Z",
+      "metrics": "平台互动未接入"
+    },
+    {
+      "id": "20260821-luxun-award-nonfiction-boundaries",
+      "type": "内容性热点",
+      "domain": "文学 / 鲁迅文学奖",
+      "title": "鲁奖评论聚焦非虚构与跨文体边界松动",
+      "summary": "评论以第九届鲁迅文学奖为样本，讨论报告文学扩展至纪实、传记，散文杂文纳入跨文体写作，以及梁鸿《要有光》等作品如何把公共议题转化为微观叙事。",
+      "url": "https://www.chinawriter.com.cn/n1/2026/0821/c404033-40783647.html",
+      "source": "中国作家网",
+      "sourceTitle": "文学如何回应时代关切",
+      "sourceType": "文学垂直网站",
+      "publishedAt": "2026-08-21",
+      "platforms": [
+        "官网",
+        "新闻",
+        "公开网页"
+      ],
+      "people": [
+        "梁鸿",
+        "陈启文",
+        "季栋梁",
+        "丁捷",
+        "薛舒",
+        "艾平"
+      ],
+      "works": [
+        "《要有光》",
+        "《穿越人间的象群》",
+        "《西海固笔记》",
+        "《生活在临终医院：最后的光阴》"
+      ],
+      "institutions": [
+        "鲁迅文学奖"
+      ],
+      "places": [],
+      "p0": true,
+      "sourceCount": 1,
+      "firstSeen": "2026-08-22T01:02:28.000Z",
+      "lastSeen": "2026-08-22T01:02:28.000Z",
+      "metrics": "平台互动未接入"
+    },
+    {
+      "id": "20260821-yuegang-maritime-silk-road",
+      "type": "内容性热点",
+      "domain": "人文 / 海丝历史",
+      "title": "金国平建议建设“全球大月港历史数据库”并推动联合申遗",
+      "summary": "访谈追踪漳州月港在海上丝绸之路的贸易和文化交融，提出汇集葡萄牙、西班牙、墨西哥等地多语种史料，并以数字人文推进港口比较史研究。",
+      "url": "https://www.chinanews.com.cn/dxw/2026/08-21/10682046.shtml",
+      "source": "中国新闻网",
+      "sourceTitle": "东西问丨金国平：漳州月港在“海丝”沿线留下了多少印记？",
+      "sourceType": "权威媒体访谈",
+      "publishedAt": "2026-08-21",
+      "platforms": [
+        "新闻",
+        "公开网页"
+      ],
+      "people": [
+        "金国平"
+      ],
+      "works": [
+        "月港学",
+        "全球大月港历史数据库"
+      ],
+      "institutions": [],
+      "places": [
+        "福建漳州月港",
+        "马尼拉",
+        "阿卡普尔科",
+        "长崎"
+      ],
+      "p0": false,
+      "sourceCount": 1,
+      "firstSeen": "2026-08-22T01:02:28.000Z",
+      "lastSeen": "2026-08-22T01:02:28.000Z",
+      "metrics": "平台互动未接入"
+    },
+    {
+      "id": "20260821-lu-xun-shangshi-stage",
+      "type": "事件性热点",
+      "domain": "文学 / 戏剧改编",
+      "title": "鲁迅小说《伤逝》改编小剧场话剧在北京亮相",
+      "summary": "河南省话剧艺术中心以小剧场形式重新呈现鲁迅唯一以爱情为主题的小说《伤逝》，构成鲁迅逝世90周年语境下的舞台转译线索。",
+      "url": "https://www.chinanews.com.cn/cul/2026/08-21/10681825.shtml",
+      "source": "中国新闻网",
+      "sourceTitle": "河南省话剧艺术中心小剧场话剧《伤逝》在京亮相",
+      "sourceType": "权威媒体报道",
+      "publishedAt": "2026-08-21",
+      "platforms": [
+        "戏剧",
+        "新闻",
+        "公开网页"
+      ],
+      "people": [
+        "鲁迅"
+      ],
+      "works": [
+        "《伤逝》"
+      ],
+      "institutions": [
+        "河南省话剧艺术中心"
+      ],
+      "places": [
+        "北京",
+        "河南"
+      ],
+      "p0": false,
+      "sourceCount": 1,
+      "firstSeen": "2026-08-22T01:02:28.000Z",
+      "lastSeen": "2026-08-22T01:02:28.000Z",
       "metrics": "平台互动未接入"
     },
     {
@@ -3381,7 +4040,7 @@
     }
   ],
   "meta": {
-    "total": 104,
+    "total": 123,
     "platforms": [
       "官网",
       "新闻",
