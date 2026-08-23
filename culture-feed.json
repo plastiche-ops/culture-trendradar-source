@@ -1,8 +1,326 @@
 {
   "version": 1,
-  "generatedAt": "2026-08-22T01:02:28.000Z",
+  "generatedAt": "2026-08-23T01:11:25.000Z",
   "windowDays": 30,
   "items": [
+    {
+      "id": "20260822-anshun-huadeng-douyin",
+      "type": "日常性热点",
+      "domain": "非遗 / 原生短视频",
+      "title": "安顺避暑季非遗花灯汇演呈现屯堡花灯日常传承",
+      "summary": "抖音公开短视频记录安顺避暑季非遗花灯汇演，以屯堡花灯的现场表演作为地方节庆和日常传播样本。",
+      "url": "https://www.douyin.com/video/7675160466448345563",
+      "source": "抖音公开页面",
+      "sourceTitle": "安顺避暑季非遗花灯汇演",
+      "sourceType": "平台原生短视频页",
+      "publishedAt": "",
+      "platforms": [
+        "抖音"
+      ],
+      "people": [],
+      "works": [
+        "屯堡花灯"
+      ],
+      "institutions": [],
+      "places": [
+        "贵州安顺"
+      ],
+      "p0": false,
+      "sourceCount": 1,
+      "metrics": "平台互动未接入",
+      "firstSeen": "2026-08-23T01:11:25.000Z",
+      "lastSeen": "2026-08-23T01:11:25.000Z"
+    },
+    {
+      "id": "20260823-mingqing-novel-ich-conference",
+      "type": "事件性热点",
+      "domain": "文学 / 非遗",
+      "title": "学者从服饰、瓷器和云锦等非遗视角重读明清小说",
+      "summary": "明清小说与非物质文化遗产学术研讨会在天津举行，议题包括《红楼梦》服饰、名窑瓷器原型、江宁织造与云锦等物质文化如何进入文学叙事。",
+      "url": "https://epaper.tianjinwe.com/tjrb/html/2026-08/23/content_143084_3765089.htm",
+      "source": "天津日报",
+      "sourceTitle": "从非遗视角解读明清小说",
+      "sourceType": "权威媒体报道",
+      "publishedAt": "2026-08-23T00:00:00+08:00",
+      "platforms": [
+        "新闻",
+        "公开网页"
+      ],
+      "people": [
+        "孙伟科",
+        "赵建忠"
+      ],
+      "works": [
+        "《红楼梦》",
+        "明清小说"
+      ],
+      "institutions": [
+        "天津市红楼梦研究会",
+        "江苏省社会科学院文学研究所"
+      ],
+      "places": [
+        "天津"
+      ],
+      "p0": true,
+      "sourceCount": 1,
+      "metrics": "平台互动未接入",
+      "firstSeen": "2026-08-23T01:11:25.000Z",
+      "lastSeen": "2026-08-23T01:11:25.000Z"
+    },
+    {
+      "id": "20260822-guangzhou-2240-exhibition",
+      "type": "事件性热点",
+      "domain": "城市人文 / 文博",
+      "title": "广州建城2240年、得名1800年专题展展出51件一级文物",
+      "summary": "专题展以公元前214年建城和公元226年得名为时间坐标，通过51件一级文物梳理广州城市文脉。",
+      "url": "https://www.chinanews.com.cn/cul/2026/08-22/10682423.shtml",
+      "source": "中国新闻网",
+      "sourceTitle": "广州建城2240年得名1800年专题展展出一级文物51件",
+      "sourceType": "权威媒体报道",
+      "publishedAt": "2026-08-22T19:41:43+08:00",
+      "platforms": [
+        "新闻",
+        "公开网页"
+      ],
+      "people": [],
+      "works": [
+        "“城脉千年”专题展"
+      ],
+      "institutions": [
+        "广州艺术博物院"
+      ],
+      "places": [
+        "广州"
+      ],
+      "p0": true,
+      "sourceCount": 1,
+      "metrics": "平台互动未接入",
+      "firstSeen": "2026-08-23T01:11:25.000Z",
+      "lastSeen": "2026-08-23T01:11:25.000Z"
+    },
+    {
+      "id": "20260822-wanganshi-forum-fuzhou",
+      "type": "事件性热点",
+      "domain": "文学 / 历史文化",
+      "title": "百余位学者在抚州研讨王安石改革精神与哲学思想",
+      "summary": "活动围绕王安石诞辰1005周年、逝世940周年展开，从生平、政治改革、文学与哲学等维度讨论其当代价值。",
+      "url": "https://www.chinanews.com.cn/cul/2026/08-22/10682283.shtml",
+      "source": "中国新闻网",
+      "sourceTitle": "国内外专家学者江西抚州研讨王安石改革精神和哲学思想",
+      "sourceType": "权威媒体报道",
+      "publishedAt": "2026-08-22T14:36:53+08:00",
+      "platforms": [
+        "新闻",
+        "公开网页"
+      ],
+      "people": [
+        "王安石"
+      ],
+      "works": [],
+      "institutions": [],
+      "places": [
+        "江西抚州",
+        "临川"
+      ],
+      "p0": true,
+      "sourceCount": 1,
+      "metrics": "平台互动未接入",
+      "firstSeen": "2026-08-23T01:11:25.000Z",
+      "lastSeen": "2026-08-23T01:11:25.000Z"
+    },
+    {
+      "id": "20260822-northern-opera-festival-langfang",
+      "type": "事件性热点",
+      "domain": "戏曲 / 非遗",
+      "title": "全国戏曲北方片会演在廊坊启幕，近30个剧种集中亮相",
+      "summary": "36家院团带来16台大戏和25个折子戏，覆盖京剧、河北梆子、晋剧、评剧、秦腔等近30个剧种。",
+      "url": "https://www.chinanews.com.cn/cul/2026/08-22/10682271.shtml",
+      "source": "中国新闻网",
+      "sourceTitle": "第四届全国戏曲（北方片）会演在河北廊坊启幕",
+      "sourceType": "权威媒体报道",
+      "publishedAt": "2026-08-22T14:27:05+08:00",
+      "platforms": [
+        "新闻",
+        "公开网页"
+      ],
+      "people": [],
+      "works": [],
+      "institutions": [
+        "丝绸之路国际艺术交流中心"
+      ],
+      "places": [
+        "河北廊坊"
+      ],
+      "p0": true,
+      "sourceCount": 1,
+      "metrics": "平台互动未接入",
+      "firstSeen": "2026-08-23T01:11:25.000Z",
+      "lastSeen": "2026-08-23T01:11:25.000Z"
+    },
+    {
+      "id": "20260822-hanxizai-hangzhou-exhibition",
+      "type": "事件性热点",
+      "domain": "美术 / 古代名画",
+      "title": "《韩熙载夜宴图》时隔15年再度亮相杭州",
+      "summary": "古代名画《韩熙载夜宴图》在杭州展出，公开报道强调这是该作品时隔15年再次在当地亮相。",
+      "url": "https://www.chinanews.com.cn/cul/2026/08-22/10682277.shtml",
+      "source": "中国新闻网",
+      "sourceTitle": "名画《韩熙载夜宴图》亮相杭州 时隔15年再亮相",
+      "sourceType": "权威媒体报道",
+      "publishedAt": "2026-08-22T14:23:10+08:00",
+      "platforms": [
+        "新闻",
+        "公开网页"
+      ],
+      "people": [
+        "韩熙载"
+      ],
+      "works": [
+        "《韩熙载夜宴图》"
+      ],
+      "institutions": [],
+      "places": [
+        "杭州"
+      ],
+      "p0": true,
+      "sourceCount": 1,
+      "metrics": "平台互动未接入",
+      "firstSeen": "2026-08-23T01:11:25.000Z",
+      "lastSeen": "2026-08-23T01:11:25.000Z"
+    },
+    {
+      "id": "20260822-lingbi-zhongkui-young-design",
+      "type": "内容性热点",
+      "domain": "非遗 / 青年传承",
+      "title": "灵璧钟馗画传承人用动画和Q版形象让非遗进入青年世界",
+      "summary": "传承人尹婷婷把动画专业经验带入家族钟馗画传统，在保留文化内核的同时尝试Q版形象和当代设计，形成传承人与年轻受众之间的新接口。",
+      "url": "https://www.chinanews.com.cn/cul/2026/08-22/10682280.shtml",
+      "source": "中国新闻网",
+      "sourceTitle": "灵璧钟馗画传承人：从镇宅到新生，让非遗走进青年世界",
+      "sourceType": "权威媒体人物报道",
+      "publishedAt": "2026-08-22T14:20:28+08:00",
+      "platforms": [
+        "新闻",
+        "公开网页"
+      ],
+      "people": [
+        "尹婷婷",
+        "尹学道",
+        "尹玉麟",
+        "尹友杰",
+        "王治宇"
+      ],
+      "works": [
+        "灵璧钟馗画",
+        "《神威图》"
+      ],
+      "institutions": [],
+      "places": [
+        "安徽灵璧"
+      ],
+      "p0": true,
+      "sourceCount": 1,
+      "metrics": "平台互动未接入",
+      "firstSeen": "2026-08-23T01:11:25.000Z",
+      "lastSeen": "2026-08-23T01:11:25.000Z"
+    },
+    {
+      "id": "20260822-shizuishan-opera-public",
+      "type": "日常性热点",
+      "domain": "戏曲 / 公共文化",
+      "title": "石嘴山多剧种梨园演出三天吸引近万人到场",
+      "summary": "秦腔、二人台、赣剧和京剧等剧种在石嘴山连续免费演出，形成地方居民集中参与传统戏曲的日常文化样本。",
+      "url": "https://www.chinanews.com.cn/cul/2026/08-22/10682252.shtml",
+      "source": "中国新闻网",
+      "sourceTitle": "多剧种梨园盛会唱响石嘴山",
+      "sourceType": "权威媒体报道",
+      "publishedAt": "2026-08-22T13:24:01+08:00",
+      "platforms": [
+        "新闻",
+        "公开网页"
+      ],
+      "people": [],
+      "works": [],
+      "institutions": [],
+      "places": [
+        "宁夏石嘴山"
+      ],
+      "p0": false,
+      "sourceCount": 1,
+      "metrics": "媒体报道：三天累计近万人到场",
+      "firstSeen": "2026-08-23T01:11:25.000Z",
+      "lastSeen": "2026-08-23T01:11:25.000Z"
+    },
+    {
+      "id": "20260822-zhejiang-new-mass-literature",
+      "type": "内容性热点",
+      "domain": "文学 / 新大众文艺",
+      "title": "菜场作家、货车诗人与乡村微短剧重塑浙江文化版图",
+      "summary": "报道串联菜场经营者陈慧、货车司机诗人孙飞群和建德乡村微短剧，显示普通人的文学写作与短视频创作正从个体表达进入地方文化生态。",
+      "url": "https://www.chinanews.com.cn/cul/2026/08-22/10682218.shtml",
+      "source": "中国新闻网",
+      "sourceTitle": "文化观察：“新大众文艺”如何重塑浙江文化版图？",
+      "sourceType": "权威媒体报道",
+      "publishedAt": "2026-08-22T11:34:50+08:00",
+      "platforms": [
+        "新闻",
+        "短视频",
+        "公开网页"
+      ],
+      "people": [
+        "陈慧",
+        "孙飞群",
+        "陈利娟",
+        "程士庆"
+      ],
+      "works": [
+        "《去有花的地方》",
+        "《月光下的货车》"
+      ],
+      "institutions": [
+        "浙江文学院",
+        "浙江文学馆",
+        "浙江省文化广电和旅游厅"
+      ],
+      "places": [
+        "浙江余姚",
+        "浙江建德",
+        "浙江丽水"
+      ],
+      "p0": true,
+      "sourceCount": 1,
+      "metrics": "媒体报道：相关乡村微短剧首日点击量突破7万",
+      "firstSeen": "2026-08-23T01:11:25.000Z",
+      "lastSeen": "2026-08-23T01:11:25.000Z"
+    },
+    {
+      "id": "20260822-wuxiang-temple-fair-douyin",
+      "type": "日常性热点",
+      "domain": "非遗 / 民俗原生内容",
+      "title": "山西武乡五峪村传统庙会在抖音获得高互动",
+      "summary": "短视频记录五峪村8月22日至23日传统庙会现场，呈现地方民俗、村落公共生活与短视频传播的结合。",
+      "url": "https://www.douyin.com/video/7676671393672879716",
+      "source": "抖音公开页面",
+      "sourceTitle": "山西武乡五峪村传统庙会",
+      "sourceType": "平台原生短视频页",
+      "publishedAt": "2026-08-22T10:05:00+08:00",
+      "platforms": [
+        "抖音"
+      ],
+      "people": [],
+      "works": [
+        "五峪村传统庙会"
+      ],
+      "institutions": [],
+      "places": [
+        "山西武乡五峪村"
+      ],
+      "p0": true,
+      "sourceCount": 1,
+      "metrics": "抖音公开页：点赞32.3万（抓取时展示）",
+      "firstSeen": "2026-08-23T01:11:25.000Z",
+      "lastSeen": "2026-08-23T01:11:25.000Z"
+    },
     {
       "id": "20260821-isha-literary-history-douyin",
       "type": "内容性热点",
@@ -28,6 +346,332 @@
       "firstSeen": "2026-08-22T01:02:28.000Z",
       "lastSeen": "2026-08-22T01:02:28.000Z",
       "metrics": "平台互动未接入"
+    },
+    {
+      "id": "20260822-ningxia-new-mass-literature",
+      "type": "内容性热点",
+      "domain": "文学 / 地方写作",
+      "title": "“西海固文学”成为新大众文艺的宁夏样本",
+      "summary": "评论把西海固基层写作者群体视为新大众文艺的重要样本，讨论普通人写作如何成为现代个体的精神实践和地方文化表达。",
+      "url": "https://www.chinawriter.com.cn/n1/2026/0822/c419351-40784172.html",
+      "source": "中国艺术报、中国作家网",
+      "sourceTitle": "新大众文艺的“宁夏样本”",
+      "sourceType": "文化垂直媒体报道",
+      "publishedAt": "2026-08-22T08:03:00+08:00",
+      "platforms": [
+        "新闻",
+        "公开网页"
+      ],
+      "people": [
+        "牛学智"
+      ],
+      "works": [
+        "西海固文学"
+      ],
+      "institutions": [],
+      "places": [
+        "宁夏西海固"
+      ],
+      "p0": false,
+      "sourceCount": 1,
+      "metrics": "平台互动未接入",
+      "firstSeen": "2026-08-23T01:11:25.000Z",
+      "lastSeen": "2026-08-23T01:11:25.000Z"
+    },
+    {
+      "id": "20260822-chili-xinbishenxianlao",
+      "type": "内容性热点",
+      "domain": "文学 / 作家新作",
+      "title": "池莉最新小说集《心比身先老》跨越三十年讨论身体与心灵",
+      "summary": "小说集收入《心比身先老》《爱恨情仇》《打造》三篇作品，跨越约三十年创作时间，聚焦身体、心灵、情感与普通人的生存状态。",
+      "url": "https://www.chinawriter.com.cn/n1/2026/0822/c404030-40784171.html",
+      "source": "中国艺术报、中国作家网",
+      "sourceTitle": "评池莉最新小说集《心比身先老》",
+      "sourceType": "文化垂直媒体报道",
+      "publishedAt": "2026-08-22T08:02:00+08:00",
+      "platforms": [
+        "新闻",
+        "公开网页"
+      ],
+      "people": [
+        "池莉"
+      ],
+      "works": [
+        "《心比身先老》",
+        "《爱恨情仇》",
+        "《打造》"
+      ],
+      "institutions": [
+        "人民文学出版社"
+      ],
+      "places": [
+        "武汉",
+        "西藏"
+      ],
+      "p0": true,
+      "sourceCount": 1,
+      "metrics": "平台互动未接入",
+      "firstSeen": "2026-08-23T01:11:25.000Z",
+      "lastSeen": "2026-08-23T01:11:25.000Z"
+    },
+    {
+      "id": "20260822-yueluokongshan-essay",
+      "type": "内容性热点",
+      "domain": "文学 / 青年写作",
+      "title": "青年散文集《月落空山》回应屏幕时代的孤独与算法化情绪",
+      "summary": "邹弗以务川山地经验和长春生活为背景，书写个体如何面对屏幕时代的透明隔膜，并把散文视为对碎片化、算法化情绪的回应。",
+      "url": "https://www.chinawriter.com.cn/n1/2026/0822/c404030-40784170.html",
+      "source": "中国艺术报、中国作家网",
+      "sourceTitle": "青年的月光与山川——《月落空山》阅读札记",
+      "sourceType": "文化垂直媒体报道",
+      "publishedAt": "2026-08-22T08:02:00+08:00",
+      "platforms": [
+        "新闻",
+        "公开网页"
+      ],
+      "people": [
+        "邹弗"
+      ],
+      "works": [
+        "《月落空山》"
+      ],
+      "institutions": [],
+      "places": [
+        "贵州务川",
+        "吉林长春"
+      ],
+      "p0": false,
+      "sourceCount": 1,
+      "metrics": "平台互动未接入",
+      "firstSeen": "2026-08-23T01:11:25.000Z",
+      "lastSeen": "2026-08-23T01:11:25.000Z"
+    },
+    {
+      "id": "20260822-china-publishing-exhibition-sydney",
+      "type": "事件性热点",
+      "domain": "出版 / 国际传播",
+      "title": "中国主题出版物及文创展在悉尼举行",
+      "summary": "展览在新南威尔士州立图书馆举行，涵盖中国文化、儿童文学与科学类出版物，并讨论版权合作和数字出版。",
+      "url": "https://www.chinanews.com.cn/cul/2026/08-22/10682439.shtml",
+      "source": "中国新闻网",
+      "sourceTitle": "中国主题出版物及文创展在悉尼举行",
+      "sourceType": "权威媒体报道",
+      "publishedAt": "2026-08-22",
+      "platforms": [
+        "新闻",
+        "公开网页"
+      ],
+      "people": [
+        "高云鹏",
+        "谢炜"
+      ],
+      "works": [],
+      "institutions": [
+        "中国国际图书贸易集团",
+        "中国社会科学出版社",
+        "新南威尔士州立图书馆"
+      ],
+      "places": [
+        "澳大利亚悉尼"
+      ],
+      "p0": false,
+      "sourceCount": 1,
+      "metrics": "平台互动未接入",
+      "firstSeen": "2026-08-23T01:11:25.000Z",
+      "lastSeen": "2026-08-23T01:11:25.000Z"
+    },
+    {
+      "id": "20260822-zhangwenxun-centenary-exhibition",
+      "type": "事件性热点",
+      "domain": "文学 / 学术人物",
+      "title": "云南百岁学人张文勋百余幅翰墨作品在昆明展出",
+      "summary": "展览以百余幅书画为张文勋贺寿，呈现其七十余年教学与中国古代文论、美学、诗词研究成果。",
+      "url": "https://www.chinanews.com.cn/cul/2026/08-22/10682468.shtml",
+      "source": "中国新闻网",
+      "sourceTitle": "“追寻”云南百岁学人张文勋 百余幅翰墨昆明贺寿",
+      "sourceType": "权威媒体报道",
+      "publishedAt": "2026-08-22",
+      "platforms": [
+        "新闻",
+        "公开网页"
+      ],
+      "people": [
+        "张文勋"
+      ],
+      "works": [
+        "《中国古代文学理论论稿》",
+        "《文心雕龙探秘》",
+        "《儒道佛美学思想源流》",
+        "《凤樵诗词》"
+      ],
+      "institutions": [
+        "云南大学",
+        "中华诗词学会",
+        "云南省图书馆"
+      ],
+      "places": [
+        "昆明",
+        "大理"
+      ],
+      "p0": true,
+      "sourceCount": 1,
+      "metrics": "平台互动未接入",
+      "firstSeen": "2026-08-23T01:11:25.000Z",
+      "lastSeen": "2026-08-23T01:11:25.000Z"
+    },
+    {
+      "id": "20260822-baozheng-holographic-theater",
+      "type": "事件性热点",
+      "domain": "人文IP / 数字演艺",
+      "title": "安徽首个包公主题全息剧场启幕",
+      "summary": "剧场以270度投影、全息表演与互动体验再现包公文化，展示传统人物IP进入沉浸式数字演艺的新路径。",
+      "url": "https://www.chinanews.com.cn/cul/2026/08-22/10682402.shtml",
+      "source": "中国新闻网",
+      "sourceTitle": "安徽首个包公主题全息剧场启幕",
+      "sourceType": "权威媒体报道",
+      "publishedAt": "2026-08-22",
+      "platforms": [
+        "新闻",
+        "公开网页"
+      ],
+      "people": [
+        "包拯"
+      ],
+      "works": [
+        "包公文化"
+      ],
+      "institutions": [],
+      "places": [
+        "安徽合肥"
+      ],
+      "p0": false,
+      "sourceCount": 1,
+      "metrics": "平台互动未接入",
+      "firstSeen": "2026-08-23T01:11:25.000Z",
+      "lastSeen": "2026-08-23T01:11:25.000Z"
+    },
+    {
+      "id": "20260822-ningxia-greatwall-ich-museum",
+      "type": "事件性热点",
+      "domain": "非遗 / 展馆",
+      "title": "宁夏长城非遗展览馆在水洞沟试运营",
+      "summary": "展览馆在宁夏水洞沟景区试运营，围绕长城文化与地方非遗设置展示、沉浸体验和研发传播空间。",
+      "url": "https://weibo.com/2/detail/5334653957310247?utm_source=travel",
+      "source": "银川晚报微博",
+      "sourceTitle": "宁夏长城非遗展览馆8月22日起试运营",
+      "sourceType": "媒体官方平台页",
+      "publishedAt": "2026-08-22",
+      "platforms": [
+        "微博"
+      ],
+      "people": [],
+      "works": [
+        "宁夏长城非遗展览馆"
+      ],
+      "institutions": [
+        "银川晚报"
+      ],
+      "places": [
+        "宁夏灵武水洞沟"
+      ],
+      "p0": false,
+      "sourceCount": 1,
+      "metrics": "平台互动未接入",
+      "firstSeen": "2026-08-23T01:11:25.000Z",
+      "lastSeen": "2026-08-23T01:11:25.000Z"
+    },
+    {
+      "id": "20260822-nanyue-tiehua-douyin",
+      "type": "内容性热点",
+      "domain": "非遗 / 原生短视频",
+      "title": "抖音创作者以1600℃打铁花呈现“非遗中式浪漫”",
+      "summary": "创作者在南岳拍摄打铁花现场，以高温火花和夜间仪式感为核心表达，属于高互动的非遗原生短视频内容。",
+      "url": "https://www.douyin.com/video/7676552280456580470",
+      "source": "荔枝Liz抖音",
+      "sourceTitle": "在南岳里见到了1600°C非遗中式浪漫 #打铁花",
+      "sourceType": "本人原生短视频页",
+      "publishedAt": "2026-08-22",
+      "platforms": [
+        "抖音"
+      ],
+      "people": [
+        "荔枝Liz"
+      ],
+      "works": [
+        "打铁花"
+      ],
+      "institutions": [],
+      "places": [
+        "南岳"
+      ],
+      "p0": true,
+      "sourceCount": 1,
+      "metrics": "抖音公开页：点赞1924.8万（抓取时展示）",
+      "firstSeen": "2026-08-23T01:11:25.000Z",
+      "lastSeen": "2026-08-23T01:11:25.000Z"
+    },
+    {
+      "id": "20260822-jjwxc-author-conference-ai",
+      "type": "事件性热点",
+      "domain": "网络文学 / 平台事件",
+      "title": "晋江文学城23周年作者大会聚焦“当AI涌入创作时”并登上热搜",
+      "summary": "晋江文学城作者大会在杭州举行，以“问初心以立命，当AI涌入创作时”为主题；作者集中亮相和现场图片在微博、小红书等平台形成讨论。",
+      "url": "https://m.s.weibo.com/zhisou/zhisoushare?url=sinaweibo%3A%2F%2Fsearchall%3Fcontainerid%3D230958%26type%3D200%26q%3D%25E6%2599%258B%25E6%25B1%259F%25E4%25BD%259C%25E8%2580%2585%25E5%25A4%25A7%25E4%25BC%259A%26t%3D761",
+      "source": "微博热搜页",
+      "sourceTitle": "晋江作者大会",
+      "sourceType": "平台公开热搜页",
+      "publishedAt": "2026-08-22",
+      "platforms": [
+        "微博",
+        "小红书",
+        "公开网页"
+      ],
+      "people": [
+        "巫哲",
+        "稚楚",
+        "绿野千鹤"
+      ],
+      "works": [],
+      "institutions": [
+        "晋江文学城"
+      ],
+      "places": [
+        "杭州"
+      ],
+      "p0": true,
+      "sourceCount": 2,
+      "metrics": "平台互动未接入",
+      "firstSeen": "2026-08-23T01:11:25.000Z",
+      "lastSeen": "2026-08-23T01:11:25.000Z"
+    },
+    {
+      "id": "20260823-chushu-folk-customs",
+      "type": "日常性热点",
+      "domain": "节气 / 民俗",
+      "title": "处暑节点带动“七月半”、放水灯与抢孤等民俗内容集中传播",
+      "summary": "8月23日处暑到来，围绕暑气渐止、庆赞中元、放水灯、普渡和抢孤等节气民俗的内容开始集中传播，适合作为节气文化解释型选题。",
+      "url": "https://www.elle.com/tw/life/hot-news/g73480245/end-of-heat-2026/",
+      "source": "ELLE台湾",
+      "sourceTitle": "8/23处暑要来了：习俗与节气文化",
+      "sourceType": "公开文化生活报道",
+      "publishedAt": "2026-08-22",
+      "platforms": [
+        "新闻",
+        "公开网页"
+      ],
+      "people": [],
+      "works": [
+        "二十四节气·处暑"
+      ],
+      "institutions": [],
+      "places": [
+        "中国"
+      ],
+      "p0": true,
+      "sourceCount": 1,
+      "metrics": "平台互动未接入",
+      "firstSeen": "2026-08-23T01:11:25.000Z",
+      "lastSeen": "2026-08-23T01:11:25.000Z"
     },
     {
       "id": "20260821-hunan-ich-digital-platform",
@@ -806,6 +1450,41 @@
       "firstSeen": "2026-08-21T01:05:00.000Z",
       "lastSeen": "2026-08-21T01:05:00.000Z",
       "metrics": "平台互动未接入"
+    },
+    {
+      "id": "20260820-zhangyuxi-shadow-puppet-qixi",
+      "type": "内容性热点",
+      "domain": "非遗 / 明星传播",
+      "title": "张予曦复刻皮影戏织女造型，明星参与非遗巡游形成平台话题",
+      "summary": "张予曦以“织女”身份参与唐山抖音非遗嘉年华戏影巡游直播，真人妆造与巨型皮影同框，相关内容在微博等平台集中传播。",
+      "url": "https://cj.sina.cn/articles/view/7879776328/1d5abd8480680263vy?froms=ggmp",
+      "source": "新浪公开转述页",
+      "sourceTitle": "张予曦皮影戏织女造型怎么回事？2026年七夕非遗嘉年华复刻出圈",
+      "sourceType": "可访问聚合转述",
+      "publishedAt": "2026-08-20T23:51:00+08:00",
+      "platforms": [
+        "抖音",
+        "微博",
+        "公开网页"
+      ],
+      "people": [
+        "张予曦"
+      ],
+      "works": [
+        "皮影戏",
+        "织女"
+      ],
+      "institutions": [
+        "抖音非遗嘉年华"
+      ],
+      "places": [
+        "河北唐山河头老街"
+      ],
+      "p0": true,
+      "sourceCount": 2,
+      "metrics": "平台互动未接入",
+      "firstSeen": "2026-08-23T01:11:25.000Z",
+      "lastSeen": "2026-08-23T01:11:25.000Z"
     },
     {
       "id": "20260820-ai-era-art-value",
@@ -2669,6 +3348,40 @@
       "metrics": "平台互动未接入"
     },
     {
+      "id": "20260822-caofangzi-childrens-literature",
+      "type": "事件性热点",
+      "domain": "儿童文学 / 国际交流",
+      "title": "曹文轩与蔡皋在“草房子”国际儿童文学活动首次对话",
+      "summary": "2026草房子国际儿童文学交流活动于8月22日至23日在盐城举行，两位国际安徒生奖获得者围绕儿童文学创作与国际表达展开对话。",
+      "url": "https://www.ycnews.cn/ycyw/2026/08-17/eryp07m1.html",
+      "source": "盐城新闻网",
+      "sourceTitle": "2026草房子国际儿童文学交流活动将于8月22日至23日举行",
+      "sourceType": "地方权威媒体报道",
+      "publishedAt": "2026-08-17T07:12:00+08:00",
+      "platforms": [
+        "新闻",
+        "公开网页"
+      ],
+      "people": [
+        "曹文轩",
+        "蔡皋"
+      ],
+      "works": [
+        "《草房子》",
+        "《青铜葵花》",
+        "《根鸟》"
+      ],
+      "institutions": [],
+      "places": [
+        "江苏盐城"
+      ],
+      "p0": true,
+      "sourceCount": 1,
+      "metrics": "平台互动未接入",
+      "firstSeen": "2026-08-23T01:11:25.000Z",
+      "lastSeen": "2026-08-23T01:11:25.000Z"
+    },
+    {
       "id": "20260817-caigao-andersen",
       "type": "内容性热点",
       "domain": "文学 / 绘本",
@@ -4040,21 +4753,31 @@
     }
   ],
   "meta": {
-    "total": 123,
+    "total": 145,
     "platforms": [
-      "官网",
+      "抖音",
       "新闻",
-      "微信",
       "公开网页",
-      "图片",
+      "短视频",
+      "微博",
+      "小红书",
+      "电影",
+      "动画",
+      "微信",
+      "官网",
+      "哔哩哔哩",
+      "舞台演出",
+      "漫画",
+      "图文",
+      "电视",
+      "网络直播",
+      "音频",
       "视频",
       "戏剧",
+      "视频号",
+      "图片",
       "央视新闻",
-      "电视",
-      "腾讯新闻",
-      "微博",
-      "抖音",
-      "小红书"
+      "腾讯新闻"
     ],
     "collector": "每日文化热点扫描写回 + TrendRadar增量 + 公开网页",
     "interactionMetrics": "未接入",
