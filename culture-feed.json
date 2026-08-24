@@ -1,8 +1,152 @@
 {
   "version": 1,
-  "generatedAt": "2026-08-23T01:11:25.000Z",
+  "generatedAt": "2026-08-24T01:28:55.000Z",
   "windowDays": 30,
   "items": [
+    {
+      "id": "20260823-zaijiang-loneliness-writing",
+      "type": "事件性热点",
+      "domain": "文学 / 香港写作",
+      "title": "香港作家群以“孤”为题讨论流行文学与传统小说边界",
+      "summary": "《再讲》创作计划邀请永若晴、张婉雯、苏可程在新书发布活动中讨论“孤”的写作，以及本地创作在流行文学与传统小说之间的位置。",
+      "url": "https://meet.eslite.com/hk/tc/artshow/202607300001",
+      "source": "香港诚品书店",
+      "sourceTitle": "《再讲》新书发布——是流行文学还是传统小说？",
+      "sourceType": "主办方活动页面",
+      "publishedAt": "2026-08-23T18:00:00+08:00",
+      "platforms": [
+        "官网",
+        "公开网页"
+      ],
+      "people": [
+        "永若晴",
+        "张婉雯",
+        "苏可程"
+      ],
+      "works": [
+        "《再讲》"
+      ],
+      "institutions": [
+        "新流氓青",
+        "香港诚品书店"
+      ],
+      "places": [
+        "香港尖沙咀"
+      ],
+      "p0": false,
+      "sourceCount": 1,
+      "metrics": "平台互动未接入",
+      "firstSeen": "2026-08-24T01:28:55.000Z",
+      "lastSeen": "2026-08-24T01:28:55.000Z"
+    },
+    {
+      "id": "20260823-keyiguan-ich-performance",
+      "type": "事件性热点",
+      "domain": "非遗 / 公共教育",
+      "title": "中国非遗馆“可以观”用四季篇章串联20余项非遗",
+      "summary": "活动以《春·茶》《夏·瓷》《秋·染》《冬·年》四个篇章融合诗书琴舞，组织传承人、职业学校学生和儿童共同登台，并发布五条非遗研学线路。",
+      "url": "https://app.xinhuanet.com/news/article.html?articleId=20260823cd0773d5bedc45f0864376e6f5a66ffb",
+      "source": "新华网客户端",
+      "sourceTitle": "见人见物见生活 中国非遗馆“可以观”专场活动举办",
+      "sourceType": "权威媒体报道",
+      "publishedAt": "2026-08-23T16:36:00+08:00",
+      "platforms": [
+        "新闻",
+        "视频",
+        "公开网页"
+      ],
+      "people": [
+        "王晨阳"
+      ],
+      "works": [
+        "“可以观”非遗社教演艺"
+      ],
+      "institutions": [
+        "中国工艺美术馆",
+        "中国非物质文化遗产馆"
+      ],
+      "places": [
+        "北京"
+      ],
+      "p0": true,
+      "sourceCount": 2,
+      "metrics": "新华网客户端页面：24.2万次浏览（抓取时展示）",
+      "firstSeen": "2026-08-24T01:28:55.000Z",
+      "lastSeen": "2026-08-24T01:28:55.000Z"
+    },
+    {
+      "id": "20260823-yangliuqing-dance-qingrun",
+      "type": "事件性热点",
+      "domain": "非遗 / 舞剧",
+      "title": "舞剧《青·润》把杨柳青年画“勾刻印绘裱”转为舞蹈语言",
+      "summary": "升级版以匠人与梨木双线叙事，把刻刀、木纹和年画吉祥意象转化为舞台动作，探索木版年画从技艺展示到当代舞蹈表达。",
+      "url": "https://www.news.cn/20260823/96de81fba28343569c37b8bdc27eb9d9/c.html",
+      "source": "新华网",
+      "sourceTitle": "原创舞剧《青·润》升级版首演 活化杨柳青年画之美",
+      "sourceType": "权威媒体报道",
+      "publishedAt": "2026-08-23T16:24:03+08:00",
+      "platforms": [
+        "新闻",
+        "戏剧",
+        "公开网页"
+      ],
+      "people": [
+        "郑芳",
+        "刘婵"
+      ],
+      "works": [
+        "《青·润》",
+        "杨柳青木版年画"
+      ],
+      "institutions": [
+        "天津歌舞剧院"
+      ],
+      "places": [
+        "天津"
+      ],
+      "p0": true,
+      "sourceCount": 1,
+      "metrics": "平台互动未接入",
+      "firstSeen": "2026-08-24T01:28:55.000Z",
+      "lastSeen": "2026-08-24T01:28:55.000Z"
+    },
+    {
+      "id": "20260823-moxiu-art-beijing",
+      "type": "事件性热点",
+      "domain": "非遗 / 当代艺术",
+      "title": "水墨与丝绸刺绣跨界形成“墨绣”新艺术形态",
+      "summary": "北京展览设置“墨绘文脉”“丝绣东方”两大展区，展出张国樟水墨与邓华强墨绣作品近百件，尝试把传统刺绣转为当代艺术语言。",
+      "url": "https://www.chinanews.com.cn/cul/2026/08-23/10682545.shtml",
+      "source": "中国新闻网",
+      "sourceTitle": "丝墨共绘文明对话 “墨绣”艺术形态亮相",
+      "sourceType": "权威媒体报道",
+      "publishedAt": "2026-08-23T09:57:14+08:00",
+      "platforms": [
+        "新闻",
+        "展览",
+        "公开网页"
+      ],
+      "people": [
+        "张国樟",
+        "邓华强"
+      ],
+      "works": [
+        "“墨绣”系列"
+      ],
+      "institutions": [
+        "浙江省大运河丝绸文化研究院",
+        "中国美术学院出版社",
+        "北京俄罗斯文化中心"
+      ],
+      "places": [
+        "北京"
+      ],
+      "p0": false,
+      "sourceCount": 1,
+      "metrics": "平台互动未接入",
+      "firstSeen": "2026-08-24T01:28:55.000Z",
+      "lastSeen": "2026-08-24T01:28:55.000Z"
+    },
     {
       "id": "20260822-anshun-huadeng-douyin",
       "type": "日常性热点",
@@ -30,6 +174,379 @@
       "metrics": "平台互动未接入",
       "firstSeen": "2026-08-23T01:11:25.000Z",
       "lastSeen": "2026-08-23T01:11:25.000Z"
+    },
+    {
+      "id": "20260823-new-mass-literature-book",
+      "type": "事件性热点",
+      "domain": "文学 / 新大众文艺",
+      "title": "《新大众文艺简说》首发，王计兵与皮村写作成为理论样本",
+      "summary": "新书尝试回答新大众文艺由谁创造、如何传播及价值何在；邱华栋以王计兵获鲁迅文学奖、皮村文学小组和县域写作者为例说明这一文化现象。",
+      "url": "https://www.chinawriter.com.cn/n1/2026/0823/c403994-40784422.html",
+      "source": "文艺报、中国作家网",
+      "sourceTitle": "《新大众文艺简说》新书首发暨研讨会在京举行",
+      "sourceType": "文学垂直媒体报道",
+      "publishedAt": "2026-08-23T08:32:00+08:00",
+      "platforms": [
+        "新闻",
+        "公开网页"
+      ],
+      "people": [
+        "邱华栋",
+        "王计兵",
+        "彭云"
+      ],
+      "works": [
+        "《新大众文艺简说》"
+      ],
+      "institutions": [
+        "中国作家协会",
+        "学习出版社",
+        "江苏凤凰文艺出版社"
+      ],
+      "places": [
+        "北京"
+      ],
+      "p0": true,
+      "sourceCount": 1,
+      "metrics": "平台互动未接入",
+      "firstSeen": "2026-08-24T01:28:55.000Z",
+      "lastSeen": "2026-08-24T01:28:55.000Z"
+    },
+    {
+      "id": "20260823-odyssey-details-and-blank",
+      "type": "内容性热点",
+      "domain": "文学 / 影视改编",
+      "title": "北大学者批评诺兰《奥德赛》以现代解释框架压缩古典复杂性",
+      "summary": "评论对比荷马史诗与诺兰电影，认为原典的细节、留白和日常生活不应被快速归结为创伤、权力或帝国等现代主题，提出影视改编如何保留古代世界的陌生性。",
+      "url": "https://www.chinawriter.com.cn/n1/2026/0823/c404092-40784414.html",
+      "source": "文汇报、中国作家网",
+      "sourceTitle": "《奥德赛》的细节与留白",
+      "sourceType": "文化评论",
+      "publishedAt": "2026-08-23T08:27:00+08:00",
+      "platforms": [
+        "新闻",
+        "公开网页",
+        "电影"
+      ],
+      "people": [
+        "刘淳",
+        "克里斯托弗·诺兰",
+        "荷马"
+      ],
+      "works": [
+        "《奥德赛》"
+      ],
+      "institutions": [
+        "北京大学"
+      ],
+      "places": [],
+      "p0": true,
+      "sourceCount": 1,
+      "metrics": "平台互动未接入",
+      "firstSeen": "2026-08-24T01:28:55.000Z",
+      "lastSeen": "2026-08-24T01:28:55.000Z"
+    },
+    {
+      "id": "20260823-luxun-week-real-luxun",
+      "type": "事件性热点",
+      "domain": "文学 / 鲁迅",
+      "title": "鲁迅文学周以“幻灯片事件”和纪实传统重访真实的鲁迅",
+      "summary": "面向公众的系列讲座从“幻灯片事件”120周年、《藤野先生》发表100周年切入，并讨论互联网时代纪实写作如何保持在场、求真与文学性。",
+      "url": "https://www.chinawriter.com.cn/n1/2026/0823/c403994-40784413.html",
+      "source": "文汇报、中国作家网",
+      "sourceTitle": "与真实鲜活的“大先生”重逢",
+      "sourceType": "文学活动报道",
+      "publishedAt": "2026-08-23T08:17:00+08:00",
+      "platforms": [
+        "新闻",
+        "公开网页"
+      ],
+      "people": [
+        "鲁迅",
+        "罗岗",
+        "杨宸",
+        "朱大建"
+      ],
+      "works": [
+        "《藤野先生》",
+        "《呐喊》",
+        "《记念刘和珍君》"
+      ],
+      "institutions": [
+        "鲁迅文学周",
+        "朵云书院"
+      ],
+      "places": [
+        "上海"
+      ],
+      "p0": true,
+      "sourceCount": 1,
+      "metrics": "平台互动未接入",
+      "firstSeen": "2026-08-24T01:28:55.000Z",
+      "lastSeen": "2026-08-24T01:28:55.000Z"
+    },
+    {
+      "id": "20260823-algorithm-new-mass-arts-report",
+      "type": "内容性热点",
+      "domain": "新大众文艺 / 算法",
+      "title": "清华报告把素人写作、非遗等纳入新大众文艺十大赛道",
+      "summary": "报告将素人才艺、微短剧、网络文学、非遗与民间手艺、素人写作等列为十大赛道，并讨论评论、收藏、分享等信号如何帮助算法识别公共价值与深度内容。",
+      "url": "https://www.news.cn/tech/20260823/063ae8d9eb7a474da1d140b5dcc4202f/c.html",
+      "source": "新华网",
+      "sourceTitle": "清华报告：新大众文艺推动“算法向善”走向具体实践",
+      "sourceType": "权威媒体报道",
+      "publishedAt": "2026-08-23",
+      "platforms": [
+        "新闻",
+        "公开网页",
+        "抖音"
+      ],
+      "people": [
+        "张颐武",
+        "芦垚"
+      ],
+      "works": [
+        "新大众文艺研究报告"
+      ],
+      "institutions": [
+        "清华大学",
+        "北京大学",
+        "抖音"
+      ],
+      "places": [
+        "北京"
+      ],
+      "p0": true,
+      "sourceCount": 1,
+      "metrics": "平台互动未接入",
+      "firstSeen": "2026-08-24T01:28:55.000Z",
+      "lastSeen": "2026-08-24T01:28:55.000Z"
+    },
+    {
+      "id": "20260823-feiyi-china-deyang",
+      "type": "内容性热点",
+      "domain": "非遗 / 人文节目",
+      "title": "《非遗里的中国》德阳篇展示潮扇、挂面与三星堆古蜀技艺",
+      "summary": "节目把中江手工挂面、坐杠大刀金丝面和德阳潮扇等技艺放进古蜀文脉；传承人杨占勇以去扇面、双面缠丝等方式让竹编进入日用文创。",
+      "url": "https://www.chinanews.com.cn/cul/2026/08-23/10682641.shtml",
+      "source": "中国新闻网",
+      "sourceTitle": "《非遗里的中国》走进四川德阳 解码古蜀文脉的当代传承",
+      "sourceType": "权威媒体节目报道",
+      "publishedAt": "2026-08-23",
+      "platforms": [
+        "电视",
+        "视频",
+        "新闻",
+        "公开网页"
+      ],
+      "people": [
+        "杨占勇"
+      ],
+      "works": [
+        "《非遗里的中国》德阳篇",
+        "德阳潮扇",
+        "中江手工挂面"
+      ],
+      "institutions": [
+        "中央广播电视总台"
+      ],
+      "places": [
+        "四川德阳"
+      ],
+      "p0": true,
+      "sourceCount": 1,
+      "metrics": "平台互动未接入",
+      "firstSeen": "2026-08-24T01:28:55.000Z",
+      "lastSeen": "2026-08-24T01:28:55.000Z"
+    },
+    {
+      "id": "20260823-xicheng-public-theater-market",
+      "type": "日常性热点",
+      "domain": "戏剧 / 城市公共文化",
+      "title": "北京西城百姓戏剧市集让戏曲、话剧角色进入街区互动",
+      "summary": "市集连续设置传统演绎、亲子表演和青年乐队日，并通过剧中角色互动、古风游戏、非遗文创与老字号饮品构成低门槛城市戏剧体验。",
+      "url": "https://www.chinanews.com.cn/cul/2026/08-23/10682736.shtml",
+      "source": "中国新闻网",
+      "sourceTitle": "2026北京西城百姓戏剧文化市集鸣锣开市",
+      "sourceType": "权威媒体报道",
+      "publishedAt": "2026-08-23",
+      "platforms": [
+        "新闻",
+        "线下活动",
+        "公开网页"
+      ],
+      "people": [],
+      "works": [],
+      "institutions": [
+        "北京西城百姓戏剧文化市集"
+      ],
+      "places": [
+        "北京西城"
+      ],
+      "p0": false,
+      "sourceCount": 1,
+      "metrics": "平台互动未接入",
+      "firstSeen": "2026-08-24T01:28:55.000Z",
+      "lastSeen": "2026-08-24T01:28:55.000Z"
+    },
+    {
+      "id": "20260823-eastern-aesthetics-lifestyle",
+      "type": "日常性热点",
+      "domain": "人文美学 / 生活方式",
+      "title": "东方美学生活方式展把书房、茶席和香席变成可进入的日常场景",
+      "summary": "林曦等艺术家以山林、书房、茶席、香席和衣坊构建沉浸式展览，尝试让传统审美从观看对象变成可体验的日常生活。",
+      "url": "https://www.chinanews.com.cn/cul/2026/08-23/10682675.shtml",
+      "source": "中国新闻网",
+      "sourceTitle": "“东方美学生活方式展”在京开展 融汇古今中外艺术家作品",
+      "sourceType": "权威媒体报道",
+      "publishedAt": "2026-08-23",
+      "platforms": [
+        "新闻",
+        "展览",
+        "公开网页"
+      ],
+      "people": [
+        "林曦"
+      ],
+      "works": [
+        "东方美学生活方式展"
+      ],
+      "institutions": [
+        "暄桐教室",
+        "国贸商城"
+      ],
+      "places": [
+        "北京"
+      ],
+      "p0": false,
+      "sourceCount": 1,
+      "metrics": "平台互动未接入",
+      "firstSeen": "2026-08-24T01:28:55.000Z",
+      "lastSeen": "2026-08-24T01:28:55.000Z"
+    },
+    {
+      "id": "20260823-ai-creative-writing-conference",
+      "type": "事件性热点",
+      "domain": "文学 / 创意写作",
+      "title": "中国创意写作年会在香港集中讨论AI时代的文学创作",
+      "summary": "第十一届中国创意写作年会于8月21日至23日举行，主题聚焦人工智能时代的创意写作、文学教育与文化传播。",
+      "url": "https://www.hkmu.edu.hk/as/sc/news-events/the-11th-annual-conference-on-chinese-creative-writing-2026/",
+      "source": "香港都会大学",
+      "sourceTitle": "第十一届中国创意写作年会（2026）",
+      "sourceType": "主办方机构页面",
+      "publishedAt": "2026-08-23",
+      "platforms": [
+        "官网",
+        "公开网页"
+      ],
+      "people": [],
+      "works": [],
+      "institutions": [
+        "香港都会大学",
+        "中国创意写作年会"
+      ],
+      "places": [
+        "香港"
+      ],
+      "p0": true,
+      "sourceCount": 1,
+      "metrics": "平台互动未接入",
+      "firstSeen": "2026-08-24T01:28:55.000Z",
+      "lastSeen": "2026-08-24T01:28:55.000Z"
+    },
+    {
+      "id": "20260823-nianbaoyuze-gesar",
+      "type": "日常性热点",
+      "domain": "非遗 / 史诗",
+      "title": "格萨尔说唱进入年保玉则文化旅游季公共现场",
+      "summary": "文化旅游季以格萨尔说唱《珠姆赞歌》等本地表演呈现史诗传统，形成非遗活态传承与高原文旅结合的现场样本。",
+      "url": "https://qh.news.cn/20260823/bd940d4c39b04d36bad38376e2392ea5/c.html",
+      "source": "新华网青海频道",
+      "sourceTitle": "第三届年保玉则文化旅游季在果洛州久治县开幕",
+      "sourceType": "权威媒体报道",
+      "publishedAt": "2026-08-23",
+      "platforms": [
+        "新闻",
+        "线下活动",
+        "公开网页"
+      ],
+      "people": [],
+      "works": [
+        "《珠姆赞歌》",
+        "格萨尔史诗"
+      ],
+      "institutions": [],
+      "places": [
+        "青海果洛州久治县"
+      ],
+      "p0": false,
+      "sourceCount": 1,
+      "metrics": "平台互动未接入",
+      "firstSeen": "2026-08-24T01:28:55.000Z",
+      "lastSeen": "2026-08-24T01:28:55.000Z"
+    },
+    {
+      "id": "20260823-xiamen-cultural-heritage",
+      "type": "日常性热点",
+      "domain": "非遗 / 城市文脉",
+      "title": "厦门以书院、漆艺和古厝体验延续鹭岛文脉",
+      "summary": "公开报道记录市民游客在金沙书院观看大型漆画、体验非遗手作，并把古厝、书院与城市公共文化空间连接起来。",
+      "url": "https://www.fj.news.cn/20260823/72ae5c3fc611496493f19920040e5472/c.html",
+      "source": "新华网福建频道",
+      "sourceTitle": "活力中国调研行｜福建厦门：鹭岛文脉续新篇",
+      "sourceType": "权威媒体报道",
+      "publishedAt": "2026-08-23",
+      "platforms": [
+        "新闻",
+        "公开网页"
+      ],
+      "people": [],
+      "works": [
+        "漆艺"
+      ],
+      "institutions": [
+        "金沙书院"
+      ],
+      "places": [
+        "福建厦门"
+      ],
+      "p0": false,
+      "sourceCount": 1,
+      "metrics": "平台互动未接入",
+      "firstSeen": "2026-08-24T01:28:55.000Z",
+      "lastSeen": "2026-08-24T01:28:55.000Z"
+    },
+    {
+      "id": "20260823-santiao-zan-football",
+      "type": "内容性热点",
+      "domain": "非遗 / 体育跨界",
+      "title": "福州“三条簪”非遗发饰亮相“闽超”赛场",
+      "summary": "福州传统非遗发饰“三条簪”进入地方足球赛事开场表演，形成传统妆造与体育现场结合的跨界传播样本。",
+      "url": "https://fj.news.cn/20260823/7334a5a531f44a08be82ff02eb40ade4/c.html",
+      "source": "新华网福建频道",
+      "sourceTitle": "福州队3:1胜龙岩队获“闽超”第二阶段比赛两连胜",
+      "sourceType": "权威媒体报道",
+      "publishedAt": "2026-08-23",
+      "platforms": [
+        "新闻",
+        "体育",
+        "公开网页"
+      ],
+      "people": [],
+      "works": [
+        "三条簪"
+      ],
+      "institutions": [
+        "闽超"
+      ],
+      "places": [
+        "福建福州"
+      ],
+      "p0": false,
+      "sourceCount": 1,
+      "metrics": "平台互动未接入",
+      "firstSeen": "2026-08-24T01:28:55.000Z",
+      "lastSeen": "2026-08-24T01:28:55.000Z"
     },
     {
       "id": "20260823-mingqing-novel-ich-conference",
@@ -250,6 +767,79 @@
       "metrics": "媒体报道：三天累计近万人到场",
       "firstSeen": "2026-08-23T01:11:25.000Z",
       "lastSeen": "2026-08-23T01:11:25.000Z"
+    },
+    {
+      "id": "20260823-luxun-award-reportage-review",
+      "type": "内容性热点",
+      "domain": "文学 / 报告文学",
+      "title": "鲁奖报告文学综论强调“大事件中的具体的人”",
+      "summary": "综论回看三百余部参评作品，讨论山乡巨变、公共事件、生态保护和社会问题如何通过调查、在场与人物叙事转化为报告文学。",
+      "url": "https://www.chinawriter.com.cn/n1/2026/0823/c462462-40784331.html",
+      "source": "中国作家网",
+      "sourceTitle": "报告文学获奖作品综论：时代、历史以及“具体的人”",
+      "sourceType": "主办方文学评论",
+      "publishedAt": "2026-08-22T12:26:00+08:00",
+      "platforms": [
+        "新闻",
+        "公开网页"
+      ],
+      "people": [
+        "陈启文",
+        "崔庆蕾"
+      ],
+      "works": [
+        "《穿越人间的象群》"
+      ],
+      "institutions": [
+        "中国作家协会"
+      ],
+      "places": [
+        "云南"
+      ],
+      "p0": true,
+      "sourceCount": 1,
+      "metrics": "平台互动未接入",
+      "firstSeen": "2026-08-24T01:28:55.000Z",
+      "lastSeen": "2026-08-24T01:28:55.000Z"
+    },
+    {
+      "id": "20260823-luxun-award-short-fiction-review",
+      "type": "内容性热点",
+      "domain": "文学 / 鲁迅文学奖",
+      "title": "鲁奖短篇小说综论：短视频、网红经济与文旅商业化进入文学现场",
+      "summary": "评奖综论以班宇、哲贵、何玉茹、储福金、艾玛等获奖作品为中心，指出当代短篇正在吸收新媒体、网红经济、城乡变化和生命伦理等现实命题。",
+      "url": "https://www.chinawriter.com.cn/n1/2026/0823/c462462-40784330.html",
+      "source": "中国作家网",
+      "sourceTitle": "短篇小说获奖作品综论：微物映时代，万象寄人心",
+      "sourceType": "主办方文学评论",
+      "publishedAt": "2026-08-22T12:24:00+08:00",
+      "platforms": [
+        "新闻",
+        "公开网页"
+      ],
+      "people": [
+        "班宇",
+        "哲贵",
+        "何玉茹",
+        "储福金",
+        "艾玛"
+      ],
+      "works": [
+        "《漫长的季节》",
+        "《彼此》",
+        "《她和她的麦子》",
+        "《不知》",
+        "《序曲》"
+      ],
+      "institutions": [
+        "中国作家协会"
+      ],
+      "places": [],
+      "p0": true,
+      "sourceCount": 1,
+      "metrics": "平台互动未接入",
+      "firstSeen": "2026-08-24T01:28:55.000Z",
+      "lastSeen": "2026-08-24T01:28:55.000Z"
     },
     {
       "id": "20260822-zhejiang-new-mass-literature",
@@ -672,6 +1262,43 @@
       "metrics": "平台互动未接入",
       "firstSeen": "2026-08-23T01:11:25.000Z",
       "lastSeen": "2026-08-23T01:11:25.000Z"
+    },
+    {
+      "id": "20260823-left-zongtang-sculpture-trend",
+      "type": "事件性热点",
+      "domain": "历史文化 / 平台热点",
+      "title": "《左公复疆》雕塑落成并形成微博传播热点",
+      "summary": "哈密落成高9.8米的左宗棠戎装骑马青铜雕塑，并同步举办边疆治理主题研讨；地方官方视频在微博形成较高观看量。",
+      "url": "https://weibo.com/2/detail/5334692708749527?utm_source=travel",
+      "source": "哈密发布、哈密零距离微博转述",
+      "sourceTitle": "左公的寸土不让被雕塑永久定格",
+      "sourceType": "地方机构平台公开页",
+      "publishedAt": "2026-08-22",
+      "platforms": [
+        "微博",
+        "新闻",
+        "短视频"
+      ],
+      "people": [
+        "左宗棠",
+        "张伟",
+        "胡泉纯"
+      ],
+      "works": [
+        "《左公复疆》"
+      ],
+      "institutions": [
+        "哈密市融媒体中心",
+        "中央美术学院"
+      ],
+      "places": [
+        "新疆哈密"
+      ],
+      "p0": true,
+      "sourceCount": 3,
+      "metrics": "微博公开页：7.8万次观看（抓取时展示）",
+      "firstSeen": "2026-08-24T01:28:55.000Z",
+      "lastSeen": "2026-08-24T01:28:55.000Z"
     },
     {
       "id": "20260821-hunan-ich-digital-platform",
@@ -1412,6 +2039,38 @@
       "firstSeen": "2026-08-22T01:02:28.000Z",
       "lastSeen": "2026-08-22T01:02:28.000Z",
       "metrics": "平台互动未接入"
+    },
+    {
+      "id": "20260821-child-sugar-painting-viral",
+      "type": "内容性热点",
+      "domain": "非遗 / 原生短视频",
+      "title": "“小孩姐”画非遗糖画走红，熟练收糖动作引发网友造梗",
+      "summary": "一名小女孩现场绘制糖画的视频在微博、抖音等平台传播，网友以“像干了20年的老师傅”“重生之我在街上卖非遗糖画”等表达参与二创。",
+      "url": "https://jingxuan.douyin.com/m/video/7676369050578046242",
+      "source": "中国网抖音精选页",
+      "sourceTitle": "“小孩姐”现场画糖画走红，收糖动作神似老师傅",
+      "sourceType": "平台公开短视频页",
+      "publishedAt": "2026-08-21",
+      "platforms": [
+        "抖音",
+        "微博",
+        "腾讯新闻",
+        "公开网页"
+      ],
+      "people": [],
+      "works": [
+        "非遗糖画"
+      ],
+      "institutions": [
+        "中国网",
+        "新华网"
+      ],
+      "places": [],
+      "p0": true,
+      "sourceCount": 4,
+      "metrics": "新浪聚合页显示：相关微博转发398、评论105（抓取时展示）",
+      "firstSeen": "2026-08-24T01:28:55.000Z",
+      "lastSeen": "2026-08-24T01:28:55.000Z"
     },
     {
       "id": "20260821-zheng-xiaoying-carmen-xiamen",
@@ -4753,31 +5412,34 @@
     }
   ],
   "meta": {
-    "total": 145,
+    "total": 164,
     "platforms": [
-      "抖音",
-      "新闻",
+      "官网",
       "公开网页",
+      "新闻",
+      "视频",
+      "戏剧",
+      "展览",
+      "抖音",
+      "电影",
+      "电视",
+      "线下活动",
+      "体育",
       "短视频",
       "微博",
       "小红书",
-      "电影",
       "动画",
       "微信",
-      "官网",
       "哔哩哔哩",
       "舞台演出",
       "漫画",
       "图文",
-      "电视",
       "网络直播",
       "音频",
-      "视频",
-      "戏剧",
+      "腾讯新闻",
       "视频号",
       "图片",
-      "央视新闻",
-      "腾讯新闻"
+      "央视新闻"
     ],
     "collector": "每日文化热点扫描写回 + TrendRadar增量 + 公开网页",
     "interactionMetrics": "未接入",
